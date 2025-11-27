@@ -1,0 +1,1501 @@
+time_to_event,event_occurred,high_risk,phq9_score,gad7_score,composite_mh_score,social_risk_score,age,gender,employment,phq9_category,gad7_category,bmi_category,age_group,comprehensive_risk_score,risk_quartile,clinical_risk_group,optimized_high_risk
+56.263794199258605,0,1,13,10,11.8,3,52,Male,Disabled,Moderate,Moderate,Normal,Older,8.851999999999999,Q4 (Highest),High,1
+665.0436314825822,0,1,11,4,8.2,3,42,Female,Disabled,Moderate,,Extreme Obesity,Middle,6.242000000000001,Q3,High,0
+1181.6807137893152,0,0,8,8,8.0,0,54,Female,Employed,Mild,Mild,Extreme Obesity,Older,5.654,Q2,Moderate,0
+53.26756464704293,1,1,13,7,10.6,1,67,Male,Employed,Moderate,Mild,Overweight,Elderly,7.567000000000001,Q4 (Highest),High,1
+172.16676675015856,0,0,4,7,5.2,3,41,Male,Unemployed,,Mild,Overweight,Middle,4.341000000000001,Q1 (Lowest),Moderate,0
+1010.666400121798,0,0,10,9,9.6,3,41,Male,Disabled,Moderate,Mild,Normal,Middle,7.340999999999999,Q4 (Highest),High,1
+232.21612338236932,0,0,8,5,6.8,3,68,Female,Unemployed,Mild,Mild,Extreme Obesity,Elderly,5.368,Q2,Moderate,0
+279.8137518588292,1,1,8,7,7.6,2,56,Female,Unemployed,Mild,Mild,Normal,Older,5.756000000000001,Q3,Moderate,0
+502.3886989951197,0,0,5,6,5.4,1,37,Female,Employed,Mild,Mild,Obese,Middle,4.037,Q1 (Lowest),Moderate,0
+86.28518431833592,0,0,9,8,8.6,4,53,Female,Disabled,Mild,Mild,Extreme Obesity,Older,6.853,Q4 (Highest),Moderate,1
+1412.680218611198,0,0,5,14,8.600000000000001,1,38,Male,Employed,Mild,Moderate,Overweight,Middle,6.438000000000001,Q3,High,1
+554.1254320572689,0,0,6,8,6.8,3,38,Male,Disabled,Mild,Mild,Obese,Middle,5.438000000000001,Q2,Moderate,0
+64.2362365635613,0,0,8,4,6.4,1,48,Male,Employed,Mild,,Extreme Obesity,Older,4.648000000000001,Q1 (Lowest),Moderate,0
+42.97375353794485,0,0,5,6,5.4,4,16,Male,Disabled,Mild,Mild,Overweight,Young,4.616,Q1 (Lowest),Moderate,0
+997.4223807063242,1,1,13,9,11.4,2,19,Male,Unemployed,Moderate,Mild,Overweight,Young,8.319,Q4 (Highest),High,1
+421.6738776343969,1,1,11,12,11.4,3,36,Male,Disabled,Moderate,Moderate,Overweight,Middle,8.636,Q4 (Highest),High,1
+14.355711913629682,0,0,9,6,7.8,4,29,Female,Disabled,Mild,Mild,Normal,Middle,6.229,Q3,Moderate,0
+55.89474406524944,0,0,6,12,8.4,0,49,Female,Employed,Mild,Moderate,Normal,Older,6.049,Q3,High,0
+17.888977045861573,0,0,9,7,8.2,3,31,Other,Disabled,Mild,Mild,Obese,Middle,6.331,Q3,Moderate,1
+1333.2742789610527,0,0,9,7,8.2,3,23,Female,Disabled,Mild,Mild,Overweight,Young,6.323,Q3,Moderate,1
+251.4332393070172,0,0,3,3,3.0,3,66,Female,Disabled,,,Overweight,Elderly,2.766,Q1 (Lowest),Low,0
+226.363022791996,0,0,7,6,6.6000000000000005,3,41,Male,Disabled,Mild,Mild,Normal,Middle,5.241,Q2,Moderate,0
+1138.2708237525762,1,1,8,11,9.2,3,46,Female,Unemployed,Mild,Moderate,Overweight,Older,7.146,Q4 (Highest),High,1
+256.3987847491121,0,0,8,8,8.0,0,23,Female,Employed,Mild,Mild,Obese,Young,5.622999999999999,Q2,Moderate,0
+266.19547745788947,0,0,7,11,8.600000000000001,4,36,Male,Disabled,Mild,Moderate,Normal,Middle,6.935999999999999,Q4 (Highest),High,1
+1511.5590897794227,0,0,6,6,6.0,0,46,Male,Employed,Mild,Mild,Overweight,Older,4.246,Q1 (Lowest),Moderate,0
+43.12268583789774,0,0,5,12,7.800000000000001,2,27,Female,Unemployed,Mild,Moderate,Underweight,Middle,6.027,Q3,High,0
+1551.7372916573725,0,0,10,5,8.0,2,50,Male,Unemployed,Moderate,Mild,Normal,Older,5.95,Q3,High,0
+66.1145450773118,0,0,5,8,6.2,3,35,Female,Disabled,Mild,Mild,Obese,Middle,5.035,Q2,Moderate,0
+233.7411614946157,0,0,8,15,10.8,0,40,Female,Employed,Mild,Severe,Overweight,Middle,7.74,Q4 (Highest),Very High,1
+150.34580962020587,0,1,8,10,8.8,1,35,Male,Employed,Mild,Moderate,Extreme Obesity,Middle,6.4350000000000005,Q3,High,1
+1135.3317552032847,0,1,8,12,9.6,0,72,Male,Employed,Mild,Moderate,Obese,Elderly,6.872,Q4 (Highest),High,1
+242.5666465268651,0,0,6,1,4.0,3,44,Male,Unemployed,Mild,,Obese,Middle,3.3440000000000003,Q1 (Lowest),Moderate,0
+8.49847223923475,0,0,8,3,6.0,3,29,Male,Unemployed,Mild,,Normal,Middle,4.728999999999999,Q1 (Lowest),Moderate,0
+91.48061939726968,1,1,7,10,8.2,3,57,Male,Disabled,Mild,Moderate,Overweight,Older,6.457000000000001,Q3,High,1
+205.693770304848,0,0,10,5,8.0,1,26,Female,Employed,Moderate,Mild,Normal,Middle,5.726,Q2,High,0
+411.7993698186201,0,0,7,6,6.6000000000000005,0,48,Male,Employed,Mild,Mild,Normal,Older,4.648,Q1 (Lowest),Moderate,0
+301.2399487865733,0,0,8,9,8.4,3,15,Female,Unemployed,Mild,Mild,Obese,Young,6.515,Q3,Moderate,1
+692.2281426174214,0,0,9,7,8.2,3,25,Male,Disabled,Mild,Mild,Obese,Young,6.325000000000001,Q3,Moderate,1
+643.4164686236755,0,1,8,6,7.2,3,47,Female,Disabled,Mild,Mild,Obese,Older,5.646999999999999,Q2,Moderate,0
+325.88699706360507,0,0,6,9,7.199999999999999,3,56,Male,Disabled,Mild,Mild,Normal,Older,5.755999999999999,Q3,Moderate,0
+309.166952752007,0,0,9,6,7.8,2,47,Male,Unemployed,Mild,Mild,Overweight,Older,5.847,Q3,Moderate,0
+118.97478119049434,0,0,7,6,6.6000000000000005,1,43,Female,Employed,Mild,Mild,Underweight,Middle,4.843,Q2,Moderate,0
+1156.2641035466552,0,0,8,5,6.8,4,40,Female,Disabled,Mild,Mild,Extreme Obesity,Middle,5.54,Q2,Moderate,0
+29.18722253392076,0,0,11,11,11.0,3,22,Male,Disabled,Moderate,Moderate,Normal,Young,8.322000000000001,Q4 (Highest),High,1
+184.64921612767483,0,0,7,9,7.800000000000001,0,34,Female,Employed,Mild,Mild,Normal,Middle,5.534,Q2,Moderate,0
+394.6639833801288,0,1,9,8,8.6,3,38,Female,Disabled,Mild,Mild,Overweight,Middle,6.638,Q3,Moderate,1
+1063.0813801373256,0,1,8,13,10.0,2,60,Female,Unemployed,Mild,Moderate,Overweight,Older,7.56,Q4 (Highest),High,1
+254.11716512061105,0,0,6,3,4.8,3,50,Male,Disabled,Mild,,Overweight,Older,3.95,Q1 (Lowest),Moderate,0
+825.8449754656853,0,0,6,2,4.4,0,18,Male,Employed,Mild,,Normal,Young,3.0180000000000002,Q1 (Lowest),Moderate,0
+40.408374006643534,1,1,14,11,12.8,2,49,Female,Unemployed,Moderate,Moderate,Obese,Older,9.349,Q4 (Highest),High,1
+276.8155846401576,0,0,12,2,7.999999999999999,4,39,Female,Disabled,Moderate,,Underweight,Middle,6.239,Q3,High,0
+138.65301787221867,0,0,5,9,6.6,0,34,Male,Employed,Mild,Mild,Normal,Middle,4.733999999999999,Q1 (Lowest),Moderate,0
+579.6747235701677,0,0,12,3,8.399999999999999,0,54,Female,Employed,Moderate,,Overweight,Older,5.754000000000001,Q3,High,0
+214.903903334547,1,1,8,5,6.8,0,60,Female,Employed,Mild,Mild,Normal,Older,4.76,Q1 (Lowest),Moderate,0
+235.36589118980845,1,1,7,9,7.800000000000001,0,58,Male,Employed,Mild,Mild,Extreme Obesity,Older,5.558,Q2,Moderate,0
+24.446138844637225,0,0,4,7,5.2,4,32,Female,Disabled,,Mild,Normal,Middle,4.532,Q1 (Lowest),Moderate,0
+210.33903611022103,0,0,5,10,7.0,3,40,Male,Disabled,Mild,Moderate,Extreme Obesity,Middle,5.64,Q2,High,0
+30.763211926060784,0,0,5,9,6.6,2,49,Female,Unemployed,Mild,Mild,Obese,Older,5.149,Q2,Moderate,0
+129.95810178283935,0,1,4,13,7.6,2,59,Female,Unemployed,,Moderate,Extreme Obesity,Older,5.9590000000000005,Q3,High,0
+49.52464462779049,0,0,7,9,7.800000000000001,0,37,Other,Employed,Mild,Mild,Extreme Obesity,Middle,5.537,Q2,Moderate,0
+148.62361198922292,0,0,9,5,7.399999999999999,0,42,Male,Employed,Mild,Mild,Overweight,Middle,5.1419999999999995,Q2,Moderate,0
+94.16224126708316,0,0,7,8,7.4,2,28,Male,Unemployed,Mild,Mild,Normal,Middle,5.628,Q2,Moderate,0
+122.5394249030984,0,0,6,4,5.199999999999999,3,27,Male,Disabled,Mild,,Overweight,Middle,4.227000000000001,Q1 (Lowest),Moderate,0
+58.626927323654726,0,0,7,6,6.6000000000000005,4,57,Male,Disabled,Mild,Mild,Normal,Older,5.457,Q2,Moderate,0
+211.3780880956253,1,1,4,9,6.0,3,65,Male,Disabled,,Mild,Normal,Older,4.965000000000001,Q2,Moderate,0
+251.2338203752176,0,0,9,4,7.0,0,43,Female,Employed,Mild,,Overweight,Middle,4.843,Q2,Moderate,0
+661.323796931188,0,1,10,6,8.4,2,60,Male,Unemployed,Moderate,Mild,Overweight,Older,6.26,Q3,High,1
+282.50217862812013,0,0,11,5,8.6,2,50,Male,Unemployed,Moderate,Mild,Normal,Older,6.3500000000000005,Q3,High,1
+94.80965004978016,1,1,11,5,8.6,2,35,Female,Unemployed,Moderate,Mild,Overweight,Middle,6.335000000000001,Q3,High,1
+485.96507535186015,0,0,8,7,7.6,3,50,Male,Disabled,Mild,Mild,Obese,Older,5.95,Q3,Moderate,0
+128.7535455582464,0,0,10,9,9.6,2,68,Female,Unemployed,Moderate,Mild,Obese,Elderly,7.167999999999999,Q4 (Highest),High,1
+515.4579517747783,0,0,9,7,8.2,2,44,Male,Unemployed,Mild,Mild,Underweight,Middle,6.144,Q3,Moderate,0
+178.72517384098896,1,1,8,9,8.4,3,68,Female,Disabled,Mild,Mild,Overweight,Elderly,6.568,Q3,Moderate,1
+263.12057329148246,0,0,3,8,5.0,0,5,Male,Employed,,Mild,Overweight,Young,3.605,Q1 (Lowest),Moderate,0
+255.75063359244928,1,1,5,12,7.800000000000001,0,57,Male,Employed,Mild,Moderate,Normal,Older,5.657,Q2,High,0
+1137.0930153233053,0,1,7,14,9.8,3,46,Female,Disabled,Mild,Moderate,Overweight,Older,7.646,Q4 (Highest),High,1
+60.89674200605216,0,0,7,11,8.600000000000001,2,40,Male,Unemployed,Mild,Moderate,Overweight,Middle,6.54,Q3,High,1
+1018.2122324519928,0,0,8,10,8.8,0,46,Female,Employed,Mild,Moderate,Obese,Older,6.246,Q3,High,0
+301.3112641140318,0,0,5,12,7.800000000000001,0,15,Male,Employed,Mild,Moderate,Overweight,Young,5.614999999999999,Q2,High,0
+1848.869103876064,0,0,7,4,5.800000000000001,0,41,Male,Employed,Mild,,Normal,Middle,4.041,Q1 (Lowest),Moderate,0
+310.72272961268857,0,0,7,6,6.6000000000000005,3,50,Female,Disabled,Mild,Mild,Extreme Obesity,Older,5.249999999999999,Q2,Moderate,0
+389.89575977265673,0,0,7,7,7.0,1,67,Male,Employed,Mild,Mild,Obese,Elderly,5.167000000000001,Q2,Moderate,0
+505.37630713516273,0,0,7,7,7.0,2,37,Female,Unemployed,Mild,Mild,Obese,Middle,5.337000000000001,Q2,Moderate,0
+629.5476358462442,0,1,10,5,8.0,3,32,Other,Disabled,Moderate,Mild,Obese,Middle,6.132,Q3,High,0
+236.9769959498971,0,0,7,8,7.4,3,37,Female,Disabled,Mild,Mild,Overweight,Middle,5.837000000000001,Q3,Moderate,0
+414.29317926623975,1,1,9,9,9.0,0,58,Female,Employed,Mild,Mild,Extreme Obesity,Older,6.358,Q3,Moderate,1
+348.2859507026289,0,0,7,6,6.6000000000000005,2,49,Male,Unemployed,Mild,Mild,Overweight,Older,5.049,Q2,Moderate,0
+190.7882730677398,0,0,5,6,5.4,3,37,Male,Disabled,Mild,Mild,Overweight,Middle,4.437,Q1 (Lowest),Moderate,0
+627.5224092031003,0,0,8,8,8.0,1,52,Male,Employed,Mild,Mild,Obese,Older,5.851999999999999,Q3,Moderate,0
+78.01820787618925,0,0,12,5,9.2,2,46,Female,Unemployed,Moderate,Mild,Extreme Obesity,Older,6.746000000000001,Q4 (Highest),High,1
+66.75067642479533,0,0,4,11,6.800000000000001,3,59,Other,Unemployed,,Moderate,Extreme Obesity,Older,5.559,Q2,High,0
+486.7156223153184,0,0,9,7,8.2,4,34,Male,Disabled,Mild,Mild,Obese,Middle,6.534,Q3,Moderate,1
+370.36195644136,0,0,7,7,7.0,0,40,Female,Employed,Mild,Mild,Obese,Middle,4.94,Q2,Moderate,0
+139.5131812755935,0,0,9,7,8.2,2,39,Male,Unemployed,Mild,Mild,Obese,Middle,6.139,Q3,Moderate,0
+367.998070409577,0,0,10,8,9.2,3,23,Female,Disabled,Moderate,Mild,Obese,Young,7.023,Q4 (Highest),High,1
+537.4602366644449,0,0,6,5,5.6,4,49,Female,Disabled,Mild,Mild,Extreme Obesity,Older,4.7490000000000006,Q1 (Lowest),Moderate,0
+89.27147690622012,1,1,11,7,9.4,3,48,Other,Disabled,Moderate,Mild,Overweight,Older,7.148,Q4 (Highest),High,1
+317.8512894129794,0,0,6,8,6.8,3,45,Female,Disabled,Mild,Mild,Extreme Obesity,Middle,5.445,Q2,Moderate,0
+635.4876246164986,0,0,9,7,8.2,4,41,Male,Disabled,Mild,Mild,Obese,Middle,6.541,Q3,Moderate,1
+193.35297066302903,0,0,9,6,7.8,3,23,Male,Unemployed,Mild,Mild,Obese,Young,6.023,Q3,Moderate,0
+309.5262427099711,0,0,7,6,6.6000000000000005,3,38,Male,Disabled,Mild,Mild,Extreme Obesity,Middle,5.2379999999999995,Q2,Moderate,0
+29.85380568139573,0,0,7,6,6.6000000000000005,0,39,Male,Employed,Mild,Mild,Obese,Middle,4.638999999999999,Q1 (Lowest),Moderate,0
+647.7720231304162,0,0,8,8,8.0,0,32,Male,Employed,Mild,Mild,Obese,Middle,5.632,Q2,Moderate,0
+580.4430503322892,0,0,12,7,10.0,2,42,Female,Unemployed,Moderate,Mild,Overweight,Middle,7.3420000000000005,Q4 (Highest),High,1
+222.3849684016236,0,0,7,5,6.2,3,51,Female,Disabled,Mild,Mild,Extreme Obesity,Older,4.9510000000000005,Q2,Moderate,0
+46.34757469424153,0,0,4,4,4.0,3,73,Female,Disabled,,,Obese,Elderly,3.473,Q1 (Lowest),Low,0
+394.1938841077527,1,1,7,5,6.2,2,47,Male,Unemployed,Mild,Mild,Overweight,Older,4.747000000000001,Q1 (Lowest),Moderate,0
+310.5875187928974,0,0,7,7,7.0,4,48,Female,Disabled,Mild,Mild,Obese,Older,5.748,Q3,Moderate,0
+919.5256677832152,0,0,7,9,7.800000000000001,3,43,Female,Disabled,Mild,Mild,Extreme Obesity,Middle,6.143,Q3,Moderate,0
+119.80693259667808,0,0,5,4,4.6,0,16,Male,Employed,Mild,,Normal,Young,3.216,Q1 (Lowest),Moderate,0
+11.994084386184898,0,0,7,8,7.4,4,44,Female,Disabled,Mild,Mild,Normal,Middle,6.044,Q3,Moderate,0
+107.31788580852955,0,0,6,6,6.0,2,45,Female,Unemployed,Mild,Mild,Extreme Obesity,Middle,4.6450000000000005,Q1 (Lowest),Moderate,0
+203.83559223928955,0,0,7,3,5.4,0,81,Male,Employed,Mild,,Obese,Elderly,3.781,Q1 (Lowest),Moderate,0
+61.6648352181676,0,0,7,5,6.2,2,42,Female,Unemployed,Mild,Mild,Overweight,Middle,4.742000000000001,Q1 (Lowest),Moderate,0
+1423.0828985301432,0,1,11,6,9.0,3,49,Female,Unemployed,Moderate,Mild,Overweight,Older,6.849000000000001,Q4 (Highest),High,1
+91.8089921166903,0,0,10,10,10.0,3,44,Male,Disabled,Moderate,Moderate,Extreme Obesity,Middle,7.643999999999999,Q4 (Highest),High,1
+413.4616695370559,0,0,8,7,7.6,3,27,Female,Disabled,Mild,Mild,Extreme Obesity,Middle,5.9270000000000005,Q3,Moderate,0
+220.9500890788796,0,0,11,3,7.8,1,62,Female,Employed,Moderate,,Normal,Older,5.562000000000001,Q2,High,0
+295.65485817310395,1,1,7,7,7.0,2,56,Female,Unemployed,Mild,Mild,Overweight,Older,5.356000000000001,Q2,Moderate,0
+984.8786956504324,1,1,11,7,9.4,3,56,Female,Unemployed,Moderate,Mild,Overweight,Older,7.156,Q4 (Highest),High,1
+276.79194919794736,0,0,4,10,6.4,3,31,Male,Disabled,,Moderate,Obese,Middle,5.230999999999999,Q2,High,0
+132.92182050662137,0,0,6,5,5.6,2,66,Female,Unemployed,Mild,Mild,Extreme Obesity,Elderly,4.3660000000000005,Q1 (Lowest),Moderate,0
+91.0696493436374,0,0,8,6,7.2,2,23,Female,Unemployed,Mild,Mild,Extreme Obesity,Young,5.423,Q2,Moderate,0
+812.328683182253,1,1,12,3,8.399999999999999,2,53,Male,Unemployed,Moderate,,Obese,Older,6.153000000000001,Q3,High,0
+1577.485345489593,1,1,6,7,6.4,3,77,Female,Unemployed,Mild,Mild,Extreme Obesity,Elderly,5.177,Q2,Moderate,0
+105.89669798118192,0,0,6,6,6.0,2,30,Female,Unemployed,Mild,Mild,Normal,Middle,4.630000000000001,Q1 (Lowest),Moderate,0
+467.1619822080983,0,0,8,13,10.0,0,36,Female,Employed,Mild,Moderate,Normal,Middle,7.135999999999999,Q4 (Highest),High,1
+257.2223789535024,0,1,10,8,9.2,2,46,Male,Unemployed,Moderate,Mild,Extreme Obesity,Older,6.846000000000001,Q4 (Highest),High,1
+437.730113217917,0,0,9,7,8.2,2,37,Female,Unemployed,Mild,Mild,Overweight,Middle,6.1370000000000005,Q3,Moderate,0
+1215.5283031140784,1,1,13,4,9.4,0,21,Male,Employed,Moderate,,Normal,Young,6.421,Q3,High,1
+117.92554480927537,0,1,8,6,7.2,3,46,Male,Disabled,Mild,Mild,Overweight,Older,5.646,Q2,Moderate,0
+491.6060565064776,0,0,11,6,9.0,3,29,Male,Disabled,Moderate,Mild,Overweight,Middle,6.829000000000001,Q4 (Highest),High,1
+210.2979585557064,1,1,10,8,9.2,0,52,Male,Employed,Moderate,Mild,Normal,Older,6.452,Q3,High,1
+385.8374071670558,0,0,11,5,8.6,0,31,Female,Employed,Moderate,Mild,Normal,Middle,5.931,Q3,High,0
+190.5205332886621,0,0,13,13,13.0,3,68,Female,Disabled,Moderate,Moderate,Overweight,Elderly,9.767999999999999,Q4 (Highest),High,1
+449.7357560088339,0,0,6,12,8.4,2,33,Male,Unemployed,Mild,Moderate,Normal,Middle,6.433000000000001,Q3,High,1
+150.2840427796098,0,1,12,13,12.4,2,40,Female,Unemployed,Moderate,Moderate,Obese,Middle,9.14,Q4 (Highest),High,1
+244.59542225910667,0,1,7,12,9.0,0,57,Female,Employed,Mild,Moderate,Underweight,Older,6.457000000000001,Q3,High,1
+450.3089457607962,0,0,9,3,6.6,2,26,Female,Unemployed,Mild,,Overweight,Middle,4.926,Q2,Moderate,0
+15.930628730110024,0,0,5,9,6.6,0,48,Male,Employed,Mild,Mild,Obese,Older,4.747999999999999,Q1 (Lowest),Moderate,0
+145.13501511503287,0,1,8,14,10.4,3,64,Female,Disabled,Mild,Moderate,Overweight,Older,8.064,Q4 (Highest),High,1
+288.3737241604304,0,0,10,7,8.8,3,20,Other,Unemployed,Moderate,Mild,Obese,Young,6.719999999999999,Q4 (Highest),High,1
+28.11486800338256,0,0,9,7,8.2,3,47,Female,Disabled,Mild,Mild,Normal,Older,6.347,Q3,Moderate,1
+443.3111617304511,0,0,2,4,2.8,2,48,Male,Unemployed,,,Normal,Older,2.448,Q1 (Lowest),Low,0
+612.5365641057736,0,0,8,3,6.0,3,56,Male,Unemployed,Mild,,Overweight,Older,4.755999999999999,Q1 (Lowest),Moderate,0
+65.08765257556783,0,0,7,4,5.800000000000001,2,26,Female,Unemployed,Mild,,Obese,Middle,4.426,Q1 (Lowest),Moderate,0
+482.6184074596338,0,0,4,5,4.4,1,25,Female,Employed,,Mild,Overweight,Young,3.325,Q1 (Lowest),Moderate,0
+379.2437155250818,1,1,8,3,6.0,3,52,Female,Disabled,Mild,,Extreme Obesity,Older,4.751999999999999,Q1 (Lowest),Moderate,0
+193.12982159537503,0,1,13,14,13.4,1,49,Female,Employed,Moderate,Moderate,Normal,Older,9.649,Q4 (Highest),High,1
+65.81290950598893,0,0,5,10,7.0,0,48,Male,Employed,Mild,Moderate,Normal,Older,5.048,Q2,High,0
+1130.9135820786894,0,0,4,6,4.800000000000001,3,50,Female,Disabled,,Mild,Extreme Obesity,Older,4.05,Q1 (Lowest),Moderate,0
+227.62918343842708,0,0,9,8,8.6,3,34,Female,Disabled,Mild,Mild,Normal,Middle,6.6339999999999995,Q3,Moderate,1
+74.0599869085461,0,0,4,11,6.800000000000001,0,48,Male,Employed,,Moderate,Obese,Older,4.948,Q2,High,0
+462.2472454770049,0,0,6,7,6.4,0,49,Female,Employed,Mild,Mild,Normal,Older,4.549,Q1 (Lowest),Moderate,0
+341.7251017913513,0,0,8,4,6.4,0,34,Other,Employed,Mild,,Underweight,Middle,4.434,Q1 (Lowest),Moderate,0
+618.2720884648401,0,0,11,3,7.8,4,72,Male,Disabled,Moderate,,Overweight,Elderly,6.172000000000001,Q3,High,0
+2024.2666136768803,0,0,8,7,7.6,0,52,Female,Employed,Mild,Mild,Obese,Older,5.352,Q2,Moderate,0
+16.755272174381446,0,0,4,10,6.4,3,27,Male,Disabled,,Moderate,Normal,Middle,5.226999999999999,Q2,High,0
+490.722574059976,0,0,6,6,6.0,1,54,Female,Employed,Mild,Mild,Obese,Older,4.454000000000001,Q1 (Lowest),Moderate,0
+1650.468087145437,0,0,9,5,7.399999999999999,4,30,Female,Disabled,Mild,Mild,Obese,Middle,5.93,Q3,Moderate,0
+282.03254228445707,1,1,9,11,9.8,1,56,Female,Employed,Mild,Moderate,Normal,Older,7.156000000000001,Q4 (Highest),High,1
+459.0723573778061,0,0,6,6,6.0,3,62,Female,Unemployed,Mild,Mild,Overweight,Older,4.862000000000001,Q2,Moderate,0
+212.35828721302315,0,0,10,4,7.6,2,32,Male,Unemployed,Moderate,,Extreme Obesity,Middle,5.632000000000001,Q2,High,0
+161.0594234663508,0,0,6,5,5.6,3,59,Female,Disabled,Mild,Mild,Obese,Older,4.559,Q1 (Lowest),Moderate,0
+435.1659922134877,0,0,4,4,4.0,4,51,Female,Disabled,,,Overweight,Older,3.651,Q1 (Lowest),Low,0
+1617.0693053292805,0,0,4,5,4.4,2,57,Male,Unemployed,,Mild,Obese,Older,3.557,Q1 (Lowest),Moderate,0
+35.09240824876595,0,1,8,8,8.0,3,73,Female,Disabled,Mild,Mild,Normal,Elderly,6.273,Q3,Moderate,1
+200.16293624100285,0,0,9,8,8.6,3,41,Female,Disabled,Mild,Mild,Obese,Middle,6.641,Q3,Moderate,1
+1030.678842387228,1,1,10,4,7.6,2,33,Male,Unemployed,Moderate,,Obese,Middle,5.633000000000001,Q2,High,0
+43.684265218733564,0,0,13,8,11.0,0,31,Female,Employed,Moderate,Mild,Overweight,Middle,7.630999999999999,Q4 (Highest),High,1
+384.15968608401135,0,0,11,6,9.0,4,32,Female,Disabled,Moderate,Mild,Overweight,Middle,7.032,Q4 (Highest),High,1
+205.27895701790072,0,0,8,9,8.4,4,43,Male,Disabled,Mild,Mild,Normal,Middle,6.743,Q4 (Highest),Moderate,1
+172.6581730247984,0,0,11,7,9.4,0,50,Other,Employed,Moderate,Mild,Normal,Older,6.55,Q3,High,1
+85.7799049147185,0,0,1,7,3.4000000000000004,1,49,Male,Employed,,Mild,Overweight,Older,2.749,Q1 (Lowest),Moderate,0
+70.806533274169,1,1,14,6,10.8,3,57,Male,Disabled,Moderate,Mild,Overweight,Older,8.057,Q4 (Highest),High,1
+265.08595940721773,0,0,10,9,9.6,3,45,Male,Disabled,Moderate,Mild,Obese,Middle,7.344999999999999,Q4 (Highest),High,1
+172.9774395669106,0,0,9,12,10.2,1,66,Female,Employed,Mild,Moderate,Obese,Elderly,7.465999999999999,Q4 (Highest),High,1
+246.8777331947294,0,0,10,5,8.0,3,41,Female,Disabled,Moderate,Mild,Overweight,Middle,6.141,Q3,High,0
+79.59855214622219,0,0,6,6,6.0,1,85,Male,Employed,Mild,Mild,Extreme Obesity,Elderly,4.485,Q1 (Lowest),Moderate,0
+157.34907350689835,0,1,12,12,12.0,0,54,Male,Employed,Moderate,Moderate,Normal,Older,8.454,Q4 (Highest),High,1
+2055.585863018465,0,0,6,6,6.0,4,32,Female,Disabled,Mild,Mild,Obese,Middle,5.032,Q2,Moderate,0
+167.52695573496666,0,0,11,7,9.4,3,28,Male,Disabled,Moderate,Mild,Normal,Middle,7.127999999999999,Q4 (Highest),High,1
+194.26581766199405,1,1,7,4,5.800000000000001,1,52,Female,Employed,Mild,,Extreme Obesity,Older,4.252,Q1 (Lowest),Moderate,0
+7.32783059989753,0,0,7,5,6.2,3,41,Female,Disabled,Mild,Mild,Overweight,Middle,4.941000000000001,Q2,Moderate,0
+174.96954599150206,0,0,7,14,9.8,0,55,Female,Employed,Mild,Moderate,Underweight,Older,7.055,Q4 (Highest),High,1
+526.0919217971037,0,0,3,7,4.6,2,52,Other,Unemployed,,Mild,Obese,Older,3.7520000000000002,Q1 (Lowest),Moderate,0
+264.5657433724101,0,0,5,2,3.8,2,43,Male,Unemployed,Mild,,Obese,Middle,3.043,Q1 (Lowest),Moderate,0
+390.60739616937536,0,0,7,5,6.2,1,32,Other,Employed,Mild,Mild,Overweight,Middle,4.532000000000001,Q1 (Lowest),Moderate,0
+296.8088915915734,1,1,14,7,11.2,0,22,Female,Employed,Moderate,Mild,Overweight,Young,7.722000000000001,Q4 (Highest),High,1
+40.6903394633658,0,0,9,6,7.8,3,38,Female,Disabled,Mild,Mild,Overweight,Middle,6.038,Q3,Moderate,0
+147.34439852235826,0,0,4,6,4.800000000000001,0,57,Male,Employed,,Mild,Underweight,Older,3.457,Q1 (Lowest),Moderate,0
+432.5002432231895,0,0,12,7,10.0,0,48,Female,Employed,Moderate,Mild,Underweight,Older,6.948,Q4 (Highest),High,1
+289.78734839424527,0,0,9,10,9.4,3,26,Male,Disabled,Mild,Moderate,Extreme Obesity,Middle,7.225999999999999,Q4 (Highest),High,1
+410.19076538338567,1,1,5,11,7.4,4,47,Male,Disabled,Mild,Moderate,Normal,Older,6.146999999999999,Q3,High,0
+162.99774168339852,0,0,5,7,5.800000000000001,2,50,Male,Unemployed,Mild,Mild,Extreme Obesity,Older,4.55,Q1 (Lowest),Moderate,0
+78.57933869674493,0,0,7,9,7.800000000000001,0,31,Female,Employed,Mild,Mild,Extreme Obesity,Middle,5.531,Q2,Moderate,0
+646.3651917417559,1,1,13,10,11.8,1,47,Female,Employed,Moderate,Moderate,Extreme Obesity,Older,8.447,Q4 (Highest),High,1
+172.31199383555042,0,0,10,8,9.2,3,45,Female,Unemployed,Moderate,Mild,Normal,Middle,7.045,Q4 (Highest),High,1
+388.4485962187894,0,0,10,5,8.0,0,27,Female,Employed,Moderate,Mild,Underweight,Middle,5.527,Q2,High,0
+175.21755176785962,0,0,5,10,7.0,3,50,Male,Disabled,Mild,Moderate,Normal,Older,5.6499999999999995,Q2,High,0
+956.5829740602928,0,0,7,9,7.800000000000001,0,53,Female,Employed,Mild,Mild,Overweight,Older,5.553,Q2,Moderate,0
+1759.576192557045,0,0,5,9,6.6,4,61,Male,Disabled,Mild,Mild,Underweight,Older,5.560999999999999,Q2,Moderate,0
+382.0696735641256,0,1,11,7,9.4,1,60,Female,Employed,Moderate,Mild,Overweight,Older,6.76,Q4 (Highest),High,1
+336.4143928848368,0,0,7,7,7.0,2,24,Female,Unemployed,Mild,Mild,Overweight,Young,5.324000000000001,Q2,Moderate,0
+670.7836737399034,0,0,9,8,8.6,4,30,Female,Disabled,Mild,Mild,Normal,Middle,6.83,Q4 (Highest),Moderate,1
+265.04453201870166,0,0,7,5,6.2,4,52,Female,Disabled,Mild,Mild,Normal,Older,5.152,Q2,Moderate,0
+743.2959528114305,0,0,8,6,7.2,3,52,Male,Unemployed,Mild,Mild,Overweight,Older,5.651999999999999,Q2,Moderate,0
+194.40824675917608,0,0,6,11,8.0,4,52,Female,Disabled,Mild,Moderate,Obese,Older,6.552,Q3,High,1
+11.832162507040067,1,1,2,9,4.8,2,102,Female,Unemployed,,Mild,Normal,,4.002,Q1 (Lowest),Moderate,0
+953.2703952948168,0,0,6,11,8.0,0,53,Female,Employed,Mild,Moderate,Overweight,Older,5.753,Q3,High,0
+466.6304010606928,1,1,6,9,7.199999999999999,2,62,Male,Unemployed,Mild,Mild,Overweight,Older,5.562,Q2,Moderate,0
+260.9445836619561,1,1,12,13,12.4,0,59,Female,Employed,Moderate,Moderate,Overweight,Older,8.759,Q4 (Highest),High,1
+1057.9495508531654,1,1,5,11,7.4,3,54,Female,Disabled,Mild,Moderate,Normal,Older,5.954000000000001,Q3,High,0
+795.0856544172422,0,0,5,9,6.6,3,40,Male,Disabled,Mild,Mild,Normal,Middle,5.339999999999999,Q2,Moderate,0
+41.88988691834423,0,1,6,6,6.0,3,56,Male,Unemployed,Mild,Mild,Extreme Obesity,Older,4.856000000000001,Q2,Moderate,0
+357.4166610361307,0,0,6,10,7.6,0,33,Female,Employed,Mild,Moderate,Obese,Middle,5.433000000000001,Q2,High,0
+281.93177417707426,0,1,9,8,8.6,3,41,Female,Unemployed,Mild,Mild,Obese,Middle,6.641,Q3,Moderate,1
+546.8526795766658,1,1,12,5,9.2,3,37,Male,Disabled,Moderate,Mild,Overweight,Middle,6.937,Q4 (Highest),High,1
+130.58699604234775,0,0,10,7,8.8,3,46,Male,Disabled,Moderate,Mild,Overweight,Older,6.7459999999999996,Q4 (Highest),High,1
+2.974298717082188,1,1,5,2,3.8,1,79,Male,Employed,Mild,,Obese,Elderly,2.8790000000000004,Q1 (Lowest),Moderate,0
+74.84602182856358,1,1,10,12,10.8,0,16,Male,Employed,Moderate,Moderate,Underweight,Young,7.616,Q4 (Highest),High,1
+86.47348425022832,0,1,12,4,8.799999999999999,4,55,Female,Disabled,Moderate,,Normal,Older,6.855,Q4 (Highest),High,1
+125.737824778241,0,0,4,5,4.4,3,20,Female,Disabled,,Mild,Normal,Young,3.72,Q1 (Lowest),Moderate,0
+168.870616336838,0,0,8,5,6.8,0,37,Female,Employed,Mild,Mild,Overweight,Middle,4.737,Q1 (Lowest),Moderate,0
+447.5134872231718,1,1,8,4,6.4,2,61,Female,Unemployed,Mild,,Normal,Older,4.861000000000001,Q2,Moderate,0
+28.158115938981187,1,1,7,12,9.0,2,45,Male,Unemployed,Mild,Moderate,Overweight,Middle,6.845000000000001,Q4 (Highest),High,1
+243.3080215823977,0,0,6,9,7.199999999999999,0,28,Female,Employed,Mild,Mild,Overweight,Middle,5.127999999999999,Q2,Moderate,0
+252.0099487913478,0,0,6,15,9.6,0,34,Female,Employed,Mild,Severe,Extreme Obesity,Middle,6.934,Q4 (Highest),Very High,1
+349.22239457696014,0,0,8,7,7.6,0,55,Other,Employed,Mild,Mild,Extreme Obesity,Older,5.355,Q2,Moderate,0
+135.72795562757173,0,0,9,4,7.0,4,34,Female,Disabled,Mild,,Normal,Middle,5.6339999999999995,Q2,Moderate,0
+109.7992478503715,0,0,11,3,7.8,2,48,Male,Unemployed,Moderate,,Overweight,Older,5.748000000000001,Q3,High,0
+241.42030643632012,1,1,11,15,12.6,1,45,Female,Employed,Moderate,Severe,Overweight,Middle,9.145,Q4 (Highest),Very High,1
+393.34493340454736,0,0,6,10,7.6,2,35,Male,Unemployed,Mild,Moderate,Overweight,Middle,5.835000000000001,Q3,High,0
+16.650160918496603,1,1,8,7,7.6,3,77,Female,Disabled,Mild,Mild,Normal,Elderly,5.977,Q3,Moderate,0
+126.85499245920646,0,0,10,7,8.8,4,54,Male,Disabled,Moderate,Mild,Normal,Older,6.954,Q4 (Highest),High,1
+564.9911844076338,0,0,6,5,5.6,1,14,Male,Employed,Mild,Mild,Overweight,Young,4.114000000000001,Q1 (Lowest),Moderate,0
+241.63580732485212,0,0,7,4,5.800000000000001,1,47,Female,Employed,Mild,,Normal,Older,4.247,Q1 (Lowest),Moderate,0
+1107.0200856624172,0,0,6,6,6.0,0,35,Male,Employed,Mild,Mild,Overweight,Middle,4.235,Q1 (Lowest),Moderate,0
+737.8429816746336,0,0,8,9,8.4,1,57,Female,Employed,Mild,Mild,Overweight,Older,6.157000000000001,Q3,Moderate,0
+153.85137616326514,1,1,8,8,8.0,2,33,Male,Unemployed,Mild,Mild,Overweight,Middle,6.033,Q3,Moderate,0
+472.90009428297446,0,0,13,5,9.8,1,43,Female,Employed,Moderate,Mild,Normal,Middle,6.9430000000000005,Q4 (Highest),High,1
+117.03004727919884,1,1,5,12,7.800000000000001,2,52,Female,Unemployed,Mild,Moderate,Overweight,Older,6.052,Q3,High,0
+70.34693869452406,0,0,9,5,7.399999999999999,3,57,Female,Disabled,Mild,Mild,Normal,Older,5.757,Q3,Moderate,0
+777.0130757011488,0,0,8,6,7.2,4,26,Male,Disabled,Mild,Mild,Overweight,Middle,5.826,Q3,Moderate,0
+157.37577155150538,0,0,11,7,9.4,3,39,Male,Unemployed,Moderate,Mild,Extreme Obesity,Middle,7.138999999999999,Q4 (Highest),High,1
+83.01021920200219,0,1,7,6,6.6000000000000005,2,37,Male,Unemployed,Mild,Mild,Overweight,Middle,5.037,Q2,Moderate,0
+1223.383641533666,0,0,8,11,9.2,0,35,Male,Employed,Mild,Moderate,Overweight,Middle,6.535,Q3,High,1
+11.504944316338138,0,0,4,6,4.800000000000001,1,71,Female,Employed,,Mild,Obese,Elderly,3.6710000000000003,Q1 (Lowest),Moderate,0
+166.85094046225962,0,0,7,4,5.800000000000001,0,51,Female,Employed,Mild,,Normal,Older,4.051,Q1 (Lowest),Moderate,0
+14.298993313653066,0,0,8,8,8.0,3,26,Female,Disabled,Mild,Mild,Extreme Obesity,Middle,6.225999999999999,Q3,Moderate,0
+256.00427825025565,0,1,12,8,10.4,2,58,Female,Unemployed,Moderate,Mild,Normal,Older,7.658000000000001,Q4 (Highest),High,1
+187.1671018523404,1,1,8,2,5.6,2,76,Female,Unemployed,Mild,,Obese,Elderly,4.276,Q1 (Lowest),Moderate,0
+465.50543731256914,1,1,7,6,6.6000000000000005,2,60,Female,Unemployed,Mild,Mild,Obese,Older,5.06,Q2,Moderate,0
+1124.1503300186043,0,0,9,4,7.0,2,22,Male,Unemployed,Mild,,Normal,Young,5.222,Q2,Moderate,0
+267.662213662006,0,0,9,8,8.6,1,37,Female,Employed,Mild,Mild,Obese,Middle,6.237,Q3,Moderate,0
+122.65158585824948,0,0,10,2,6.8,1,64,Female,Employed,Moderate,,Obese,Older,4.864,Q2,High,0
+750.8408194702836,0,0,4,2,3.2,2,34,Female,Unemployed,,,Extreme Obesity,Middle,2.634,Q1 (Lowest),Low,0
+338.6123543013631,1,1,5,7,5.800000000000001,0,51,Male,Employed,Mild,Mild,Overweight,Older,4.151,Q1 (Lowest),Moderate,0
+294.29266293794274,0,0,10,2,6.8,3,56,Male,Disabled,Moderate,,Overweight,Older,5.255999999999999,Q2,High,0
+76.27145874994555,1,1,13,9,11.4,1,31,Female,Employed,Moderate,Mild,Normal,Middle,8.131,Q4 (Highest),High,1
+15.124995666031092,1,1,13,6,10.2,4,44,Female,Disabled,Moderate,Mild,Underweight,Middle,7.843999999999999,Q4 (Highest),High,1
+225.8588170345226,0,0,7,4,5.800000000000001,4,-3,Female,Disabled,Mild,,Overweight,,4.797,Q1 (Lowest),Moderate,0
+274.06963774075064,1,1,8,11,9.2,2,29,Male,Unemployed,Mild,Moderate,Overweight,Middle,6.929,Q4 (Highest),High,1
+49.613387302317854,0,0,6,2,4.4,2,41,Other,Unemployed,Mild,,Overweight,Middle,3.4410000000000003,Q1 (Lowest),Moderate,0
+22.35030984124617,0,0,10,4,7.6,0,26,Male,Employed,Moderate,,Normal,Middle,5.226,Q2,High,0
+88.85879406183972,0,1,8,6,7.2,3,69,Male,Unemployed,Mild,Mild,Overweight,Elderly,5.669,Q2,Moderate,0
+23.789578709414304,0,0,5,11,7.4,4,23,Male,Disabled,Mild,Moderate,Obese,Young,6.122999999999999,Q3,High,0
+21.088091328843365,0,0,10,7,8.8,4,38,Female,Disabled,Moderate,Mild,Obese,Middle,6.938,Q4 (Highest),High,1
+214.3593911724101,1,1,13,8,11.0,1,46,Female,Employed,Moderate,Mild,Underweight,Older,7.846,Q4 (Highest),High,1
+606.6362851205996,1,1,3,9,5.4,3,66,Male,Disabled,,Mild,Obese,Elderly,4.566,Q1 (Lowest),Moderate,0
+398.0723152650619,0,0,10,4,7.6,2,23,Female,Unemployed,Moderate,,Overweight,Young,5.623,Q2,High,0
+415.2253281748288,0,0,1,11,5.0,0,62,Male,Employed,,Moderate,Overweight,Older,3.7619999999999996,Q1 (Lowest),High,0
+111.10716042181394,0,0,5,9,6.6,1,45,Female,Employed,Mild,Mild,Underweight,Middle,4.944999999999999,Q2,Moderate,0
+4.075698269722402,0,0,10,7,8.8,0,30,Female,Employed,Moderate,Mild,Extreme Obesity,Middle,6.13,Q3,High,0
+218.63985923439893,0,1,13,5,9.8,2,51,Female,Unemployed,Moderate,Mild,Overweight,Older,7.151000000000001,Q4 (Highest),High,1
+172.7939421733896,1,1,11,7,9.4,4,47,Male,Disabled,Moderate,Mild,Normal,Older,7.3469999999999995,Q4 (Highest),High,1
+1073.796118119491,0,0,6,7,6.4,2,35,Other,Unemployed,Mild,Mild,Obese,Middle,4.9350000000000005,Q2,Moderate,0
+27.28176903106144,0,0,9,6,7.8,1,46,Female,Employed,Mild,Mild,Obese,Older,5.646000000000001,Q2,Moderate,0
+546.763779839822,1,1,11,14,12.2,3,39,Male,Disabled,Moderate,Moderate,Extreme Obesity,Middle,9.239,Q4 (Highest),High,1
+177.68563239064986,0,0,8,3,6.0,1,46,Female,Employed,Mild,,Overweight,Older,4.346,Q1 (Lowest),Moderate,0
+645.9489058572309,0,0,6,9,7.199999999999999,3,54,Male,Unemployed,Mild,Mild,Overweight,Older,5.754,Q3,Moderate,0
+249.30028623146163,0,1,4,8,5.6,0,68,Female,Employed,,Mild,Normal,Elderly,4.068,Q1 (Lowest),Moderate,0
+626.9204034965122,0,0,10,8,9.2,2,26,Male,Unemployed,Moderate,Mild,Obese,Middle,6.8260000000000005,Q4 (Highest),High,1
+229.5665338314707,0,1,13,8,11.0,0,76,Female,Employed,Moderate,Mild,Normal,Elderly,7.675999999999999,Q4 (Highest),High,1
+187.5843102208481,0,0,6,9,7.199999999999999,0,15,Female,Employed,Mild,Mild,Normal,Young,5.114999999999999,Q2,Moderate,0
+1210.402665812364,0,0,6,9,7.199999999999999,0,42,Male,Employed,Mild,Mild,Overweight,Middle,5.1419999999999995,Q2,Moderate,0
+167.981961235198,0,0,8,5,6.8,2,53,Male,Unemployed,Mild,Mild,Normal,Older,5.1530000000000005,Q2,Moderate,0
+597.2478603495391,1,1,8,8,8.0,3,49,Male,Unemployed,Mild,Mild,Extreme Obesity,Older,6.249,Q3,Moderate,1
+25.32553312769332,0,0,10,6,8.4,2,35,Female,Unemployed,Moderate,Mild,Extreme Obesity,Middle,6.235,Q3,High,0
+23.61442675961301,0,1,7,15,10.2,2,41,Male,Unemployed,Mild,Severe,Overweight,Middle,7.741000000000001,Q4 (Highest),Very High,1
+210.4027765362169,1,1,8,11,9.2,2,37,Female,Unemployed,Mild,Moderate,Normal,Middle,6.937,Q4 (Highest),High,1
+321.5108396344992,0,0,8,8,8.0,3,36,Male,Disabled,Mild,Mild,Obese,Middle,6.235999999999999,Q3,Moderate,0
+342.3167170866092,1,1,13,9,11.4,1,57,Male,Employed,Moderate,Mild,Overweight,Older,8.157,Q4 (Highest),High,1
+13.528567751394837,0,1,8,4,6.4,3,50,Female,Unemployed,Mild,,Extreme Obesity,Older,5.05,Q2,Moderate,0
+435.5050804377306,0,0,6,14,9.2,3,34,Male,Disabled,Mild,Moderate,Normal,Middle,7.234000000000001,Q4 (Highest),High,1
+50.79960996492591,0,0,9,5,7.399999999999999,3,58,Female,Disabled,Mild,Mild,Obese,Older,5.757999999999999,Q3,Moderate,0
+1134.7078198426466,0,0,6,7,6.4,1,49,Female,Employed,Mild,Mild,Overweight,Older,4.7490000000000006,Q1 (Lowest),Moderate,0
+148.11272670491155,1,1,7,8,7.4,0,57,Female,Employed,Mild,Mild,Normal,Older,5.257000000000001,Q2,Moderate,0
+110.6168077013714,0,0,6,8,6.8,0,54,Female,Employed,Mild,Mild,Overweight,Older,4.854000000000001,Q2,Moderate,0
+125.66038363536062,0,0,12,8,10.4,2,32,Female,Unemployed,Moderate,Mild,Obese,Middle,7.6320000000000014,Q4 (Highest),High,1
+1011.1399772908444,0,0,4,11,6.800000000000001,1,36,Male,Employed,,Moderate,Overweight,Middle,5.136,Q2,High,0
+240.6829400850192,0,0,7,8,7.4,1,56,Male,Employed,Mild,Mild,Overweight,Older,5.456,Q2,Moderate,0
+208.1824567851939,0,0,6,6,6.0,0,54,Male,Employed,Mild,Mild,Normal,Older,4.2540000000000004,Q1 (Lowest),Moderate,0
+304.5838319455653,1,1,10,8,9.2,3,44,Female,Disabled,Moderate,Mild,Obese,Middle,7.044,Q4 (Highest),High,1
+974.6244723212616,0,0,3,3,3.0,2,46,Male,Unemployed,,,Obese,Older,2.546,Q1 (Lowest),Low,0
+134.5611100247628,0,0,7,8,7.4,0,64,Female,Employed,Mild,Mild,Overweight,Older,5.264,Q2,Moderate,0
+72.79977988594379,0,0,6,7,6.4,3,36,Other,Disabled,Mild,Mild,Overweight,Middle,5.135999999999999,Q2,Moderate,0
+330.35461130625987,1,1,7,8,7.4,2,53,Female,Unemployed,Mild,Mild,Extreme Obesity,Older,5.6530000000000005,Q2,Moderate,0
+246.9713458404113,0,0,5,2,3.8,1,41,Female,Employed,Mild,,Normal,Middle,2.841,Q1 (Lowest),Moderate,0
+23.34959693805543,0,0,10,7,8.8,3,41,Male,Disabled,Moderate,Mild,Obese,Middle,6.741,Q4 (Highest),High,1
+269.3749039800982,0,0,8,6,7.2,2,61,Female,Unemployed,Mild,Mild,Normal,Older,5.461,Q2,Moderate,0
+301.6691709151804,0,0,6,4,5.199999999999999,0,57,Female,Employed,Mild,,Extreme Obesity,Older,3.6570000000000005,Q1 (Lowest),Moderate,0
+432.4018082363888,0,0,7,7,7.0,0,57,Male,Employed,Mild,Mild,Overweight,Older,4.957000000000001,Q2,Moderate,0
+1975.7716077748464,0,0,6,9,7.199999999999999,4,64,Male,Disabled,Mild,Mild,Extreme Obesity,Older,5.9639999999999995,Q3,Moderate,0
+199.8216846973171,0,0,14,9,12.0,0,45,Female,Employed,Moderate,Mild,Normal,Middle,8.345,Q4 (Highest),High,1
+260.5241581246927,1,1,9,11,9.8,3,55,Female,Disabled,Mild,Moderate,Normal,Older,7.555,Q4 (Highest),High,1
+28.45687495028861,0,0,7,11,8.600000000000001,3,40,Female,Disabled,Mild,Moderate,Overweight,Middle,6.739999999999999,Q4 (Highest),High,1
+650.1899475389275,0,0,8,6,7.2,4,49,Female,Disabled,Mild,Mild,Overweight,Older,5.849,Q3,Moderate,0
+37.70942680235992,0,0,8,6,7.2,2,43,Female,Unemployed,Mild,Mild,Normal,Middle,5.4430000000000005,Q2,Moderate,0
+991.1678761722995,0,0,12,7,10.0,3,46,Female,Disabled,Moderate,Mild,Obese,Older,7.546,Q4 (Highest),High,1
+156.39461867351636,0,1,10,8,9.2,3,53,Male,Unemployed,Moderate,Mild,Overweight,Older,7.053,Q4 (Highest),High,1
+150.32861124644617,0,0,11,5,8.6,0,32,Male,Employed,Moderate,Mild,Underweight,Middle,5.932,Q3,High,0
+145.41730326825555,1,1,9,9,9.0,2,76,Male,Unemployed,Mild,Mild,Obese,Elderly,6.776,Q4 (Highest),Moderate,1
+1097.0339428966254,0,0,5,6,5.4,4,29,Female,Disabled,Mild,Mild,Normal,Middle,4.629,Q1 (Lowest),Moderate,0
+1429.8611926299718,0,0,6,8,6.8,1,26,Female,Employed,Mild,Mild,Overweight,Middle,5.026000000000001,Q2,Moderate,0
+1321.6148554168851,1,1,8,7,7.6,3,62,Female,Disabled,Mild,Mild,Extreme Obesity,Older,5.962000000000001,Q3,Moderate,0
+445.3214099537591,0,0,6,9,7.199999999999999,4,56,Male,Disabled,Mild,Mild,Extreme Obesity,Older,5.9559999999999995,Q3,Moderate,0
+42.96906551357156,0,0,10,2,6.8,0,54,Female,Employed,Moderate,,Normal,Older,4.654,Q1 (Lowest),High,0
+178.24792205480531,1,1,10,10,10.0,3,54,Female,Disabled,Moderate,Moderate,Obese,Older,7.654,Q4 (Highest),High,1
+124.65401300548923,0,0,7,6,6.6000000000000005,2,44,Female,Unemployed,Mild,Mild,Normal,Middle,5.044,Q2,Moderate,0
+449.802787121605,0,0,8,7,7.6,1,31,Female,Employed,Mild,Mild,Overweight,Middle,5.531000000000001,Q2,Moderate,0
+247.6755020637929,0,0,12,9,10.8,0,46,Male,Employed,Moderate,Mild,Normal,Older,7.546,Q4 (Highest),High,1
+349.82299894358533,0,0,8,11,9.2,1,34,Female,Employed,Mild,Moderate,Underweight,Middle,6.734,Q4 (Highest),High,1
+3.200836438019515,0,0,8,2,5.6,3,59,Male,Disabled,Mild,,Overweight,Older,4.4590000000000005,Q1 (Lowest),Moderate,0
+557.4395630581599,0,0,12,9,10.8,4,42,Male,Disabled,Moderate,Mild,Overweight,Middle,8.342,Q4 (Highest),High,1
+1108.7366956293315,0,0,5,6,5.4,0,32,Female,Employed,Mild,Mild,Normal,Middle,3.832,Q1 (Lowest),Moderate,0
+403.9693353437753,0,0,6,8,6.8,3,40,Female,Unemployed,Mild,Mild,Obese,Middle,5.44,Q2,Moderate,0
+697.1938363993952,1,1,9,3,6.6,4,51,Other,Disabled,Mild,,Overweight,Older,5.351,Q2,Moderate,0
+237.4571294707041,0,0,8,9,8.4,3,36,Female,Disabled,Mild,Mild,Normal,Middle,6.536,Q3,Moderate,1
+7.451495318309358,0,0,13,6,10.2,3,32,Female,Disabled,Moderate,Mild,Obese,Middle,7.632,Q4 (Highest),High,1
+1698.4285707632173,0,0,5,2,3.8,2,48,Female,Unemployed,Mild,,Normal,Older,3.048,Q1 (Lowest),Moderate,0
+22.131330147331106,0,0,8,4,6.4,3,48,Female,Disabled,Mild,,Obese,Older,5.048,Q2,Moderate,0
+78.16542627120691,0,0,4,6,4.800000000000001,3,37,Male,Disabled,,Mild,Overweight,Middle,4.037,Q1 (Lowest),Moderate,0
+19.66079011996276,0,0,3,7,4.6,2,37,Male,Unemployed,,Mild,Obese,Middle,3.737,Q1 (Lowest),Moderate,0
+357.96218944315126,0,1,13,12,12.6,2,48,Male,Unemployed,Moderate,Moderate,Extreme Obesity,Older,9.248000000000001,Q4 (Highest),High,1
+319.45637092560173,0,1,6,8,6.8,3,23,Female,Disabled,Mild,Mild,Obese,Young,5.423,Q2,Moderate,0
+85.88605550319649,0,0,7,10,8.2,0,23,Male,Employed,Mild,Moderate,Normal,Young,5.823,Q3,High,0
+1145.5610223973745,0,0,10,8,9.2,0,34,Male,Employed,Moderate,Mild,Normal,Middle,6.434,Q3,High,1
+893.3201430536326,0,0,7,6,6.6000000000000005,2,41,Male,Unemployed,Mild,Mild,Normal,Middle,5.041,Q2,Moderate,0
+119.8077074016525,1,1,8,6,7.2,3,49,Other,Disabled,Mild,Mild,Obese,Older,5.649,Q2,Moderate,0
+392.5488473178268,1,1,8,8,8.0,2,67,Male,Unemployed,Mild,Mild,Overweight,Elderly,6.067,Q3,Moderate,0
+705.4106999457517,1,1,7,7,7.0,2,57,Female,Unemployed,Mild,Mild,Normal,Older,5.357000000000001,Q2,Moderate,0
+162.7796682853723,0,0,8,10,8.8,0,42,Male,Employed,Mild,Moderate,Overweight,Middle,6.242,Q3,High,0
+106.75161254647644,0,0,8,12,9.6,3,44,Female,Unemployed,Mild,Moderate,Obese,Middle,7.444,Q4 (Highest),High,1
+108.02889511954908,0,0,9,6,7.8,2,29,Male,Unemployed,Mild,Mild,Obese,Middle,5.829000000000001,Q3,Moderate,0
+626.8282572590405,0,0,6,8,6.8,4,44,Male,Disabled,Mild,Mild,Obese,Middle,5.644,Q2,Moderate,0
+226.98910239099231,0,0,8,3,6.0,3,40,Female,Disabled,Mild,,Obese,Middle,4.739999999999999,Q1 (Lowest),Moderate,0
+458.6053008570696,1,1,11,4,8.2,2,49,Male,Unemployed,Moderate,,Overweight,Older,6.049000000000001,Q3,High,0
+383.4988896759597,0,0,12,14,12.8,2,32,Male,Unemployed,Moderate,Moderate,Overweight,Middle,9.432,Q4 (Highest),High,1
+133.44713625786386,1,1,7,5,6.2,3,52,Male,Disabled,Mild,Mild,Overweight,Older,4.952,Q2,Moderate,0
+85.15111979116953,0,0,9,7,8.2,0,67,Male,Employed,Mild,Mild,Overweight,Elderly,5.767,Q3,Moderate,0
+49.066775434927926,0,0,6,5,5.6,3,43,Male,Disabled,Mild,Mild,Obese,Middle,4.543,Q1 (Lowest),Moderate,0
+8.824059399250753,0,1,9,6,7.8,3,51,Male,Disabled,Mild,Mild,Obese,Older,6.051,Q3,Moderate,0
+30.933097725321183,1,1,5,4,4.6,3,55,Female,Disabled,Mild,,Normal,Older,3.8550000000000004,Q1 (Lowest),Moderate,0
+108.05673554855169,0,0,13,7,10.6,3,38,Female,Disabled,Moderate,Mild,Obese,Middle,7.938000000000001,Q4 (Highest),High,1
+456.38303067653135,0,1,12,8,10.4,3,48,Female,Disabled,Moderate,Mild,Overweight,Older,7.848000000000001,Q4 (Highest),High,1
+61.43779379446303,0,0,8,9,8.4,0,45,Male,Employed,Mild,Mild,Obese,Middle,5.945,Q3,Moderate,0
+270.48982436228164,0,0,8,9,8.4,4,46,Female,Disabled,Mild,Mild,Overweight,Older,6.746,Q4 (Highest),Moderate,1
+102.64255156229407,0,0,5,9,6.6,3,33,Male,Disabled,Mild,Mild,Obese,Middle,5.332999999999999,Q2,Moderate,0
+261.72330754301026,0,0,9,10,9.4,0,45,Male,Employed,Mild,Moderate,Overweight,Middle,6.645,Q3,High,1
+506.0137583545295,0,0,3,7,4.6,2,52,Female,Unemployed,,Mild,Obese,Older,3.7520000000000002,Q1 (Lowest),Moderate,0
+112.86549765152328,0,0,8,7,7.6,1,66,Male,Employed,Mild,Mild,Overweight,Elderly,5.566000000000001,Q2,Moderate,0
+156.0577693149726,1,1,10,8,9.2,3,59,Male,Disabled,Moderate,Mild,Overweight,Older,7.059,Q4 (Highest),High,1
+468.5650354636077,1,1,8,9,8.4,3,77,Female,Unemployed,Mild,Mild,Obese,Elderly,6.577,Q3,Moderate,1
+288.4971180468466,0,0,13,6,10.2,0,33,Female,Employed,Moderate,Mild,Overweight,Middle,7.033,Q4 (Highest),High,1
+36.25967819797,0,0,3,7,4.6,2,58,Female,Unemployed,,Mild,Extreme Obesity,Older,3.758,Q1 (Lowest),Moderate,0
+518.1011597991569,1,1,9,8,8.6,1,47,Female,Employed,Mild,Mild,Obese,Older,6.247,Q3,Moderate,1
+118.60799947102176,0,0,4,6,4.800000000000001,0,77,Other,Employed,,Mild,Overweight,Elderly,3.477,Q1 (Lowest),Moderate,0
+177.472815903472,0,0,12,5,9.2,2,32,Male,Unemployed,Moderate,Mild,Obese,Middle,6.732000000000001,Q4 (Highest),High,1
+102.66424131083215,0,0,8,5,6.8,2,32,Male,Unemployed,Mild,Mild,Overweight,Middle,5.132000000000001,Q2,Moderate,0
+286.10649823416963,0,0,6,6,6.0,2,36,Male,Unemployed,Mild,Mild,Obese,Middle,4.636,Q1 (Lowest),Moderate,0
+449.026032125712,1,1,8,6,7.2,2,13,Male,Unemployed,Mild,Mild,Obese,Young,5.413,Q2,Moderate,0
+593.3624088000838,0,0,8,11,9.2,4,37,Male,Disabled,Mild,Moderate,Extreme Obesity,Middle,7.337,Q4 (Highest),High,1
+931.7045968985262,0,0,7,8,7.4,0,33,Female,Employed,Mild,Mild,Overweight,Middle,5.2330000000000005,Q2,Moderate,0
+162.44831229186653,0,0,9,8,8.6,3,47,Female,Disabled,Mild,Mild,Normal,Older,6.646999999999999,Q3,Moderate,1
+984.522318607752,0,0,9,3,6.6,0,50,Female,Employed,Mild,,Normal,Older,4.55,Q1 (Lowest),Moderate,0
+350.2547795106769,1,1,6,11,8.0,3,73,Male,Disabled,Mild,Moderate,Overweight,Elderly,6.373000000000001,Q3,High,1
+180.17562913304545,0,0,5,5,5.0,4,59,Female,Disabled,Mild,Mild,Extreme Obesity,Older,4.359,Q1 (Lowest),Moderate,0
+796.7851642519861,0,0,7,12,9.0,0,36,Other,Employed,Mild,Moderate,Extreme Obesity,Middle,6.436,Q3,High,1
+316.31587160569364,0,0,8,8,8.0,3,31,Female,Disabled,Mild,Mild,Obese,Middle,6.230999999999999,Q3,Moderate,0
+221.0643383138394,0,0,8,5,6.8,2,52,Male,Unemployed,Mild,Mild,Overweight,Older,5.152,Q2,Moderate,0
+4.222394728643391,0,0,7,3,5.4,3,25,Female,Unemployed,Mild,,Overweight,Young,4.325000000000001,Q1 (Lowest),Moderate,0
+461.3982002843976,1,1,8,10,8.8,3,72,Male,Disabled,Mild,Moderate,Obese,Elderly,6.872000000000001,Q4 (Highest),High,1
+29.38364655523513,1,1,5,3,4.2,3,62,Male,Disabled,Mild,,Extreme Obesity,Older,3.562,Q1 (Lowest),Moderate,0
+124.6969584481799,0,0,12,6,9.6,1,37,Male,Employed,Moderate,Mild,Extreme Obesity,Middle,6.837000000000001,Q4 (Highest),High,1
+1190.687552732178,0,0,7,11,8.600000000000001,1,19,Female,Employed,Mild,Moderate,Obese,Young,6.319,Q3,High,1
+61.5648707778662,1,1,10,3,7.2,3,65,Female,Disabled,Moderate,,Obese,Older,5.565,Q2,High,0
+136.38336468405575,0,0,5,5,5.0,1,43,Male,Employed,Mild,Mild,Obese,Middle,3.7430000000000003,Q1 (Lowest),Moderate,0
+983.0364886131068,1,1,8,7,7.6,2,63,Male,Unemployed,Mild,Mild,Overweight,Older,5.763000000000001,Q3,Moderate,0
+150.38446063385098,0,0,6,7,6.4,3,21,Female,Unemployed,Mild,Mild,Normal,Young,5.1209999999999996,Q2,Moderate,0
+145.45318296681796,0,0,6,7,6.4,3,36,Male,Unemployed,Mild,Mild,Overweight,Middle,5.135999999999999,Q2,Moderate,0
+381.0582104823291,0,0,11,5,8.6,1,45,Male,Employed,Moderate,Mild,Obese,Middle,6.1450000000000005,Q3,High,0
+51.40051592220534,0,0,10,10,10.0,0,45,Male,Employed,Moderate,Moderate,Normal,Middle,7.045,Q4 (Highest),High,1
+1315.009043274441,0,0,9,8,8.6,0,38,Female,Employed,Mild,Mild,Overweight,Middle,6.038,Q3,Moderate,0
+117.3894235981687,0,0,9,4,7.0,0,54,Male,Employed,Mild,,Normal,Older,4.854,Q2,Moderate,0
+562.2190863737815,0,1,9,10,9.4,3,28,Male,Disabled,Mild,Moderate,Obese,Middle,7.227999999999999,Q4 (Highest),High,1
+123.78459290698684,0,1,5,8,6.2,3,42,Male,Disabled,Mild,Mild,Normal,Middle,5.042,Q2,Moderate,0
+117.56555986124675,1,1,11,8,9.8,3,46,Female,Disabled,Moderate,Mild,Overweight,Older,7.446000000000001,Q4 (Highest),High,1
+21.619987732995728,0,0,7,10,8.2,3,52,Female,Disabled,Mild,Moderate,Normal,Older,6.452,Q3,High,1
+46.37751748496725,0,0,6,6,6.0,2,55,Female,Unemployed,Mild,Mild,Extreme Obesity,Older,4.655,Q1 (Lowest),Moderate,0
+269.3977978715288,0,0,5,11,7.4,0,28,Male,Employed,Mild,Moderate,Underweight,Middle,5.327999999999999,Q2,High,0
+313.9045408788068,0,0,10,7,8.8,3,21,Female,Unemployed,Moderate,Mild,Obese,Young,6.720999999999999,Q4 (Highest),High,1
+617.5688506308104,0,1,8,8,8.0,0,64,Male,Employed,Mild,Mild,Normal,Older,5.664,Q2,Moderate,0
+22.66808960444928,0,0,10,4,7.6,4,49,Female,Disabled,Moderate,,Normal,Older,6.049,Q3,High,0
+160.70577249020886,0,0,9,8,8.6,2,33,Female,Unemployed,Mild,Mild,Overweight,Middle,6.433000000000001,Q3,Moderate,1
+81.51987903694435,1,1,10,10,10.0,1,68,Female,Employed,Moderate,Moderate,Overweight,Elderly,7.268,Q4 (Highest),High,1
+161.68631308128664,1,1,9,8,8.6,4,46,Female,Disabled,Mild,Mild,Overweight,Older,6.846,Q4 (Highest),Moderate,1
+159.66217026681014,1,1,9,7,8.2,1,62,Female,Employed,Mild,Mild,Overweight,Older,5.962000000000001,Q3,Moderate,0
+159.6469669940376,0,0,11,9,10.2,0,46,Male,Employed,Moderate,Mild,Normal,Older,7.146,Q4 (Highest),High,1
+135.24438699399371,1,1,10,4,7.6,3,75,Female,Disabled,Moderate,,Overweight,Elderly,5.875000000000001,Q3,High,0
+526.9981952057249,0,0,7,8,7.4,2,71,Male,Unemployed,Mild,Mild,Overweight,Elderly,5.671,Q2,Moderate,0
+427.1361285493482,0,0,9,10,9.4,1,41,Female,Employed,Mild,Moderate,Overweight,Middle,6.841,Q4 (Highest),High,1
+152.47657072249532,0,0,9,4,7.0,3,59,Male,Disabled,Mild,,Overweight,Older,5.4590000000000005,Q2,Moderate,0
+57.814465938098,0,0,2,9,4.8,0,54,Male,Employed,,Mild,Obese,Older,3.554,Q1 (Lowest),Moderate,0
+266.5934483402507,0,1,11,10,10.6,0,65,Male,Employed,Moderate,Moderate,Overweight,Older,7.465000000000001,Q4 (Highest),High,1
+916.6707311934414,0,0,9,11,9.8,0,30,Male,Employed,Mild,Moderate,Overweight,Middle,6.930000000000001,Q4 (Highest),High,1
+48.1384918268444,0,0,5,1,3.4,2,55,Female,Unemployed,Mild,,Overweight,Older,2.755,Q1 (Lowest),Moderate,0
+510.44804391887095,0,0,2,9,4.8,2,60,Female,Unemployed,,Mild,Normal,Older,3.96,Q1 (Lowest),Moderate,0
+333.87995066059585,0,0,6,6,6.0,3,18,Male,Unemployed,Mild,Mild,Overweight,Young,4.8180000000000005,Q1 (Lowest),Moderate,0
+324.180334045924,0,0,6,10,7.6,3,27,Male,Unemployed,Mild,Moderate,Extreme Obesity,Middle,6.027,Q3,High,0
+995.7592770834714,0,0,6,5,5.6,4,14,Female,Disabled,Mild,Mild,Obese,Young,4.714,Q1 (Lowest),Moderate,0
+1139.6089375265867,0,0,8,6,7.2,2,40,Male,Unemployed,Mild,Mild,Normal,Middle,5.44,Q2,Moderate,0
+102.01820796418706,0,0,7,3,5.4,0,55,Female,Employed,Mild,,Obese,Older,3.7550000000000003,Q1 (Lowest),Moderate,0
+603.2528535557051,0,1,7,8,7.4,3,67,Female,Disabled,Mild,Mild,Overweight,Elderly,5.867000000000001,Q3,Moderate,0
+353.93665769726186,0,0,6,8,6.8,0,46,Female,Employed,Mild,Mild,Obese,Older,4.846000000000001,Q2,Moderate,0
+191.87247977924588,1,1,8,6,7.2,2,69,Female,Unemployed,Mild,Mild,Overweight,Elderly,5.469,Q2,Moderate,0
+399.85061075731807,0,0,9,7,8.2,0,24,Male,Employed,Mild,Mild,Obese,Young,5.724,Q2,Moderate,0
+1139.8259585725784,0,0,8,8,8.0,0,19,Female,Employed,Mild,Mild,Normal,Young,5.619,Q2,Moderate,0
+265.5304032413001,0,0,7,12,9.0,1,44,Male,Employed,Mild,Moderate,Overweight,Middle,6.644,Q3,High,1
+1027.3809076677553,0,0,12,6,9.6,0,50,Male,Employed,Moderate,Mild,Normal,Older,6.65,Q3,High,1
+375.84184343210046,0,0,8,4,6.4,3,44,Female,Unemployed,Mild,,Obese,Middle,5.044,Q2,Moderate,0
+240.73095761553887,0,0,6,5,5.6,0,13,Male,Employed,Mild,Mild,Obese,Young,3.9130000000000003,Q1 (Lowest),Moderate,0
+377.1557510058624,0,0,9,8,8.6,0,43,Female,Employed,Mild,Mild,Obese,Middle,6.043,Q3,Moderate,0
+336.7722170051676,0,0,7,4,5.800000000000001,0,25,Female,Employed,Mild,,Overweight,Young,4.025,Q1 (Lowest),Moderate,0
+199.8951392518293,0,0,8,9,8.4,0,55,Female,Employed,Mild,Mild,Normal,Older,5.955,Q3,Moderate,0
+301.70459582522494,0,0,9,7,8.2,2,50,Female,Unemployed,Mild,Mild,Obese,Older,6.15,Q3,Moderate,0
+443.42418236166696,0,0,7,7,7.0,0,30,Male,Employed,Mild,Mild,Obese,Middle,4.930000000000001,Q2,Moderate,0
+666.3150835067094,0,0,7,8,7.4,3,37,Male,Disabled,Mild,Mild,Normal,Middle,5.837000000000001,Q3,Moderate,0
+132.45153825874826,0,0,6,9,7.199999999999999,3,29,Female,Disabled,Mild,Mild,Obese,Middle,5.728999999999999,Q2,Moderate,0
+5.386037513816197,0,0,7,8,7.4,0,44,Male,Employed,Mild,Mild,Obese,Middle,5.244,Q2,Moderate,0
+292.4445020845734,0,1,10,9,9.6,0,59,Female,Employed,Moderate,Mild,Overweight,Older,6.7589999999999995,Q4 (Highest),High,1
+245.25881087760885,0,0,10,13,11.2,2,30,Female,Unemployed,Moderate,Moderate,Overweight,Middle,8.33,Q4 (Highest),High,1
+20.33885243818461,0,0,7,3,5.4,3,52,Female,Disabled,Mild,,Obese,Older,4.352,Q1 (Lowest),Moderate,0
+365.3830319874925,0,0,10,4,7.6,2,37,Male,Unemployed,Moderate,,Normal,Middle,5.6370000000000005,Q2,High,0
+1035.5147383542671,0,0,6,8,6.8,1,33,Male,Employed,Mild,Mild,Normal,Middle,5.033000000000001,Q2,Moderate,0
+187.81155379464565,1,1,8,7,7.6,4,43,Male,Disabled,Mild,Mild,Normal,Middle,6.143000000000001,Q3,Moderate,0
+820.4177937213449,0,0,7,7,7.0,3,29,Male,Disabled,Mild,Mild,Underweight,Middle,5.529,Q2,Moderate,0
+612.1739234942477,0,0,7,5,6.2,2,36,Female,Unemployed,Mild,Mild,Obese,Middle,4.736000000000001,Q1 (Lowest),Moderate,0
+64.38551716904131,0,0,8,7,7.6,1,27,Male,Employed,Mild,Mild,Underweight,Middle,5.527000000000001,Q2,Moderate,0
+564.9388806843391,0,1,9,14,11.0,3,74,Male,Disabled,Mild,Moderate,Obese,Elderly,8.474,Q4 (Highest),High,1
+265.40255350427884,1,1,9,11,9.8,2,45,Male,Unemployed,Mild,Moderate,Obese,Middle,7.345000000000001,Q4 (Highest),High,1
+915.6866110445832,0,0,10,8,9.2,3,34,Female,Disabled,Moderate,Mild,Overweight,Middle,7.034,Q4 (Highest),High,1
+76.65471973956882,0,1,7,8,7.4,0,48,Female,Employed,Mild,Mild,Normal,Older,5.248,Q2,Moderate,0
+48.75833361234887,0,0,4,5,4.4,1,43,Male,Employed,,Mild,Overweight,Middle,3.3430000000000004,Q1 (Lowest),Moderate,0
+100.78489599224952,0,0,6,10,7.6,1,41,Male,Employed,Mild,Moderate,Overweight,Middle,5.641000000000001,Q2,High,0
+22.43960359093784,0,0,7,10,8.2,2,54,Male,Unemployed,Mild,Moderate,Obese,Older,6.254000000000001,Q3,High,1
+140.80980225468426,0,0,6,8,6.8,0,56,Male,Employed,Mild,Mild,Underweight,Older,4.856000000000001,Q2,Moderate,0
+121.43252470952656,0,0,10,4,7.6,2,37,Female,Unemployed,Moderate,,Normal,Middle,5.6370000000000005,Q2,High,0
+196.4512799463619,0,0,7,8,7.4,3,36,Female,Disabled,Mild,Mild,Obese,Middle,5.836,Q3,Moderate,0
+226.92587743698445,0,0,15,6,11.4,0,40,Male,Employed,Moderately Severe,Mild,Overweight,Middle,7.84,Q4 (Highest),Very High,1
+57.05936215590217,0,0,5,11,7.4,2,10,Male,Unemployed,Mild,Moderate,Obese,Young,5.71,Q2,High,0
+352.567306408307,0,0,5,9,6.6,2,22,Other,Unemployed,Mild,Mild,Overweight,Young,5.122,Q2,Moderate,0
+92.3615850052278,0,0,6,6,6.0,3,65,Female,Unemployed,Mild,Mild,Overweight,Older,4.865000000000001,Q2,Moderate,0
+47.46001778598266,0,0,8,8,8.0,0,69,Female,Employed,Mild,Mild,Overweight,Elderly,5.669,Q2,Moderate,0
+450.3308155726923,0,1,13,11,12.2,2,41,Male,Unemployed,Moderate,Moderate,Extreme Obesity,Middle,8.941,Q4 (Highest),High,1
+8.394158618508921,1,1,8,10,8.8,0,53,Female,Employed,Mild,Moderate,Extreme Obesity,Older,6.253,Q3,High,1
+167.6974514767056,0,0,6,8,6.8,1,49,Male,Employed,Mild,Mild,Obese,Older,5.049000000000001,Q2,Moderate,0
+56.92398915983506,1,1,13,9,11.4,4,91,Female,Disabled,Moderate,Mild,Overweight,Elderly,8.791,Q4 (Highest),High,1
+782.4910639499974,0,0,5,3,4.2,3,61,Other,Disabled,Mild,,Obese,Older,3.561,Q1 (Lowest),Moderate,0
+635.0559099990871,0,0,7,10,8.2,0,43,Male,Employed,Mild,Moderate,Obese,Middle,5.843000000000001,Q3,High,0
+22.789097081835248,0,0,6,9,7.199999999999999,4,30,Male,Disabled,Mild,Mild,Obese,Middle,5.93,Q3,Moderate,0
+291.8213602889793,0,0,6,6,6.0,2,20,Male,Unemployed,Mild,Mild,Normal,Young,4.62,Q1 (Lowest),Moderate,0
+127.77259932017238,0,0,7,10,8.2,0,48,Male,Employed,Mild,Moderate,Extreme Obesity,Older,5.848000000000001,Q3,High,0
+78.06204620130377,0,0,8,10,8.8,3,33,Male,Disabled,Mild,Moderate,Overweight,Middle,6.833000000000001,Q4 (Highest),High,1
+136.25306874667288,0,0,6,3,4.8,2,23,Male,Unemployed,Mild,,Extreme Obesity,Young,3.7230000000000003,Q1 (Lowest),Moderate,0
+617.6557487587786,0,0,9,5,7.399999999999999,1,35,Female,Employed,Mild,Mild,Overweight,Middle,5.335,Q2,Moderate,0
+21.752715963218364,0,0,7,3,5.4,2,28,Female,Unemployed,Mild,,Overweight,Middle,4.128,Q1 (Lowest),Moderate,0
+381.3473813744312,0,0,6,10,7.6,0,70,Male,Employed,Mild,Moderate,Extreme Obesity,Elderly,5.470000000000001,Q2,High,0
+892.8304349177117,0,1,6,15,9.6,3,58,Female,Disabled,Mild,Severe,Overweight,Older,7.558,Q4 (Highest),Very High,1
+216.92290054082548,0,0,6,10,7.6,2,44,Male,Unemployed,Mild,Moderate,Overweight,Middle,5.844,Q3,High,0
+846.0116598737227,0,0,5,8,6.2,4,67,Other,Disabled,Mild,Mild,Normal,Elderly,5.267,Q2,Moderate,0
+866.1494388022181,1,1,7,7,7.0,2,46,Male,Unemployed,Mild,Mild,Obese,Older,5.346000000000001,Q2,Moderate,0
+343.3089970440813,0,0,4,9,6.0,3,32,Female,Unemployed,,Mild,Overweight,Middle,4.932,Q2,Moderate,0
+222.1072223776924,1,1,12,4,8.799999999999999,2,67,Female,Unemployed,Moderate,,Overweight,Elderly,6.467000000000001,Q3,High,1
+488.4166529232433,1,1,6,5,5.6,3,53,Female,Unemployed,Mild,Mild,Overweight,Older,4.553,Q1 (Lowest),Moderate,0
+905.05124704282,0,0,10,8,9.2,3,29,Other,Disabled,Moderate,Mild,Obese,Middle,7.029,Q4 (Highest),High,1
+415.9338303075983,0,0,4,9,6.0,2,42,Male,Unemployed,,Mild,Normal,Middle,4.742,Q1 (Lowest),Moderate,0
+85.85720429634031,0,0,8,6,7.2,4,31,Other,Disabled,Mild,Mild,Overweight,Middle,5.8309999999999995,Q3,Moderate,0
+626.0144851820656,0,0,2,10,5.2,2,24,Male,Unemployed,,Moderate,Obese,Young,4.224,Q1 (Lowest),High,0
+1104.8110354322048,0,0,6,10,7.6,0,58,Male,Employed,Mild,Moderate,Normal,Older,5.458,Q2,High,0
+192.7560428544917,0,1,9,7,8.2,0,73,Male,Employed,Mild,Mild,Overweight,Elderly,5.773000000000001,Q3,Moderate,0
+436.5292317587416,0,0,6,2,4.4,2,24,Female,Unemployed,Mild,,Normal,Young,3.4240000000000004,Q1 (Lowest),Moderate,0
+266.5070666479785,0,0,10,3,7.2,1,53,Male,Employed,Moderate,,Overweight,Older,5.1530000000000005,Q2,High,0
+43.35976682800437,0,0,6,7,6.4,2,35,Female,Unemployed,Mild,Mild,Extreme Obesity,Middle,4.9350000000000005,Q2,Moderate,0
+157.14706010546954,1,1,8,9,8.4,3,37,Female,Disabled,Mild,Mild,Underweight,Middle,6.537,Q3,Moderate,1
+65.30684721153652,0,0,3,5,3.8,0,36,Female,Employed,,Mild,Obese,Middle,2.736,Q1 (Lowest),Moderate,0
+408.635763337465,0,0,5,5,5.0,3,32,Female,Unemployed,Mild,Mild,Overweight,Middle,4.132,Q1 (Lowest),Moderate,0
+318.462655152054,1,1,11,4,8.2,2,45,Male,Unemployed,Moderate,,Normal,Middle,6.045000000000001,Q3,High,0
+12.449995045312026,0,0,9,1,5.8,4,32,Male,Disabled,Mild,,Normal,Middle,4.732,Q1 (Lowest),Moderate,0
+23.209017681778448,0,0,7,6,6.6000000000000005,3,49,Male,Disabled,Mild,Mild,Obese,Older,5.249,Q2,Moderate,0
+110.2944548203824,1,1,8,9,8.4,3,44,Male,Unemployed,Mild,Mild,Overweight,Middle,6.544,Q3,Moderate,1
+498.56847636897567,0,0,4,7,5.2,3,41,Male,Unemployed,,Mild,Overweight,Middle,4.341000000000001,Q1 (Lowest),Moderate,0
+49.50567905825798,1,1,12,6,9.6,2,31,Male,Unemployed,Moderate,Mild,Overweight,Middle,7.031000000000001,Q4 (Highest),High,1
+83.63210510368101,1,1,11,12,11.4,2,36,Male,Unemployed,Moderate,Moderate,Overweight,Middle,8.436,Q4 (Highest),High,1
+869.3986099623161,0,0,6,3,4.8,2,56,Other,Unemployed,Mild,,Underweight,Older,3.7560000000000002,Q1 (Lowest),Moderate,0
+288.33576514230754,1,1,9,8,8.6,2,52,Female,Unemployed,Mild,Mild,Overweight,Older,6.452,Q3,Moderate,1
+353.9851872700926,0,1,14,6,10.8,3,30,Male,Disabled,Moderate,Mild,Obese,Middle,8.03,Q4 (Highest),High,1
+222.05732929887748,0,0,8,4,6.4,0,46,Female,Employed,Mild,,Normal,Older,4.446000000000001,Q1 (Lowest),Moderate,0
+130.06696198105936,0,0,8,3,6.0,3,56,Male,Unemployed,Mild,,Normal,Older,4.755999999999999,Q1 (Lowest),Moderate,0
+104.58094052348216,0,0,6,10,7.6,2,19,Male,Unemployed,Mild,Moderate,Overweight,Young,5.819000000000001,Q3,High,0
+324.73921534695944,0,0,8,5,6.8,3,53,Female,Disabled,Mild,Mild,Normal,Older,5.353000000000001,Q2,Moderate,0
+232.4028547197905,0,0,6,5,5.6,0,35,Female,Employed,Mild,Mild,Overweight,Middle,3.9350000000000005,Q1 (Lowest),Moderate,0
+188.3011824431391,1,1,11,12,11.4,3,53,Male,Disabled,Moderate,Moderate,Normal,Older,8.653,Q4 (Highest),High,1
+432.6818320711178,0,0,5,6,5.4,3,33,Other,Disabled,Mild,Mild,Overweight,Middle,4.433000000000001,Q1 (Lowest),Moderate,0
+188.9872545426931,0,1,12,5,9.2,2,17,Female,Unemployed,Moderate,Mild,Overweight,Young,6.717000000000001,Q4 (Highest),High,1
+13.659003760671276,0,0,9,4,7.0,2,20,Female,Unemployed,Mild,,Obese,Young,5.22,Q2,Moderate,0
+668.140045280322,0,0,11,6,9.0,3,45,Female,Disabled,Moderate,Mild,Extreme Obesity,Middle,6.845000000000001,Q4 (Highest),High,1
+139.91083340019964,1,1,6,2,4.4,3,48,Female,Unemployed,Mild,,Overweight,Older,3.6480000000000006,Q1 (Lowest),Moderate,0
+1068.0770814413677,1,1,9,5,7.399999999999999,2,31,Male,Unemployed,Mild,Mild,Extreme Obesity,Middle,5.531,Q2,Moderate,0
+772.5545267292326,0,0,9,7,8.2,2,54,Male,Unemployed,Mild,Mild,Overweight,Older,6.154000000000001,Q3,Moderate,0
+97.25927732742063,0,0,9,8,8.6,1,20,Male,Employed,Mild,Mild,Obese,Young,6.22,Q3,Moderate,0
+1228.5739982848258,0,0,9,8,8.6,0,44,Female,Employed,Mild,Mild,Extreme Obesity,Middle,6.044,Q3,Moderate,0
+701.2178070764124,0,1,7,7,7.0,3,26,Female,Unemployed,Mild,Mild,Overweight,Middle,5.526,Q2,Moderate,0
+1533.292945378019,0,0,5,7,5.800000000000001,4,35,Male,Disabled,Mild,Mild,Normal,Middle,4.935,Q2,Moderate,0
+413.5609392021925,0,0,2,6,3.6000000000000005,0,45,Other,Employed,,Mild,Overweight,Middle,2.6449999999999996,Q1 (Lowest),Moderate,0
+974.43920033748,0,0,9,12,10.2,3,32,Female,Disabled,Mild,Moderate,Normal,Middle,7.831999999999999,Q4 (Highest),High,1
+427.591448426065,0,0,6,11,8.0,2,39,Female,Unemployed,Mild,Moderate,Overweight,Middle,6.139,Q3,High,0
+705.0580228911713,0,0,7,5,6.2,4,60,Female,Disabled,Mild,Mild,Extreme Obesity,Older,5.16,Q2,Moderate,0
+344.08911225505534,1,1,4,11,6.800000000000001,3,36,Female,Disabled,,Moderate,Normal,Middle,5.536,Q2,High,0
+966.3500467172978,1,1,9,7,8.2,0,57,Male,Employed,Mild,Mild,Overweight,Older,5.757000000000001,Q3,Moderate,0
+266.4468914131591,0,0,8,9,8.4,3,28,Female,Disabled,Mild,Mild,Normal,Middle,6.528,Q3,Moderate,1
+486.89640866306985,0,0,10,4,7.6,4,52,Male,Disabled,Moderate,,Overweight,Older,6.052,Q3,High,0
+908.279980909406,0,1,9,8,8.6,0,66,Female,Employed,Mild,Mild,Obese,Elderly,6.066,Q3,Moderate,0
+200.3326532008826,0,0,9,4,7.0,2,7,Male,Unemployed,Mild,,Overweight,Young,5.207,Q2,Moderate,0
+9.766256994285715,0,0,2,7,4.0,3,33,Female,Disabled,,Mild,Overweight,Middle,3.5330000000000004,Q1 (Lowest),Moderate,0
+43.78664615909501,0,1,6,6,6.0,2,53,Female,Unemployed,Mild,Mild,Normal,Older,4.6530000000000005,Q1 (Lowest),Moderate,0
+1303.9234323255885,0,0,7,11,8.600000000000001,2,41,Male,Unemployed,Mild,Moderate,Overweight,Middle,6.541,Q3,High,1
+753.7849616077006,0,0,7,3,5.4,2,50,Female,Unemployed,Mild,,Extreme Obesity,Older,4.15,Q1 (Lowest),Moderate,0
+241.08985755711808,0,0,9,8,8.6,1,35,Other,Employed,Mild,Mild,Normal,Middle,6.235,Q3,Moderate,0
+1183.1904880531,1,1,6,10,7.6,2,46,Female,Unemployed,Mild,Moderate,Extreme Obesity,Older,5.846000000000001,Q3,High,0
+74.93831164206253,0,0,6,6,6.0,4,42,Female,Disabled,Mild,Mild,Extreme Obesity,Middle,5.042,Q2,Moderate,0
+42.93137750671407,1,1,10,9,9.6,2,62,Female,Unemployed,Moderate,Mild,Extreme Obesity,Older,7.162,Q4 (Highest),High,1
+335.7625593805255,0,0,10,10,10.0,2,48,Male,Unemployed,Moderate,Moderate,Overweight,Older,7.448,Q4 (Highest),High,1
+175.73344599194854,0,1,12,4,8.799999999999999,3,50,Male,Unemployed,Moderate,,Extreme Obesity,Older,6.650000000000001,Q3,High,1
+151.53576097765523,0,0,8,6,7.2,3,38,Male,Disabled,Mild,Mild,Normal,Middle,5.638,Q2,Moderate,0
+483.5630112312629,0,0,5,7,5.800000000000001,2,37,Female,Unemployed,Mild,Mild,Normal,Middle,4.537,Q1 (Lowest),Moderate,0
+59.32504959956975,0,0,8,8,8.0,3,38,Male,Unemployed,Mild,Mild,Obese,Middle,6.2379999999999995,Q3,Moderate,0
+550.0924382541284,0,0,8,7,7.6,3,50,Female,Unemployed,Mild,Mild,Overweight,Older,5.95,Q3,Moderate,0
+162.58103643869927,0,0,8,8,8.0,1,38,Female,Employed,Mild,Mild,Overweight,Middle,5.838,Q3,Moderate,0
+1577.828987988008,0,1,14,5,10.4,4,49,Female,Disabled,Moderate,Mild,Underweight,Older,7.949000000000001,Q4 (Highest),High,1
+603.7659712256917,0,0,2,4,2.8,0,76,Female,Employed,,,Overweight,Elderly,2.076,Q1 (Lowest),Low,0
+379.2678852950756,0,0,7,5,6.2,3,58,Other,Disabled,Mild,Mild,Normal,Older,4.958,Q2,Moderate,0
+95.13575080949312,0,0,7,6,6.6000000000000005,2,40,Male,Unemployed,Mild,Mild,Obese,Middle,5.04,Q2,Moderate,0
+1143.6563957765825,0,0,5,6,5.4,4,63,Female,Disabled,Mild,Mild,Overweight,Older,4.662999999999999,Q1 (Lowest),Moderate,0
+12.214271533263592,0,1,7,11,8.600000000000001,3,38,Female,Disabled,Mild,Moderate,Normal,Middle,6.7379999999999995,Q4 (Highest),High,1
+92.25929701172528,0,0,8,6,7.2,4,14,Female,Disabled,Mild,Mild,Extreme Obesity,Young,5.814,Q3,Moderate,0
+13.676179788767987,0,0,8,5,6.8,4,29,Other,Disabled,Mild,Mild,Obese,Middle,5.529,Q2,Moderate,0
+1239.792920979352,0,0,12,4,8.799999999999999,1,16,Male,Employed,Moderate,,Obese,Young,6.216000000000001,Q3,High,0
+748.7732671273094,0,0,4,8,5.6,4,39,Male,Disabled,,Mild,Extreme Obesity,Middle,4.8389999999999995,Q2,Moderate,0
+1109.1619361177836,0,0,6,3,4.8,0,45,Female,Employed,Mild,,Obese,Middle,3.345,Q1 (Lowest),Moderate,0
+458.2169351134443,0,1,8,6,7.2,1,70,Male,Employed,Mild,Mild,Normal,Elderly,5.2700000000000005,Q2,Moderate,0
+10.14960065962094,0,0,9,10,9.4,2,49,Female,Unemployed,Mild,Moderate,Normal,Older,7.049,Q4 (Highest),High,1
+978.547231775636,0,0,6,10,7.6,3,41,Female,Disabled,Mild,Moderate,Obese,Middle,6.041,Q3,High,0
+199.425501126625,0,0,11,2,7.399999999999999,2,57,Male,Unemployed,Moderate,,Underweight,Older,5.457000000000001,Q2,High,0
+167.60207464000948,0,0,6,6,6.0,3,11,Female,Disabled,Mild,Mild,Overweight,Young,4.811000000000001,Q1 (Lowest),Moderate,0
+122.00489764643764,0,0,9,9,9.0,0,48,Male,Employed,Mild,Mild,Underweight,Older,6.348,Q3,Moderate,1
+123.36647649601592,0,0,12,3,8.399999999999999,0,56,Female,Employed,Moderate,,Overweight,Older,5.756000000000001,Q3,High,0
+588.593751800261,0,0,7,7,7.0,0,22,Female,Employed,Mild,Mild,Obese,Young,4.922000000000001,Q2,Moderate,0
+108.12191543196757,0,0,14,7,11.2,3,62,Female,Disabled,Moderate,Mild,Overweight,Older,8.362,Q4 (Highest),High,1
+91.70153294101344,0,1,6,4,5.199999999999999,3,50,Male,Disabled,Mild,,Obese,Older,4.250000000000001,Q1 (Lowest),Moderate,0
+437.0485386455975,0,0,9,7,8.2,4,38,Female,Disabled,Mild,Mild,Extreme Obesity,Middle,6.538,Q3,Moderate,1
+123.70708883213332,0,1,8,8,8.0,3,54,Female,Disabled,Mild,Mild,Overweight,Older,6.254,Q3,Moderate,1
+4.824537373219369,1,1,10,5,8.0,4,79,Female,Disabled,Moderate,Mild,Extreme Obesity,Elderly,6.379,Q3,High,1
+979.958561763352,0,0,9,8,8.6,2,47,Female,Unemployed,Mild,Mild,Overweight,Older,6.447,Q3,Moderate,1
+137.32837379592286,0,0,5,7,5.800000000000001,3,48,Male,Disabled,Mild,Mild,Obese,Older,4.747999999999999,Q1 (Lowest),Moderate,0
+527.6163062236938,0,0,7,12,9.0,2,38,Male,Unemployed,Mild,Moderate,Normal,Middle,6.838000000000001,Q4 (Highest),High,1
+231.033828204242,0,1,10,8,9.2,3,32,Male,Disabled,Moderate,Mild,Extreme Obesity,Middle,7.032,Q4 (Highest),High,1
+52.54632852398668,0,0,6,11,8.0,3,57,Female,Disabled,Mild,Moderate,Obese,Older,6.357000000000001,Q3,High,1
+395.8414392464516,0,0,7,5,6.2,4,32,Male,Disabled,Mild,Mild,Extreme Obesity,Middle,5.132000000000001,Q2,Moderate,0
+96.1382873356161,0,0,8,7,7.6,4,46,Male,Disabled,Mild,Mild,Overweight,Older,6.146000000000001,Q3,Moderate,0
+123.94014096073823,0,0,6,5,5.6,0,37,Other,Employed,Mild,Mild,Normal,Middle,3.9370000000000003,Q1 (Lowest),Moderate,0
+12.024223262166744,0,0,5,3,4.2,0,52,Male,Employed,Mild,,Obese,Older,2.952,Q1 (Lowest),Moderate,0
+6.036871735402751,0,0,7,11,8.600000000000001,2,50,Other,Unemployed,Mild,Moderate,Underweight,Older,6.55,Q3,High,1
+263.07884234382686,0,0,4,7,5.2,3,60,Female,Unemployed,,Mild,Overweight,Older,4.36,Q1 (Lowest),Moderate,0
+21.729292892549168,1,1,12,8,10.4,3,37,Female,Disabled,Moderate,Mild,Overweight,Middle,7.837000000000001,Q4 (Highest),High,1
+85.76965440319131,0,0,12,8,10.4,3,40,Male,Disabled,Moderate,Mild,Extreme Obesity,Middle,7.840000000000001,Q4 (Highest),High,1
+939.6880017055104,1,1,9,8,8.6,4,30,Male,Disabled,Mild,Mild,Overweight,Middle,6.83,Q4 (Highest),Moderate,1
+31.56892115284592,0,0,7,1,4.6000000000000005,3,38,Female,Disabled,Mild,,Overweight,Middle,3.738,Q1 (Lowest),Moderate,0
+125.41505759980116,0,0,5,2,3.8,0,50,Female,Employed,Mild,,Overweight,Older,2.65,Q1 (Lowest),Moderate,0
+473.2431706246642,0,0,5,4,4.6,2,56,Female,Unemployed,Mild,,Normal,Older,3.656,Q1 (Lowest),Moderate,0
+787.294597610735,0,0,7,4,5.800000000000001,2,31,Male,Unemployed,Mild,,Overweight,Middle,4.431,Q1 (Lowest),Moderate,0
+17.269231408267157,0,0,6,5,5.6,3,58,Female,Unemployed,Mild,Mild,Overweight,Older,4.558,Q1 (Lowest),Moderate,0
+74.86390857220741,0,1,7,11,8.600000000000001,0,65,Female,Employed,Mild,Moderate,Normal,Older,6.165,Q3,High,0
+179.1538834195359,0,0,9,9,9.0,4,51,Female,Disabled,Mild,Mild,Normal,Older,7.151,Q4 (Highest),Moderate,1
+163.46225811466968,1,1,8,2,5.6,0,73,Female,Employed,Mild,,Overweight,Elderly,3.873,Q1 (Lowest),Moderate,0
+124.25185164210114,0,0,6,7,6.4,0,33,Female,Employed,Mild,Mild,Overweight,Middle,4.533,Q1 (Lowest),Moderate,0
+101.27938520177676,0,0,9,9,9.0,3,26,Female,Unemployed,Mild,Mild,Overweight,Middle,6.926,Q4 (Highest),Moderate,1
+114.1994545004949,0,0,8,5,6.8,1,18,Male,Employed,Mild,Mild,Normal,Young,4.918,Q2,Moderate,0
+52.27065886079637,0,1,5,9,6.6,2,67,Female,Unemployed,Mild,Mild,Overweight,Elderly,5.167,Q2,Moderate,0
+65.08735285989408,1,1,9,10,9.4,1,54,Male,Employed,Mild,Moderate,Obese,Older,6.854,Q4 (Highest),High,1
+340.67374014037216,0,0,6,2,4.4,2,44,Male,Unemployed,Mild,,Overweight,Middle,3.4440000000000004,Q1 (Lowest),Moderate,0
+126.1371262178036,1,1,8,8,8.0,2,49,Male,Unemployed,Mild,Mild,Normal,Older,6.049,Q3,Moderate,0
+186.2599423511292,0,0,6,9,7.199999999999999,3,28,Male,Disabled,Mild,Mild,Obese,Middle,5.727999999999999,Q2,Moderate,0
+193.8044785298106,1,1,7,6,6.6000000000000005,3,81,Male,Unemployed,Mild,Mild,Overweight,Elderly,5.281,Q2,Moderate,0
+42.4272029634802,0,0,8,6,7.2,0,46,Male,Employed,Mild,Mild,Normal,Older,5.046,Q2,Moderate,0
+624.8763852494462,0,0,5,7,5.800000000000001,3,46,Female,Unemployed,Mild,Mild,Obese,Older,4.7459999999999996,Q1 (Lowest),Moderate,0
+1143.0973285377297,0,0,8,4,6.4,1,55,Female,Employed,Mild,,Obese,Older,4.655,Q1 (Lowest),Moderate,0
+111.65455025333108,0,0,5,14,8.600000000000001,2,52,Male,Unemployed,Mild,Moderate,Overweight,Older,6.652,Q3,High,1
+127.28324162482912,0,0,9,14,11.0,3,48,Other,Disabled,Mild,Moderate,Normal,Older,8.448,Q4 (Highest),High,1
+431.2141671788385,0,0,11,5,8.6,3,33,Female,Disabled,Moderate,Mild,Normal,Middle,6.533,Q3,High,1
+30.66779580000625,0,0,8,11,9.2,0,52,Male,Employed,Mild,Moderate,Extreme Obesity,Older,6.552,Q3,High,1
+868.2015035689739,0,1,6,7,6.4,2,73,Male,Unemployed,Mild,Mild,Normal,Elderly,4.973000000000001,Q2,Moderate,0
+46.90369104822431,1,1,11,11,11.0,0,65,Female,Employed,Moderate,Moderate,Overweight,Older,7.765000000000001,Q4 (Highest),High,1
+480.7055205102431,0,0,7,10,8.2,3,68,Female,Disabled,Mild,Moderate,Overweight,Elderly,6.468,Q3,High,1
+125.78867203701006,0,0,10,6,8.4,0,37,Female,Employed,Moderate,Mild,Overweight,Middle,5.837,Q3,High,0
+142.5234112076249,0,0,8,12,9.6,0,30,Male,Employed,Mild,Moderate,Normal,Middle,6.83,Q4 (Highest),High,1
+55.40901408425997,0,0,9,4,7.0,2,43,Male,Unemployed,Mild,,Overweight,Middle,5.243,Q2,Moderate,0
+379.38579635184135,0,0,7,9,7.800000000000001,4,45,Male,Disabled,Mild,Mild,Underweight,Middle,6.345,Q3,Moderate,1
+578.4219947719193,0,0,7,9,7.800000000000001,3,61,Male,Disabled,Mild,Mild,Overweight,Older,6.161,Q3,Moderate,0
+1095.2100547511488,0,0,12,3,8.399999999999999,2,19,Male,Unemployed,Moderate,,Normal,Young,6.1190000000000015,Q3,High,0
+147.01938432355888,0,0,3,10,5.8,2,67,Male,Unemployed,,Moderate,Normal,Elderly,4.667000000000001,Q1 (Lowest),High,0
+354.30423105486403,1,1,6,11,8.0,2,42,Female,Unemployed,Mild,Moderate,Obese,Middle,6.142,Q3,High,0
+195.68795282510345,0,0,9,5,7.399999999999999,3,38,Female,Disabled,Mild,Mild,Overweight,Middle,5.7379999999999995,Q2,Moderate,0
+297.8734989163796,0,0,8,4,6.4,3,29,Male,Disabled,Mild,,Obese,Middle,5.029,Q2,Moderate,0
+64.91512071045653,0,1,8,13,10.0,2,20,Female,Unemployed,Mild,Moderate,Obese,Young,7.52,Q4 (Highest),High,1
+318.16424075578266,0,0,7,9,7.800000000000001,0,57,Male,Employed,Mild,Mild,Extreme Obesity,Older,5.557,Q2,Moderate,0
+690.222453291744,0,0,9,5,7.399999999999999,4,46,Female,Disabled,Mild,Mild,Normal,Older,5.946,Q3,Moderate,0
+727.2819556733369,1,1,11,9,10.2,3,25,Male,Unemployed,Moderate,Mild,Obese,Young,7.725,Q4 (Highest),High,1
+241.06999496164428,1,1,8,12,9.6,2,25,Female,Unemployed,Mild,Moderate,Overweight,Young,7.2250000000000005,Q4 (Highest),High,1
+98.13232807504048,0,0,7,6,6.6000000000000005,0,39,Other,Employed,Mild,Mild,Overweight,Middle,4.638999999999999,Q1 (Lowest),Moderate,0
+661.3936987646908,0,0,8,5,6.8,2,70,Female,Unemployed,Mild,Mild,Normal,Elderly,5.170000000000001,Q2,Moderate,0
+2725.55556782836,0,0,15,7,11.8,0,41,Male,Employed,Moderately Severe,Mild,Obese,Middle,8.141,Q4 (Highest),Very High,1
+172.8147396374733,0,0,14,9,12.0,0,22,Female,Employed,Moderate,Mild,Normal,Young,8.322000000000001,Q4 (Highest),High,1
+942.3880719437052,0,0,10,5,8.0,3,41,Male,Disabled,Moderate,Mild,Obese,Middle,6.141,Q3,High,0
+1497.2230994768183,0,0,6,4,5.199999999999999,2,40,Female,Unemployed,Mild,,Extreme Obesity,Middle,4.040000000000001,Q1 (Lowest),Moderate,0
+183.79247617950165,0,0,13,7,10.6,3,4,Female,Disabled,Moderate,Mild,Obese,Young,7.904,Q4 (Highest),High,1
+459.820798927482,0,0,4,7,5.2,3,44,Male,Disabled,,Mild,Extreme Obesity,Middle,4.344,Q1 (Lowest),Moderate,0
+317.5883814815595,0,0,4,8,5.6,3,41,Female,Disabled,,Mild,Normal,Middle,4.641,Q1 (Lowest),Moderate,0
+467.5033624666576,0,0,7,6,6.6000000000000005,3,55,Female,Unemployed,Mild,Mild,Obese,Older,5.254999999999999,Q2,Moderate,0
+61.10701265137774,0,1,10,10,10.0,2,72,Male,Unemployed,Moderate,Moderate,Normal,Elderly,7.472,Q4 (Highest),High,1
+166.74746263141054,0,0,13,5,9.8,2,61,Female,Unemployed,Moderate,Mild,Overweight,Older,7.1610000000000005,Q4 (Highest),High,1
+23.67261586371128,0,0,6,5,5.6,3,40,Male,Disabled,Mild,Mild,Extreme Obesity,Middle,4.54,Q1 (Lowest),Moderate,0
+346.7095707217925,0,0,10,5,8.0,0,28,Female,Employed,Moderate,Mild,Normal,Middle,5.528,Q2,High,0
+953.798272607838,1,1,5,12,7.800000000000001,3,83,Female,Disabled,Mild,Moderate,Obese,Elderly,6.2829999999999995,Q3,High,1
+299.8929422930927,1,1,11,13,11.8,0,45,Female,Employed,Moderate,Moderate,Obese,Middle,8.345,Q4 (Highest),High,1
+26.61847823874542,0,0,6,5,5.6,2,45,Female,Unemployed,Mild,Mild,Obese,Middle,4.345000000000001,Q1 (Lowest),Moderate,0
+972.6031083439252,1,1,8,10,8.8,2,44,Female,Unemployed,Mild,Moderate,Normal,Middle,6.644,Q3,High,1
+52.0766782679744,0,0,4,9,6.0,4,47,Male,Disabled,,Mild,Obese,Older,5.146999999999999,Q2,Moderate,0
+782.9545149759055,0,0,8,9,8.4,0,42,Female,Employed,Mild,Mild,Overweight,Middle,5.942,Q3,Moderate,0
+457.1837975899773,0,0,9,4,7.0,3,36,Male,Unemployed,Mild,,Obese,Middle,5.436,Q2,Moderate,0
+369.23846714010256,1,1,11,12,11.4,3,36,Female,Unemployed,Moderate,Moderate,Underweight,Middle,8.636,Q4 (Highest),High,1
+322.6376404923949,1,1,8,8,8.0,4,44,Male,Disabled,Mild,Mild,Obese,Middle,6.443999999999999,Q3,Moderate,1
+51.3131151556211,0,0,8,7,7.6,3,36,Male,Disabled,Mild,Mild,Overweight,Middle,5.936,Q3,Moderate,0
+253.6151804235188,0,0,9,7,8.2,4,34,Female,Disabled,Mild,Mild,Underweight,Middle,6.534,Q3,Moderate,1
+79.9417048788241,1,1,13,10,11.8,0,46,Male,Employed,Moderate,Moderate,Normal,Older,8.245999999999999,Q4 (Highest),High,1
+309.56644227894685,0,0,10,7,8.8,0,41,Female,Employed,Moderate,Mild,Underweight,Middle,6.141,Q3,High,0
+216.45196055720976,0,0,9,3,6.6,2,67,Male,Unemployed,Mild,,Normal,Elderly,4.9670000000000005,Q2,Moderate,0
+415.5236385006317,0,0,8,6,7.2,3,5,Male,Disabled,Mild,Mild,Obese,Young,5.6049999999999995,Q2,Moderate,0
+1476.5654119574572,0,0,7,4,5.800000000000001,3,61,Female,Unemployed,Mild,,Overweight,Older,4.661,Q1 (Lowest),Moderate,0
+163.47434970916962,1,1,12,6,9.6,0,63,Male,Employed,Moderate,Mild,Overweight,Older,6.663,Q3,High,1
+350.0249691140722,0,0,2,7,4.0,2,13,Male,Unemployed,,Mild,Normal,Young,3.313,Q1 (Lowest),Moderate,0
+729.3053996752838,0,0,6,4,5.199999999999999,2,39,Female,Unemployed,Mild,,Obese,Middle,4.039000000000001,Q1 (Lowest),Moderate,0
+35.599159194756346,1,1,6,6,6.0,3,39,Male,Disabled,Mild,Mild,Overweight,Middle,4.839,Q2,Moderate,0
+587.8941763201173,0,0,6,8,6.8,2,23,Female,Unemployed,Mild,Mild,Overweight,Young,5.223000000000001,Q2,Moderate,0
+99.89338773129865,1,1,13,8,11.0,3,33,Male,Disabled,Moderate,Mild,Obese,Middle,8.232999999999999,Q4 (Highest),High,1
+283.65208865370744,0,0,6,14,9.2,2,28,Male,Unemployed,Mild,Moderate,Normal,Middle,7.0280000000000005,Q4 (Highest),High,1
+1740.2683047646972,0,1,6,12,8.4,3,71,Female,Unemployed,Mild,Moderate,Overweight,Elderly,6.670999999999999,Q4 (Highest),High,1
+1510.52577781836,0,0,9,6,7.8,0,59,Male,Employed,Mild,Mild,Obese,Older,5.4590000000000005,Q2,Moderate,0
+138.51806808711993,1,1,8,15,10.8,1,64,Male,Employed,Mild,Severe,Normal,Older,7.964,Q4 (Highest),Very High,1
+51.57103601407992,1,1,14,8,11.6,2,55,Male,Unemployed,Moderate,Mild,Obese,Older,8.455,Q4 (Highest),High,1
+1016.0175843904884,1,1,6,10,7.6,2,28,Male,Unemployed,Mild,Moderate,Obese,Middle,5.828,Q3,High,0
+817.5586517051715,0,0,4,8,5.6,3,37,Female,Disabled,,Mild,Overweight,Middle,4.637,Q1 (Lowest),Moderate,0
+349.37646443135515,0,0,9,8,8.6,1,52,Male,Employed,Mild,Mild,Overweight,Older,6.252,Q3,Moderate,1
+12.02574150891578,0,0,7,11,8.600000000000001,0,26,Female,Employed,Mild,Moderate,Obese,Middle,6.1259999999999994,Q3,High,0
+507.8715179391412,0,0,8,7,7.6,3,55,Female,Unemployed,Mild,Mild,Obese,Older,5.955,Q3,Moderate,0
+64.01078612232571,0,0,8,7,7.6,3,41,Male,Disabled,Mild,Mild,Overweight,Middle,5.941000000000001,Q3,Moderate,0
+1045.7532030125913,0,0,10,6,8.4,0,39,Female,Employed,Moderate,Mild,Obese,Middle,5.8389999999999995,Q3,High,0
+208.47073736793968,0,0,6,7,6.4,2,55,Male,Unemployed,Mild,Mild,Obese,Older,4.955,Q2,Moderate,0
+348.50647882647024,0,0,4,10,6.4,3,51,Other,Unemployed,,Moderate,Underweight,Older,5.2509999999999994,Q2,High,0
+120.4518643106151,1,1,10,9,9.6,2,39,Male,Unemployed,Moderate,Mild,Normal,Middle,7.138999999999999,Q4 (Highest),High,1
+235.24307113818784,1,1,10,9,9.6,2,62,Female,Unemployed,Moderate,Mild,Extreme Obesity,Older,7.162,Q4 (Highest),High,1
+512.8288077049141,0,0,5,8,6.2,2,28,Female,Unemployed,Mild,Mild,Overweight,Middle,4.828,Q1 (Lowest),Moderate,0
+247.21684885709723,0,0,7,4,5.800000000000001,0,54,Male,Employed,Mild,,Overweight,Older,4.054,Q1 (Lowest),Moderate,0
+685.6918926632944,0,1,8,9,8.4,0,53,Female,Employed,Mild,Mild,Obese,Older,5.953,Q3,Moderate,0
+455.6545622174365,0,0,4,5,4.4,3,40,Female,Disabled,,Mild,Overweight,Middle,3.74,Q1 (Lowest),Moderate,0
+29.388226670567125,0,0,7,5,6.2,2,49,Male,Unemployed,Mild,Mild,Overweight,Older,4.749000000000001,Q1 (Lowest),Moderate,0
+340.7373317152484,0,0,12,5,9.2,3,26,Male,Disabled,Moderate,Mild,Normal,Middle,6.926,Q4 (Highest),High,1
+346.12806318843866,0,0,8,7,7.6,2,58,Female,Unemployed,Mild,Mild,Obese,Older,5.758000000000001,Q3,Moderate,0
+175.01231961470734,0,0,6,9,7.199999999999999,2,42,Female,Unemployed,Mild,Mild,Obese,Middle,5.542,Q2,Moderate,0
+142.23184994489245,0,0,5,9,6.6,2,37,Other,Unemployed,Mild,Mild,Normal,Middle,5.137,Q2,Moderate,0
+23.70749468606759,1,1,8,12,9.6,4,60,Female,Disabled,Mild,Moderate,Normal,Older,7.659999999999999,Q4 (Highest),High,1
+215.66867572829327,0,0,9,10,9.4,2,34,Other,Unemployed,Mild,Moderate,Extreme Obesity,Middle,7.034,Q4 (Highest),High,1
+149.7857117806388,0,0,4,6,4.800000000000001,4,23,Female,Disabled,,Mild,Overweight,Young,4.223,Q1 (Lowest),Moderate,0
+1101.284436194475,0,0,9,3,6.6,1,21,Male,Employed,Mild,,Normal,Young,4.721,Q1 (Lowest),Moderate,0
+409.3084283446173,0,0,6,8,6.8,2,54,Male,Unemployed,Mild,Mild,Obese,Older,5.254000000000001,Q2,Moderate,0
+224.94945224496448,0,0,11,5,8.6,4,25,Female,Disabled,Moderate,Mild,Overweight,Young,6.7250000000000005,Q4 (Highest),High,1
+512.7938175708198,1,1,9,4,7.0,0,71,Female,Employed,Mild,,Normal,Elderly,4.8709999999999996,Q2,Moderate,0
+550.6210261258218,0,0,8,9,8.4,2,13,Male,Unemployed,Mild,Mild,Obese,Young,6.313000000000001,Q3,Moderate,1
+239.00330177686897,0,0,8,9,8.4,1,70,Male,Employed,Mild,Mild,Normal,Elderly,6.170000000000001,Q3,Moderate,0
+28.75510979273893,0,0,7,8,7.4,2,48,Other,Unemployed,Mild,Mild,Extreme Obesity,Older,5.648000000000001,Q2,Moderate,0
+553.5721481555257,0,0,7,12,9.0,4,43,Female,Disabled,Mild,Moderate,Obese,Middle,7.243,Q4 (Highest),High,1
+34.53734504142233,0,0,7,4,5.800000000000001,3,36,Male,Unemployed,Mild,,Overweight,Middle,4.635999999999999,Q1 (Lowest),Moderate,0
+686.4319384851051,0,1,7,11,8.600000000000001,2,50,Female,Unemployed,Mild,Moderate,Overweight,Older,6.55,Q3,High,1
+148.44594189863355,1,1,12,5,9.2,3,44,Male,Disabled,Moderate,Mild,Obese,Middle,6.944,Q4 (Highest),High,1
+371.1235817824592,0,1,11,8,9.8,3,61,Male,Disabled,Moderate,Mild,Overweight,Older,7.461,Q4 (Highest),High,1
+492.2501132547624,0,0,7,7,7.0,4,46,Male,Disabled,Mild,Mild,Extreme Obesity,Older,5.746,Q3,Moderate,0
+13.076724866117738,0,0,4,11,6.800000000000001,2,47,Male,Unemployed,,Moderate,Obese,Older,5.347,Q2,High,0
+177.20971291531492,0,0,14,4,10.0,0,39,Female,Employed,Moderate,,Obese,Middle,6.839,Q4 (Highest),High,1
+338.24632645594875,1,1,10,10,10.0,4,44,Male,Disabled,Moderate,Moderate,Normal,Middle,7.843999999999999,Q4 (Highest),High,1
+687.9608344934601,0,1,11,5,8.6,1,49,Female,Employed,Moderate,Mild,Overweight,Older,6.149000000000001,Q3,High,0
+461.7366125015959,1,1,5,6,5.4,3,19,Female,Disabled,Mild,Mild,Obese,Young,4.4190000000000005,Q1 (Lowest),Moderate,0
+826.6237672628379,0,0,13,7,10.6,3,24,Male,Disabled,Moderate,Mild,Normal,Young,7.924,Q4 (Highest),High,1
+31.51607898061456,0,0,8,12,9.6,2,56,Female,Unemployed,Mild,Moderate,Extreme Obesity,Older,7.256,Q4 (Highest),High,1
+27.204091166612955,0,0,5,10,7.0,4,47,Female,Disabled,Mild,Moderate,Normal,Older,5.8469999999999995,Q3,High,0
+456.2878869766323,0,0,7,4,5.800000000000001,0,42,Female,Employed,Mild,,Normal,Middle,4.042,Q1 (Lowest),Moderate,0
+185.55712890201048,1,1,8,10,8.8,2,45,Male,Unemployed,Mild,Moderate,Normal,Middle,6.6450000000000005,Q3,High,1
+239.8299802720093,1,1,10,12,10.8,4,50,Female,Disabled,Moderate,Moderate,Obese,Older,8.450000000000001,Q4 (Highest),High,1
+338.40590146722343,0,0,5,7,5.800000000000001,0,36,Female,Employed,Mild,Mild,Normal,Middle,4.135999999999999,Q1 (Lowest),Moderate,0
+1556.5517574812943,0,0,5,7,5.800000000000001,2,33,Male,Unemployed,Mild,Mild,Underweight,Middle,4.533,Q1 (Lowest),Moderate,0
+25.377786206053592,0,0,4,8,5.6,0,47,Male,Employed,,Mild,Obese,Older,4.047,Q1 (Lowest),Moderate,0
+42.08190457643294,0,0,5,8,6.2,3,30,Female,Unemployed,Mild,Mild,Overweight,Middle,5.03,Q2,Moderate,0
+645.2926941574591,0,0,12,6,9.6,2,51,Female,Unemployed,Moderate,Mild,Normal,Older,7.051000000000001,Q4 (Highest),High,1
+7.56930095053108,0,0,2,4,2.8,3,19,Male,Unemployed,,,Normal,Young,2.619,Q1 (Lowest),Low,0
+218.5124790036416,0,0,7,9,7.800000000000001,4,60,Female,Disabled,Mild,Mild,Extreme Obesity,Older,6.359999999999999,Q3,Moderate,1
+543.0264950974887,0,0,9,7,8.2,2,52,Male,Unemployed,Mild,Mild,Normal,Older,6.152,Q3,Moderate,0
+79.29515372485858,0,1,9,5,7.399999999999999,3,48,Female,Disabled,Mild,Mild,Overweight,Older,5.747999999999999,Q3,Moderate,0
+75.56836217796103,0,0,7,6,6.6000000000000005,3,59,Male,Disabled,Mild,Mild,Overweight,Older,5.2589999999999995,Q2,Moderate,0
+135.57175461753172,0,1,10,6,8.4,4,69,Female,Disabled,Moderate,Mild,Normal,Elderly,6.669,Q4 (Highest),High,1
+59.32384894540032,0,1,8,10,8.8,3,60,Male,Disabled,Mild,Moderate,Normal,Older,6.86,Q4 (Highest),High,1
+414.2465833220783,0,0,10,5,8.0,3,17,Male,Unemployed,Moderate,Mild,Normal,Young,6.117,Q3,High,0
+81.5101594962988,0,0,10,4,7.6,4,25,Male,Disabled,Moderate,,Obese,Young,6.025,Q3,High,0
+93.91156218291044,0,0,3,4,3.4,1,35,Male,Employed,,,Overweight,Middle,2.6350000000000007,Q1 (Lowest),Low,0
+312.26243807536923,0,0,4,7,5.2,0,45,Female,Employed,,Mild,Extreme Obesity,Middle,3.745,Q1 (Lowest),Moderate,0
+1248.8975819592615,0,0,7,11,8.600000000000001,2,52,Male,Unemployed,Mild,Moderate,Normal,Older,6.552,Q3,High,1
+894.9958689282297,0,0,7,5,6.2,3,34,Female,Disabled,Mild,Mild,Normal,Middle,4.934,Q2,Moderate,0
+729.5472187260236,1,1,8,5,6.8,1,47,Male,Employed,Mild,Mild,Extreme Obesity,Older,4.947,Q2,Moderate,0
+276.30139432398846,0,0,4,6,4.800000000000001,0,33,Male,Employed,,Mild,Obese,Middle,3.433,Q1 (Lowest),Moderate,0
+129.01596547284169,0,0,9,12,10.2,4,35,Male,Disabled,Mild,Moderate,Obese,Middle,8.034999999999998,Q4 (Highest),High,1
+446.5351287574919,0,0,13,5,9.8,3,23,Male,Disabled,Moderate,Mild,Normal,Young,7.323,Q4 (Highest),High,1
+180.1653059148013,0,0,8,5,6.8,2,31,Male,Unemployed,Mild,Mild,Extreme Obesity,Middle,5.131,Q2,Moderate,0
+549.2038187540558,0,0,9,8,8.6,1,24,Male,Employed,Mild,Mild,Overweight,Young,6.224,Q3,Moderate,0
+5.958260011203474,0,0,10,8,9.2,2,30,Female,Unemployed,Moderate,Mild,Overweight,Middle,6.830000000000001,Q4 (Highest),High,1
+275.2262157051449,0,0,5,8,6.2,1,60,Male,Employed,Mild,Mild,Obese,Older,4.66,Q1 (Lowest),Moderate,0
+150.20081370814128,0,0,6,7,6.4,3,30,Female,Disabled,Mild,Mild,Overweight,Middle,5.13,Q2,Moderate,0
+104.54148106649278,1,1,5,8,6.2,0,84,Female,Employed,Mild,Mild,Normal,Elderly,4.484,Q1 (Lowest),Moderate,0
+395.74277143444687,1,1,10,12,10.8,0,52,Male,Employed,Moderate,Moderate,Overweight,Older,7.651999999999999,Q4 (Highest),High,1
+392.0234162740366,0,1,7,12,9.0,0,47,Female,Employed,Mild,Moderate,Normal,Older,6.447,Q3,High,1
+13.786644455389368,0,0,9,9,9.0,4,32,Other,Disabled,Mild,Mild,Underweight,Middle,7.132,Q4 (Highest),Moderate,1
+1077.0192270114946,1,1,11,6,9.0,3,55,Female,Disabled,Moderate,Mild,Normal,Older,6.855,Q4 (Highest),High,1
+163.95313502551434,0,0,7,3,5.4,0,36,Female,Employed,Mild,,Normal,Middle,3.736,Q1 (Lowest),Moderate,0
+910.2516760094788,1,1,8,6,7.2,0,46,Male,Employed,Mild,Mild,Normal,Older,5.046,Q2,Moderate,0
+319.8849560249189,0,1,9,8,8.6,4,83,Female,Disabled,Mild,Mild,Obese,Elderly,6.883,Q4 (Highest),Moderate,1
+385.8966155356904,1,1,9,8,8.6,3,43,Female,Disabled,Mild,Mild,Normal,Middle,6.643,Q3,Moderate,1
+1179.624911540601,1,1,5,4,4.6,4,62,Female,Disabled,Mild,,Obese,Older,4.062,Q1 (Lowest),Moderate,0
+630.3844394593368,0,0,10,5,8.0,1,34,Other,Employed,Moderate,Mild,Normal,Middle,5.734,Q2,High,0
+55.06521396376622,0,0,8,4,6.4,2,44,Male,Unemployed,Mild,,Obese,Middle,4.844,Q2,Moderate,0
+1.9106433968846712,1,1,11,8,9.8,2,71,Male,Unemployed,Moderate,Mild,Normal,Elderly,7.271000000000001,Q4 (Highest),High,1
+134.69175225731678,0,0,8,12,9.6,4,35,Female,Disabled,Mild,Moderate,Underweight,Middle,7.635,Q4 (Highest),High,1
+244.72563603104905,0,0,5,5,5.0,2,72,Female,Unemployed,Mild,Mild,Extreme Obesity,Elderly,3.972,Q1 (Lowest),Moderate,0
+480.8246288671969,0,0,9,5,7.399999999999999,1,55,Male,Employed,Mild,Mild,Normal,Older,5.3549999999999995,Q2,Moderate,0
+394.8927323138075,0,0,9,7,8.2,2,36,Male,Unemployed,Mild,Mild,Extreme Obesity,Middle,6.136,Q3,Moderate,0
+136.95225268446458,0,0,9,4,7.0,2,54,Male,Unemployed,Mild,,Obese,Older,5.2540000000000004,Q2,Moderate,0
+285.02022823168306,0,0,5,9,6.6,2,59,Male,Unemployed,Mild,Mild,Obese,Older,5.159,Q2,Moderate,0
+384.1596907662957,1,1,10,10,10.0,3,54,Female,Disabled,Moderate,Moderate,Obese,Older,7.654,Q4 (Highest),High,1
+263.1769718407924,0,0,10,4,7.6,1,21,Female,Employed,Moderate,,Overweight,Young,5.421,Q2,High,0
+426.2760981052422,1,1,9,7,8.2,4,34,Male,Disabled,Mild,Mild,Overweight,Middle,6.534,Q3,Moderate,1
+242.3644757099084,1,1,8,6,7.2,2,41,Male,Unemployed,Mild,Mild,Extreme Obesity,Middle,5.441000000000001,Q2,Moderate,0
+275.33870296140026,0,0,8,6,7.2,4,43,Male,Disabled,Mild,Mild,Overweight,Middle,5.843,Q3,Moderate,0
+1031.6420125585364,0,0,10,12,10.8,0,54,Male,Employed,Moderate,Moderate,Normal,Older,7.654,Q4 (Highest),High,1
+179.91476145186553,1,1,10,7,8.8,0,47,Female,Employed,Moderate,Mild,Obese,Older,6.146999999999999,Q3,High,0
+514.4267331054477,0,0,3,7,4.6,0,24,Other,Employed,,Mild,Underweight,Young,3.3240000000000003,Q1 (Lowest),Moderate,0
+148.7309153400365,0,1,14,3,9.6,0,50,Female,Employed,Moderate,,Extreme Obesity,Older,6.55,Q3,High,1
+147.1860192328685,1,1,11,8,9.8,2,54,Male,Unemployed,Moderate,Mild,Extreme Obesity,Older,7.254000000000001,Q4 (Highest),High,1
+953.6746475904956,0,0,8,1,5.2,2,53,Female,Unemployed,Mild,,Extreme Obesity,Older,3.953,Q1 (Lowest),Moderate,0
+437.8373068000174,1,1,8,5,6.8,2,61,Female,Unemployed,Mild,Mild,Obese,Older,5.1610000000000005,Q2,Moderate,0
+965.2381496284346,0,0,8,6,7.2,2,57,Female,Unemployed,Mild,Mild,Overweight,Older,5.457000000000001,Q2,Moderate,0
+1904.5441738310624,0,0,9,7,8.2,2,51,Female,Unemployed,Mild,Mild,Overweight,Older,6.151000000000001,Q3,Moderate,0
+0.0741628298641172,1,1,12,9,10.8,4,43,Male,Disabled,Moderate,Mild,Normal,Middle,8.343,Q4 (Highest),High,1
+1490.4480815252018,0,0,13,10,11.8,0,20,Male,Employed,Moderate,Moderate,Extreme Obesity,Young,8.219999999999999,Q4 (Highest),High,1
+38.809884346715045,0,0,11,10,10.6,3,51,Male,Unemployed,Moderate,Moderate,Overweight,Older,8.051,Q4 (Highest),High,1
+26.64983343640713,0,0,7,6,6.6000000000000005,1,48,Male,Employed,Mild,Mild,Obese,Older,4.848,Q2,Moderate,0
+532.9724291714201,0,0,7,7,7.0,0,49,Male,Employed,Mild,Mild,Overweight,Older,4.949000000000001,Q2,Moderate,0
+157.3394394447902,0,1,5,11,7.4,2,25,Female,Unemployed,Mild,Moderate,Normal,Young,5.7250000000000005,Q2,High,0
+912.041998131556,0,0,6,3,4.8,3,28,Female,Unemployed,Mild,,Underweight,Middle,3.9280000000000004,Q1 (Lowest),Moderate,0
+287.02650406904405,0,0,3,9,5.4,1,60,Female,Employed,,Mild,Overweight,Older,4.159999999999999,Q1 (Lowest),Moderate,0
+178.09890211743974,0,0,9,4,7.0,1,44,Male,Employed,Mild,,Overweight,Middle,5.044,Q2,Moderate,0
+27.83987893963436,1,1,13,9,11.4,0,55,Other,Employed,Moderate,Mild,Overweight,Older,7.955,Q4 (Highest),High,1
+228.0549611498153,0,0,7,7,7.0,4,45,Female,Disabled,Mild,Mild,Obese,Middle,5.745,Q3,Moderate,0
+118.83980524832748,0,0,7,13,9.4,3,45,Female,Disabled,Mild,Moderate,Overweight,Middle,7.345000000000001,Q4 (Highest),High,1
+29.09303926990516,1,1,11,9,10.2,0,59,Other,Employed,Moderate,Mild,Obese,Older,7.159,Q4 (Highest),High,1
+405.0918486050873,0,0,6,4,5.199999999999999,4,37,Female,Disabled,Mild,,Obese,Middle,4.437,Q1 (Lowest),Moderate,0
+1382.261022368747,0,0,9,9,9.0,0,46,Other,Employed,Mild,Mild,Overweight,Older,6.346,Q3,Moderate,1
+173.8445731765736,0,0,13,5,9.8,1,38,Male,Employed,Moderate,Mild,Normal,Middle,6.938000000000001,Q4 (Highest),High,1
+128.76298491847052,1,1,11,7,9.4,2,38,Male,Unemployed,Moderate,Mild,Overweight,Middle,6.938000000000001,Q4 (Highest),High,1
+34.407430733551905,1,1,11,14,12.2,1,40,Male,Employed,Moderate,Moderate,Overweight,Middle,8.84,Q4 (Highest),High,1
+92.16317372851958,0,0,8,8,8.0,2,48,Male,Unemployed,Mild,Mild,Obese,Older,6.048,Q3,Moderate,0
+122.43338283323754,1,1,12,13,12.4,2,37,Male,Unemployed,Moderate,Moderate,Overweight,Middle,9.137000000000002,Q4 (Highest),High,1
+153.97971335532665,0,1,12,8,10.4,0,63,Female,Employed,Moderate,Mild,Overweight,Older,7.263000000000001,Q4 (Highest),High,1
+366.8366498928016,0,0,15,8,12.2,4,31,Female,Disabled,Moderately Severe,Mild,Overweight,Middle,9.231000000000002,Q4 (Highest),Very High,1
+44.53867887054515,0,0,4,2,3.2,0,42,Female,Employed,,,Normal,Middle,2.242,Q1 (Lowest),Low,0
+21.97304377891706,0,0,6,6,6.0,0,38,Male,Employed,Mild,Mild,Extreme Obesity,Middle,4.238,Q1 (Lowest),Moderate,0
+973.6763531964922,1,1,5,7,5.800000000000001,3,66,Female,Disabled,Mild,Mild,Obese,Elderly,4.765999999999999,Q1 (Lowest),Moderate,0
+585.9671956325329,0,0,8,9,8.4,3,47,Female,Unemployed,Mild,Mild,Normal,Older,6.547,Q3,Moderate,1
+119.00379225993842,1,1,10,8,9.2,3,60,Male,Disabled,Moderate,Mild,Obese,Older,7.06,Q4 (Highest),High,1
+371.6801697044657,0,0,7,8,7.4,1,22,Female,Employed,Mild,Mild,Underweight,Young,5.422000000000001,Q2,Moderate,0
+327.6588214395965,0,0,7,6,6.6000000000000005,0,49,Male,Employed,Mild,Mild,Obese,Older,4.649,Q1 (Lowest),Moderate,0
+495.93293723947966,0,0,3,8,5.0,3,58,Male,Disabled,,Mild,Normal,Older,4.258,Q1 (Lowest),Moderate,0
+715.7964170476423,0,0,10,7,8.8,3,46,Female,Disabled,Moderate,Mild,Obese,Older,6.7459999999999996,Q4 (Highest),High,1
+161.6150049247981,0,1,9,5,7.399999999999999,4,60,Male,Disabled,Mild,Mild,Underweight,Older,5.959999999999999,Q3,Moderate,0
+394.65977889474726,0,0,8,8,8.0,3,37,Female,Unemployed,Mild,Mild,Normal,Middle,6.236999999999999,Q3,Moderate,0
+591.188628505475,1,1,9,6,7.8,3,66,Female,Disabled,Mild,Mild,Obese,Elderly,6.066,Q3,Moderate,0
+438.5924861082578,0,1,7,5,6.2,0,79,Female,Employed,Mild,Mild,Normal,Elderly,4.3790000000000004,Q1 (Lowest),Moderate,0
+931.7669920029248,0,0,7,13,9.4,3,39,Male,Disabled,Mild,Moderate,Normal,Middle,7.339,Q4 (Highest),High,1
+249.14101950935896,0,0,10,10,10.0,0,38,Male,Employed,Moderate,Moderate,Extreme Obesity,Middle,7.038,Q4 (Highest),High,1
+592.2960167168667,1,1,6,4,5.199999999999999,3,66,Male,Unemployed,Mild,,Extreme Obesity,Elderly,4.266000000000001,Q1 (Lowest),Moderate,0
+877.8528756090305,0,0,6,6,6.0,3,68,Female,Unemployed,Mild,Mild,Obese,Elderly,4.868,Q2,Moderate,0
+297.2212784445161,0,0,8,12,9.6,3,37,Male,Disabled,Mild,Moderate,Normal,Middle,7.437,Q4 (Highest),High,1
+6.367356571838169,0,0,11,3,7.8,0,38,Male,Employed,Moderate,,Extreme Obesity,Middle,5.338000000000001,Q2,High,0
+621.8850197346816,0,0,8,8,8.0,2,40,Other,Unemployed,Mild,Mild,Normal,Middle,6.04,Q3,Moderate,0
+682.9235026722581,0,0,11,3,7.8,3,24,Female,Disabled,Moderate,,Overweight,Young,5.924,Q3,High,0
+186.3605159565048,0,0,8,7,7.6,3,31,Male,Unemployed,Mild,Mild,Overweight,Middle,5.931,Q3,Moderate,0
+94.96138320613672,0,0,10,7,8.8,4,29,Female,Disabled,Moderate,Mild,Extreme Obesity,Middle,6.928999999999999,Q4 (Highest),High,1
+1395.5850950809615,1,1,6,11,8.0,0,33,Female,Employed,Mild,Moderate,Obese,Middle,5.7330000000000005,Q2,High,0
+292.77459624006923,0,0,8,6,7.2,3,44,Male,Disabled,Mild,Mild,Overweight,Middle,5.643999999999999,Q2,Moderate,0
+265.0052176711082,0,0,7,9,7.800000000000001,1,48,Male,Employed,Mild,Mild,Normal,Older,5.748,Q3,Moderate,0
+1065.8540196213416,1,1,7,6,6.6000000000000005,3,68,Female,Unemployed,Mild,Mild,Obese,Elderly,5.267999999999999,Q2,Moderate,0
+191.4106349871326,0,0,3,11,6.2,0,30,Female,Employed,,Moderate,Normal,Middle,4.53,Q1 (Lowest),High,0
+687.9410075882555,0,0,11,7,9.4,0,59,Female,Employed,Moderate,Mild,Overweight,Older,6.559,Q3,High,1
+440.2430874617582,0,0,7,5,6.2,3,41,Male,Unemployed,Mild,Mild,Normal,Middle,4.941000000000001,Q2,Moderate,0
+1253.1048889020994,0,0,6,8,6.8,1,44,Male,Employed,Mild,Mild,Obese,Middle,5.0440000000000005,Q2,Moderate,0
+204.310555685103,0,1,11,11,11.0,0,55,Male,Employed,Moderate,Moderate,Obese,Older,7.755,Q4 (Highest),High,1
+869.3966084059002,0,0,2,4,2.8,3,28,Male,Disabled,,,Normal,Middle,2.628,Q1 (Lowest),Low,0
+307.1002211256254,0,1,7,5,6.2,0,50,Male,Employed,Mild,Mild,Obese,Older,4.3500000000000005,Q1 (Lowest),Moderate,0
+235.800177220034,0,0,9,12,10.2,3,47,Male,Disabled,Mild,Moderate,Obese,Older,7.846999999999999,Q4 (Highest),High,1
+133.15149987827928,0,0,8,8,8.0,0,52,Female,Employed,Mild,Mild,Obese,Older,5.651999999999999,Q2,Moderate,0
+293.65028682331865,0,1,12,10,11.2,3,49,Other,Unemployed,Moderate,Moderate,Overweight,Older,8.449,Q4 (Highest),High,1
+310.22171578481823,1,1,6,4,5.199999999999999,0,81,Female,Employed,Mild,,Overweight,Elderly,3.6810000000000005,Q1 (Lowest),Moderate,0
+834.6179438227109,0,0,13,7,10.6,1,35,Female,Employed,Moderate,Mild,Overweight,Middle,7.535000000000001,Q4 (Highest),High,1
+444.4260961658681,0,0,11,5,8.6,1,37,Male,Employed,Moderate,Mild,Overweight,Middle,6.1370000000000005,Q3,High,0
+639.270440052249,0,0,12,6,9.6,4,35,Other,Disabled,Moderate,Mild,Overweight,Middle,7.4350000000000005,Q4 (Highest),High,1
+535.053739118257,0,0,4,4,4.0,3,36,Male,Unemployed,,,Extreme Obesity,Middle,3.436,Q1 (Lowest),Low,0
+118.20792007911626,1,1,14,4,10.0,2,35,Other,Unemployed,Moderate,,Obese,Middle,7.235000000000001,Q4 (Highest),High,1
+84.1021664512963,0,0,4,5,4.4,0,62,Other,Employed,,Mild,Normal,Older,3.162,Q1 (Lowest),Moderate,0
+109.15506540692792,1,1,12,12,12.0,1,66,Female,Employed,Moderate,Moderate,Obese,Elderly,8.666,Q4 (Highest),High,1
+57.85352139495238,0,0,5,8,6.2,4,36,Other,Disabled,Mild,Mild,Extreme Obesity,Middle,5.236,Q2,Moderate,0
+178.0098936991754,0,0,6,6,6.0,3,32,Female,Unemployed,Mild,Mild,Overweight,Middle,4.832000000000001,Q1 (Lowest),Moderate,0
+387.27580144408273,1,1,12,7,10.0,0,52,Male,Employed,Moderate,Mild,Obese,Older,6.952,Q4 (Highest),High,1
+281.04255887118853,0,0,9,7,8.2,1,36,Male,Employed,Mild,Mild,Obese,Middle,5.936,Q3,Moderate,0
+414.9984554003247,0,0,10,7,8.8,2,54,Female,Unemployed,Moderate,Mild,Normal,Older,6.554,Q3,High,1
+160.6764465099044,0,0,9,8,8.6,0,48,Male,Employed,Mild,Mild,Overweight,Older,6.048,Q3,Moderate,0
+83.86336450353008,0,0,8,5,6.8,0,22,Female,Employed,Mild,Mild,Obese,Young,4.722,Q1 (Lowest),Moderate,0
+82.70797576509025,1,1,11,6,9.0,3,68,Other,Unemployed,Moderate,Mild,Overweight,Elderly,6.868,Q4 (Highest),High,1
+335.23404083583193,0,1,7,8,7.4,3,71,Male,Disabled,Mild,Mild,Obese,Elderly,5.871,Q3,Moderate,0
+65.50994836713934,0,0,10,5,8.0,0,35,Female,Employed,Moderate,Mild,Extreme Obesity,Middle,5.535,Q2,High,0
+184.7321045859988,0,0,7,5,6.2,1,39,Female,Employed,Mild,Mild,Obese,Middle,4.539000000000001,Q1 (Lowest),Moderate,0
+87.34980275021475,0,0,16,8,12.8,2,49,Female,Unemployed,Moderately Severe,Mild,Extreme Obesity,Older,9.249,Q4 (Highest),Very High,1
+396.7409755118449,0,0,7,4,5.800000000000001,2,50,Other,Unemployed,Mild,,Overweight,Older,4.45,Q1 (Lowest),Moderate,0
+348.7960550558361,1,1,12,6,9.6,3,54,Female,Disabled,Moderate,Mild,Overweight,Older,7.254000000000001,Q4 (Highest),High,1
+175.14594774076377,1,1,5,7,5.800000000000001,4,75,Other,Disabled,Mild,Mild,Overweight,Elderly,4.975,Q2,Moderate,0
+50.29299861361234,0,0,7,5,6.2,0,42,Female,Employed,Mild,Mild,Overweight,Middle,4.3420000000000005,Q1 (Lowest),Moderate,0
+86.87903271510929,1,1,11,5,8.6,3,33,Male,Disabled,Moderate,Mild,Obese,Middle,6.533,Q3,High,1
+233.25508171018365,0,0,8,4,6.4,3,24,Female,Disabled,Mild,,Underweight,Young,5.024,Q2,Moderate,0
+1306.152076560973,0,0,11,9,10.2,4,34,Female,Disabled,Moderate,Mild,Overweight,Middle,7.933999999999999,Q4 (Highest),High,1
+115.2570083310698,0,0,6,6,6.0,0,44,Male,Employed,Mild,Mild,Normal,Middle,4.244,Q1 (Lowest),Moderate,0
+77.44996634966202,1,1,9,4,7.0,4,71,Female,Disabled,Mild,,Normal,Elderly,5.670999999999999,Q2,Moderate,0
+91.00834101944598,0,0,7,7,7.0,3,37,Female,Disabled,Mild,Mild,Obese,Middle,5.537,Q2,Moderate,0
+449.48950065961753,0,0,5,10,7.0,3,48,Male,Disabled,Mild,Moderate,Overweight,Older,5.648,Q2,High,0
+898.4092507111429,0,0,8,7,7.6,2,44,Female,Unemployed,Mild,Mild,Obese,Middle,5.744000000000001,Q3,Moderate,0
+28.523690790597723,0,0,4,9,6.0,4,62,Female,Disabled,,Mild,Overweight,Older,5.162,Q2,Moderate,0
+504.9601877300073,0,0,4,3,3.6,4,82,Female,Disabled,,,Obese,Elderly,3.3819999999999997,Q1 (Lowest),Low,0
+249.08267975379104,0,0,4,7,5.2,2,37,Male,Unemployed,,Mild,Overweight,Middle,4.1370000000000005,Q1 (Lowest),Moderate,0
+636.5812718079247,0,0,12,7,10.0,3,37,Male,Unemployed,Moderate,Mild,Underweight,Middle,7.537,Q4 (Highest),High,1
+199.773965682735,0,0,6,15,9.6,0,60,Male,Employed,Mild,Severe,Overweight,Older,6.96,Q4 (Highest),Very High,1
+1.9089148919588308,0,0,9,4,7.0,0,55,Female,Employed,Mild,,Underweight,Older,4.8549999999999995,Q2,Moderate,0
+419.09714881565895,1,1,8,10,8.8,2,72,Male,Unemployed,Mild,Moderate,Normal,Elderly,6.672000000000001,Q4 (Highest),High,1
+602.2905601454587,0,0,4,8,5.6,0,53,Female,Employed,,Mild,Normal,Older,4.053,Q1 (Lowest),Moderate,0
+847.896120528528,0,0,10,9,9.6,4,39,Male,Disabled,Moderate,Mild,Normal,Middle,7.538999999999999,Q4 (Highest),High,1
+307.2446616056906,1,1,13,11,12.2,1,53,Male,Employed,Moderate,Moderate,Normal,Older,8.753,Q4 (Highest),High,1
+47.50983352606678,0,1,7,3,5.4,3,61,Female,Disabled,Mild,,Normal,Older,4.361000000000001,Q1 (Lowest),Moderate,0
+168.547153961627,1,1,6,10,7.6,3,57,Female,Disabled,Mild,Moderate,Normal,Older,6.057,Q3,High,0
+559.7771710812752,1,1,11,13,11.8,3,52,Male,Disabled,Moderate,Moderate,Extreme Obesity,Older,8.952,Q4 (Highest),High,1
+248.9428043324301,0,0,6,10,7.6,2,61,Male,Unemployed,Mild,Moderate,Normal,Older,5.861000000000001,Q3,High,0
+438.5320230440319,1,1,8,4,6.4,0,62,Male,Employed,Mild,,Underweight,Older,4.462000000000001,Q1 (Lowest),Moderate,0
+1.7157607652906284,0,0,6,6,6.0,1,65,Female,Employed,Mild,Mild,Overweight,Older,4.465000000000001,Q1 (Lowest),Moderate,0
+27.66854665394591,1,1,13,6,10.2,2,54,Female,Unemployed,Moderate,Mild,Normal,Older,7.454000000000001,Q4 (Highest),High,1
+417.2231846715305,1,1,7,8,7.4,3,42,Male,Unemployed,Mild,Mild,Normal,Middle,5.8420000000000005,Q3,Moderate,0
+125.11276138645732,0,0,5,6,5.4,1,47,Male,Employed,Mild,Mild,Obese,Older,4.047,Q1 (Lowest),Moderate,0
+179.33475222216973,0,0,8,7,7.6,3,63,Male,Unemployed,Mild,Mild,Overweight,Older,5.963,Q3,Moderate,0
+375.07167256148927,0,0,5,6,5.4,3,32,Female,Unemployed,Mild,Mild,Normal,Middle,4.432,Q1 (Lowest),Moderate,0
+43.36194807552161,0,0,12,8,10.4,4,50,Other,Disabled,Moderate,Mild,Obese,Older,8.050000000000002,Q4 (Highest),High,1
+652.6260641832697,0,0,11,8,9.8,3,39,Male,Disabled,Moderate,Mild,Obese,Middle,7.439,Q4 (Highest),High,1
+56.93720586735245,0,0,11,10,10.6,4,45,Female,Disabled,Moderate,Moderate,Obese,Middle,8.245000000000001,Q4 (Highest),High,1
+482.371370383055,0,0,8,5,6.8,2,64,Male,Unemployed,Mild,Mild,Underweight,Older,5.164000000000001,Q2,Moderate,0
+126.42614665374322,0,0,5,10,7.0,2,47,Male,Unemployed,Mild,Moderate,Normal,Older,5.447,Q2,High,0
+109.88903838769032,0,0,9,3,6.6,3,45,Female,Disabled,Mild,,Overweight,Middle,5.145,Q2,Moderate,0
+628.4750064984556,0,0,12,8,10.4,3,24,Female,Disabled,Moderate,Mild,Overweight,Young,7.824000000000001,Q4 (Highest),High,1
+293.2455531753373,1,1,14,5,10.4,1,56,Other,Employed,Moderate,Mild,Overweight,Older,7.356000000000001,Q4 (Highest),High,1
+83.9644193471643,0,0,4,11,6.800000000000001,3,54,Female,Disabled,,Moderate,Normal,Older,5.554,Q2,High,0
+0.9305668143409304,1,1,6,5,5.6,3,77,Male,Disabled,Mild,Mild,Normal,Elderly,4.577,Q1 (Lowest),Moderate,0
+1318.8220433719146,0,0,11,13,11.8,0,40,Female,Employed,Moderate,Moderate,Extreme Obesity,Middle,8.34,Q4 (Highest),High,1
+206.0621336394045,0,0,9,10,9.4,1,48,Male,Employed,Mild,Moderate,Overweight,Older,6.848,Q4 (Highest),High,1
+184.8869104074653,1,1,10,7,8.8,0,48,Female,Employed,Moderate,Mild,Obese,Older,6.148,Q3,High,0
+18.842939804421057,0,0,5,4,4.6,1,68,Male,Employed,Mild,,Overweight,Elderly,3.4680000000000004,Q1 (Lowest),Moderate,0
+820.5673631124687,0,0,4,3,3.6,2,43,Female,Unemployed,,,Overweight,Middle,2.943,Q1 (Lowest),Low,0
+55.299869107438646,0,0,5,5,5.0,0,49,Male,Employed,Mild,Mild,Overweight,Older,3.549,Q1 (Lowest),Moderate,0
+149.15862015693773,0,0,8,5,6.8,1,54,Male,Employed,Mild,Mild,Normal,Older,4.954000000000001,Q2,Moderate,0
+199.52077350316395,0,0,12,5,9.2,2,47,Female,Unemployed,Moderate,Mild,Normal,Older,6.747000000000001,Q4 (Highest),High,1
+606.37009601669,0,0,6,8,6.8,0,38,Male,Employed,Mild,Mild,Obese,Middle,4.838000000000001,Q1 (Lowest),Moderate,0
+162.59073278426467,0,0,16,11,14.0,1,47,Female,Employed,Moderately Severe,Moderate,Overweight,Older,9.947,Q4 (Highest),Very High,1
+276.7208182970594,0,0,5,8,6.2,0,61,Male,Employed,Mild,Mild,Obese,Older,4.461,Q1 (Lowest),Moderate,0
+204.36200314800385,0,0,7,3,5.4,2,29,Male,Unemployed,Mild,,Obese,Middle,4.1290000000000004,Q1 (Lowest),Moderate,0
+136.41536743538038,0,1,10,10,10.0,3,46,Male,Disabled,Moderate,Moderate,Normal,Older,7.646,Q4 (Highest),High,1
+1067.405900067219,0,0,7,8,7.4,1,34,Male,Employed,Mild,Mild,Obese,Middle,5.434,Q2,Moderate,0
+581.7890638832699,1,1,10,11,10.4,0,62,Female,Employed,Moderate,Moderate,Obese,Older,7.362,Q4 (Highest),High,1
+69.92958682268304,0,0,6,6,6.0,1,22,Male,Employed,Mild,Mild,Obese,Young,4.422000000000001,Q1 (Lowest),Moderate,0
+295.2927718965772,0,0,8,7,7.6,0,36,Other,Employed,Mild,Mild,Extreme Obesity,Middle,5.336,Q2,Moderate,0
+581.2204312727309,0,0,10,6,8.4,2,50,Female,Unemployed,Moderate,Mild,Extreme Obesity,Older,6.25,Q3,High,1
+316.4552290469529,0,0,5,4,4.6,4,68,Male,Disabled,Mild,,Obese,Elderly,4.068,Q1 (Lowest),Moderate,0
+248.4856208833521,0,0,6,5,5.6,1,44,Female,Employed,Mild,Mild,Obese,Middle,4.144,Q1 (Lowest),Moderate,0
+27.297457248810527,0,0,10,9,9.6,0,36,Female,Employed,Moderate,Mild,Obese,Middle,6.735999999999999,Q4 (Highest),High,1
+40.92529731609279,0,0,3,7,4.6,2,73,Female,Unemployed,,Mild,Normal,Elderly,3.773,Q1 (Lowest),Moderate,0
+102.69451851216895,0,0,1,3,1.8000000000000005,4,23,Male,Disabled,,,Normal,Young,2.1229999999999998,Q1 (Lowest),Low,0
+262.91170781552046,0,0,5,7,5.800000000000001,3,12,Male,Disabled,Mild,Mild,Obese,Young,4.711999999999999,Q1 (Lowest),Moderate,0
+1593.5506756272337,0,1,14,9,12.0,4,51,Female,Disabled,Moderate,Mild,Normal,Older,9.151000000000002,Q4 (Highest),High,1
+591.6042483920033,0,0,8,12,9.6,0,37,Female,Employed,Mild,Moderate,Obese,Middle,6.837,Q4 (Highest),High,1
+42.55575945347881,0,0,7,4,5.800000000000001,0,29,Female,Employed,Mild,,Overweight,Middle,4.029,Q1 (Lowest),Moderate,0
+461.0772663165173,0,0,7,6,6.6000000000000005,0,55,Male,Employed,Mild,Mild,Normal,Older,4.654999999999999,Q1 (Lowest),Moderate,0
+607.0734828200729,0,0,11,3,7.8,2,48,Female,Unemployed,Moderate,,Overweight,Older,5.748000000000001,Q3,High,0
+195.23297784476503,0,0,8,6,7.2,2,36,Female,Unemployed,Mild,Mild,Extreme Obesity,Middle,5.436,Q2,Moderate,0
+146.25474235922144,0,0,2,5,3.2,3,25,Female,Unemployed,,Mild,Overweight,Young,2.925,Q1 (Lowest),Moderate,0
+320.6706508757225,1,1,14,7,11.2,0,58,Male,Employed,Moderate,Mild,Overweight,Older,7.758000000000001,Q4 (Highest),High,1
+267.25566484431204,0,0,9,6,7.8,0,54,Female,Employed,Mild,Mild,Overweight,Older,5.454000000000001,Q2,Moderate,0
+112.48403638086474,0,0,5,7,5.800000000000001,0,43,Male,Employed,Mild,Mild,Obese,Middle,4.143,Q1 (Lowest),Moderate,0
+184.85967512488656,0,0,11,6,9.0,3,72,Male,Disabled,Moderate,Mild,Overweight,Elderly,6.872000000000001,Q4 (Highest),High,1
+286.97117439277906,0,0,7,11,8.600000000000001,2,28,Female,Unemployed,Mild,Moderate,Obese,Middle,6.528,Q3,High,1
+316.5719838157214,0,0,6,8,6.8,2,22,Male,Unemployed,Mild,Mild,Normal,Young,5.222000000000001,Q2,Moderate,0
+276.9444493630164,0,0,9,11,9.8,4,34,Male,Disabled,Mild,Moderate,Normal,Middle,7.734,Q4 (Highest),High,1
+683.0978811744382,1,1,9,8,8.6,4,44,Male,Disabled,Mild,Mild,Normal,Middle,6.843999999999999,Q4 (Highest),Moderate,1
+11.77484077392597,0,0,7,4,5.800000000000001,3,48,Female,Disabled,Mild,,Obese,Older,4.648,Q1 (Lowest),Moderate,0
+147.80337968534192,0,0,5,6,5.4,0,41,Female,Employed,Mild,Mild,Overweight,Middle,3.8409999999999997,Q1 (Lowest),Moderate,0
+505.75459882734674,0,0,6,6,6.0,3,50,Male,Disabled,Mild,Mild,Overweight,Older,4.8500000000000005,Q2,Moderate,0
+385.0488261109717,0,0,7,8,7.4,0,26,Female,Employed,Mild,Mild,Obese,Middle,5.226,Q2,Moderate,0
+914.0669103122472,0,1,13,9,11.4,0,66,Female,Employed,Moderate,Mild,Obese,Elderly,7.966,Q4 (Highest),High,1
+323.67578462378555,0,0,7,5,6.2,2,43,Male,Unemployed,Mild,Mild,Overweight,Middle,4.743000000000001,Q1 (Lowest),Moderate,0
+371.0327280465237,0,0,8,8,8.0,3,61,Female,Disabled,Mild,Mild,Normal,Older,6.260999999999999,Q3,Moderate,1
+445.5192994657728,0,0,2,3,2.4000000000000004,1,50,Female,Employed,,,Normal,Older,1.95,Q1 (Lowest),Low,0
+75.20510356240585,0,0,8,5,6.8,0,51,Female,Employed,Mild,Mild,Normal,Older,4.751,Q1 (Lowest),Moderate,0
+510.7646963724332,1,1,4,9,6.0,3,53,Male,Disabled,,Mild,Overweight,Older,4.953,Q2,Moderate,0
+130.12881345555337,0,0,10,6,8.4,0,51,Female,Employed,Moderate,Mild,Normal,Older,5.851,Q3,High,0
+201.66910698447344,1,1,11,15,12.6,0,54,Female,Employed,Moderate,Severe,Overweight,Older,8.954,Q4 (Highest),Very High,1
+5.148514175220931,0,0,7,9,7.800000000000001,0,64,Male,Employed,Mild,Mild,Overweight,Older,5.564,Q2,Moderate,0
+677.1190345658322,0,0,11,6,9.0,4,47,Male,Disabled,Moderate,Mild,Obese,Older,7.047,Q4 (Highest),High,1
+1119.8748096993254,0,0,10,7,8.8,0,55,Male,Employed,Moderate,Mild,Obese,Older,6.154999999999999,Q3,High,0
+22.65867582788392,0,0,11,8,9.8,2,43,Male,Unemployed,Moderate,Mild,Overweight,Middle,7.243000000000001,Q4 (Highest),High,1
+368.068377454132,1,1,12,3,8.399999999999999,4,66,Female,Disabled,Moderate,,Extreme Obesity,Elderly,6.566000000000001,Q3,High,1
+1182.0651671527885,0,0,7,8,7.4,2,34,Male,Unemployed,Mild,Mild,Underweight,Middle,5.634,Q2,Moderate,0
+340.798036905639,1,1,7,7,7.0,2,72,Male,Unemployed,Mild,Mild,Extreme Obesity,Elderly,5.372000000000001,Q2,Moderate,0
+583.7244152654124,1,1,8,8,8.0,2,44,Female,Unemployed,Mild,Mild,Obese,Middle,6.044,Q3,Moderate,0
+45.88387558837826,0,0,10,4,7.6,0,23,Male,Employed,Moderate,,Overweight,Young,5.223,Q2,High,0
+102.50607921257073,0,1,11,5,8.6,0,46,Other,Employed,Moderate,Mild,Normal,Older,5.946000000000001,Q3,High,0
+154.84854557061,0,0,10,4,7.6,2,34,Male,Unemployed,Moderate,,Overweight,Middle,5.634,Q2,High,0
+1449.8259995790756,0,1,9,7,8.2,2,57,Male,Unemployed,Mild,Mild,Obese,Older,6.157000000000001,Q3,Moderate,0
+555.6184212250056,0,0,3,4,3.4,3,35,Male,Disabled,,,Obese,Middle,3.0350000000000006,Q1 (Lowest),Low,0
+791.540427010808,0,0,7,8,7.4,2,38,Male,Unemployed,Mild,Mild,Obese,Middle,5.638000000000001,Q2,Moderate,0
+243.68437007180296,0,0,3,9,5.4,0,16,Male,Employed,,Mild,Normal,Young,3.916,Q1 (Lowest),Moderate,0
+460.4916031671305,0,0,10,6,8.4,2,38,Female,Unemployed,Moderate,Mild,Normal,Middle,6.238,Q3,High,0
+480.0283875157892,0,0,7,9,7.800000000000001,2,8,Other,Unemployed,Mild,Mild,Overweight,Young,5.908,Q3,Moderate,0
+307.13607246670034,0,0,6,6,6.0,3,21,Male,Disabled,Mild,Mild,Obese,Young,4.821000000000001,Q1 (Lowest),Moderate,0
+767.7707121440505,1,1,11,6,9.0,2,56,Female,Unemployed,Moderate,Mild,Overweight,Older,6.656000000000001,Q3,High,1
+62.87989224426974,0,0,7,10,8.2,3,56,Female,Disabled,Mild,Moderate,Extreme Obesity,Older,6.456,Q3,High,1
+21.62269160834392,0,1,12,6,9.6,3,51,Female,Disabled,Moderate,Mild,Overweight,Older,7.251000000000001,Q4 (Highest),High,1
+132.30767977706597,0,0,4,4,4.0,2,30,Male,Unemployed,,,Overweight,Middle,3.2299999999999995,Q1 (Lowest),Low,0
+33.73088051128777,0,0,8,10,8.8,2,44,Male,Unemployed,Mild,Moderate,Obese,Middle,6.644,Q3,High,1
+22.707308293792902,0,0,8,6,7.2,0,44,Male,Employed,Mild,Mild,Extreme Obesity,Middle,5.044,Q2,Moderate,0
+198.25306778809505,0,0,4,6,4.800000000000001,1,27,Female,Employed,,Mild,Normal,Middle,3.6270000000000002,Q1 (Lowest),Moderate,0
+81.678187820208,1,1,11,5,8.6,3,67,Female,Disabled,Moderate,Mild,Normal,Elderly,6.567,Q3,High,1
+569.8928822441284,0,0,7,5,6.2,3,58,Male,Disabled,Mild,Mild,Overweight,Older,4.958,Q2,Moderate,0
+316.4503764295041,0,0,8,6,7.2,0,41,Male,Employed,Mild,Mild,Extreme Obesity,Middle,5.041,Q2,Moderate,0
+163.23305917118557,0,0,11,7,9.4,3,45,Female,Disabled,Moderate,Mild,Overweight,Middle,7.145,Q4 (Highest),High,1
+123.23666935561654,0,0,3,12,6.6000000000000005,0,48,Female,Employed,,Moderate,Overweight,Older,4.848,Q2,High,0
+302.27047303718444,0,0,10,2,6.8,3,14,Other,Disabled,Moderate,,Obese,Young,5.2139999999999995,Q2,High,0
+207.74519172740403,0,0,11,4,8.2,0,41,Female,Employed,Moderate,,Obese,Middle,5.641000000000001,Q2,High,0
+20.932247310332475,0,0,3,8,5.0,0,34,Male,Employed,,Mild,Overweight,Middle,3.634,Q1 (Lowest),Moderate,0
+399.3807726595478,0,0,10,4,7.6,4,29,Female,Disabled,Moderate,,Obese,Middle,6.029,Q3,High,0
+252.8218028260302,1,1,9,9,9.0,3,40,Female,Disabled,Mild,Mild,Normal,Middle,6.94,Q4 (Highest),Moderate,1
+118.33562571669572,0,1,8,15,10.8,4,71,Male,Disabled,Mild,Severe,Normal,Elderly,8.571,Q4 (Highest),Very High,1
+125.22242346861776,1,1,9,9,9.0,3,54,Female,Unemployed,Mild,Mild,Obese,Older,6.954000000000001,Q4 (Highest),Moderate,1
+220.06315649272932,0,0,7,6,6.6000000000000005,2,36,Female,Unemployed,Mild,Mild,Overweight,Middle,5.036,Q2,Moderate,0
+641.6313823186134,0,0,6,5,5.6,4,53,Male,Disabled,Mild,Mild,Normal,Older,4.753,Q1 (Lowest),Moderate,0
+200.7502471684328,1,1,10,3,7.2,4,65,Female,Disabled,Moderate,,Normal,Older,5.765000000000001,Q3,High,0
+667.9372566935283,0,1,12,11,11.6,3,58,Female,Disabled,Moderate,Moderate,Normal,Older,8.758000000000001,Q4 (Highest),High,1
+201.8987925975297,0,0,8,6,7.2,4,45,Other,Disabled,Mild,Mild,Overweight,Middle,5.845,Q3,Moderate,0
+646.5778569051897,0,0,9,8,8.6,0,35,Male,Employed,Mild,Mild,Obese,Middle,6.035,Q3,Moderate,0
+978.696057908878,0,1,11,4,8.2,3,55,Male,Unemployed,Moderate,,Overweight,Older,6.255000000000001,Q3,High,1
+7.587791271960742,1,1,9,13,10.6,3,50,Female,Disabled,Mild,Moderate,Obese,Older,8.15,Q4 (Highest),High,1
+23.459400306516244,0,0,6,6,6.0,2,58,Male,Unemployed,Mild,Mild,Overweight,Older,4.658,Q1 (Lowest),Moderate,0
+52.52081802728668,0,1,8,8,8.0,2,54,Female,Unemployed,Mild,Mild,Extreme Obesity,Older,6.054,Q3,Moderate,0
+47.53975897401526,0,0,6,12,8.4,0,60,Female,Employed,Mild,Moderate,Extreme Obesity,Older,6.06,Q3,High,0
+221.1943547231625,0,0,9,4,7.0,3,36,Male,Disabled,Mild,,Overweight,Middle,5.436,Q2,Moderate,0
+527.0847671961789,0,1,7,7,7.0,3,64,Female,Unemployed,Mild,Mild,Obese,Older,5.564,Q2,Moderate,0
+1187.2173195929745,0,0,7,5,6.2,1,47,Female,Employed,Mild,Mild,Obese,Older,4.547000000000001,Q1 (Lowest),Moderate,0
+197.431527254168,0,0,6,4,5.199999999999999,3,76,Male,Disabled,Mild,,Overweight,Elderly,4.276000000000001,Q1 (Lowest),Moderate,0
+425.69781582115706,0,0,9,14,11.0,3,34,Female,Disabled,Mild,Moderate,Obese,Middle,8.434000000000001,Q4 (Highest),High,1
+368.37540691111417,1,1,13,7,10.6,2,71,Female,Unemployed,Moderate,Mild,Obese,Elderly,7.771000000000001,Q4 (Highest),High,1
+182.3280474498364,0,0,5,6,5.4,0,47,Female,Employed,Mild,Mild,Overweight,Older,3.847,Q1 (Lowest),Moderate,0
+466.1000050749756,0,0,2,9,4.8,1,35,Female,Employed,,Mild,Extreme Obesity,Middle,3.7350000000000003,Q1 (Lowest),Moderate,0
+327.174399583303,0,0,5,6,5.4,0,37,Female,Employed,Mild,Mild,Overweight,Middle,3.8369999999999997,Q1 (Lowest),Moderate,0
+520.8055031258406,0,0,6,4,5.199999999999999,1,40,Female,Employed,Mild,,Overweight,Middle,3.8400000000000007,Q1 (Lowest),Moderate,0
+78.56105961974554,0,1,9,9,9.0,3,51,Female,Disabled,Mild,Mild,Extreme Obesity,Older,6.9510000000000005,Q4 (Highest),Moderate,1
+163.0495996955944,1,1,11,5,8.6,3,52,Female,Unemployed,Moderate,Mild,Overweight,Older,6.552,Q3,High,1
+406.0158770099519,0,0,9,5,7.399999999999999,2,36,Female,Unemployed,Mild,Mild,Overweight,Middle,5.536,Q2,Moderate,0
+48.65698330508655,0,0,5,7,5.800000000000001,0,44,Male,Employed,Mild,Mild,Overweight,Middle,4.143999999999999,Q1 (Lowest),Moderate,0
+537.0631981069871,1,1,10,10,10.0,1,77,Female,Employed,Moderate,Moderate,Overweight,Elderly,7.277,Q4 (Highest),High,1
+52.27663785195214,1,1,5,7,5.800000000000001,1,70,Male,Employed,Mild,Mild,Obese,Elderly,4.37,Q1 (Lowest),Moderate,0
+143.16550116553168,0,1,14,3,9.6,3,51,Male,Unemployed,Moderate,,Normal,Older,7.151,Q4 (Highest),High,1
+98.98448708718094,0,0,5,5,5.0,4,45,Male,Disabled,Mild,Mild,Obese,Middle,4.345,Q1 (Lowest),Moderate,0
+22.967414596666263,0,0,8,3,6.0,3,46,Other,Disabled,Mild,,Underweight,Older,4.7459999999999996,Q1 (Lowest),Moderate,0
+115.19798815201564,0,0,6,12,8.4,1,54,Female,Employed,Mild,Moderate,Normal,Older,6.2540000000000004,Q3,High,1
+885.0809786506406,1,1,13,9,11.4,3,29,Female,Disabled,Moderate,Mild,Extreme Obesity,Middle,8.529,Q4 (Highest),High,1
+9.963721251137729,0,1,8,4,6.4,4,41,Female,Disabled,Mild,,Normal,Middle,5.2410000000000005,Q2,Moderate,0
+6.194833368695432,0,0,6,14,9.2,2,19,Female,Unemployed,Mild,Moderate,Underweight,Young,7.019000000000001,Q4 (Highest),High,1
+444.6786767387746,0,0,7,8,7.4,0,50,Female,Employed,Mild,Mild,Normal,Older,5.25,Q2,Moderate,0
+166.8339709207295,1,1,5,10,7.0,4,54,Female,Disabled,Mild,Moderate,Extreme Obesity,Older,5.854,Q3,High,0
+95.2754242014429,0,0,11,9,10.2,0,37,Male,Employed,Moderate,Mild,Underweight,Middle,7.137,Q4 (Highest),High,1
+259.53354221508977,0,0,11,5,8.6,0,68,Male,Employed,Moderate,Mild,Normal,Elderly,5.968,Q3,High,0
+113.2109638398328,0,0,9,12,10.2,4,26,Female,Disabled,Mild,Moderate,Normal,Middle,8.026,Q4 (Highest),High,1
+181.6276044846759,0,0,5,3,4.2,2,23,Female,Unemployed,Mild,,Overweight,Young,3.323,Q1 (Lowest),Moderate,0
+458.6031940671153,0,0,11,5,8.6,3,48,Male,Disabled,Moderate,Mild,Overweight,Older,6.548,Q3,High,1
+45.378564475867805,1,1,6,7,6.4,2,60,Male,Unemployed,Mild,Mild,Overweight,Older,4.96,Q2,Moderate,0
+1171.7659783565236,0,1,10,6,8.4,3,70,Female,Disabled,Moderate,Mild,Extreme Obesity,Elderly,6.470000000000001,Q3,High,1
+15.862723280586152,0,0,4,7,5.2,1,38,Male,Employed,,Mild,Normal,Middle,3.938,Q1 (Lowest),Moderate,0
+599.5748551184219,1,1,7,9,7.800000000000001,2,61,Female,Unemployed,Mild,Mild,Overweight,Older,5.961,Q3,Moderate,0
+470.6670319655051,1,1,11,9,10.2,2,44,Other,Unemployed,Moderate,Mild,Obese,Middle,7.544,Q4 (Highest),High,1
+120.96482408587276,0,0,10,2,6.8,1,42,Male,Employed,Moderate,,Normal,Middle,4.842,Q2,High,0
+45.96420721292864,0,0,7,4,5.800000000000001,3,58,Male,Disabled,Mild,,Obese,Older,4.6579999999999995,Q1 (Lowest),Moderate,0
+698.2740488160715,0,0,10,9,9.6,2,54,Female,Unemployed,Moderate,Mild,Overweight,Older,7.154,Q4 (Highest),High,1
+415.4507933486927,1,1,8,10,8.8,4,21,Female,Disabled,Mild,Moderate,Obese,Young,7.021,Q4 (Highest),High,1
+125.46226750220292,0,1,3,4,3.4,3,67,Female,Disabled,,,Overweight,Elderly,3.0670000000000006,Q1 (Lowest),Low,0
+6.232049491526626,1,1,7,9,7.800000000000001,4,65,Other,Disabled,Mild,Mild,Underweight,Older,6.365,Q3,Moderate,1
+1017.8247948688266,0,0,6,5,5.6,1,35,Male,Employed,Mild,Mild,Extreme Obesity,Middle,4.135000000000001,Q1 (Lowest),Moderate,0
+189.0479095061993,1,1,8,6,7.2,3,50,Female,Disabled,Mild,Mild,Extreme Obesity,Older,5.6499999999999995,Q2,Moderate,0
+70.77665540853363,0,0,9,11,9.8,1,52,Female,Employed,Mild,Moderate,Overweight,Older,7.152,Q4 (Highest),High,1
+886.4146391294211,1,1,10,8,9.2,3,48,Female,Unemployed,Moderate,Mild,Normal,Older,7.048,Q4 (Highest),High,1
+162.336680606309,0,0,12,8,10.4,3,36,Male,Disabled,Moderate,Mild,Extreme Obesity,Middle,7.836,Q4 (Highest),High,1
+227.11245332212988,1,1,10,8,9.2,2,34,Female,Unemployed,Moderate,Mild,Extreme Obesity,Middle,6.8340000000000005,Q4 (Highest),High,1
+437.7733047108215,0,0,7,2,5.0,3,44,Female,Disabled,Mild,,Overweight,Middle,4.044,Q1 (Lowest),Moderate,0
+624.724835061113,1,1,7,5,6.2,2,62,Male,Unemployed,Mild,Mild,Overweight,Older,4.762000000000001,Q1 (Lowest),Moderate,0
+38.52868232623979,1,1,13,6,10.2,0,53,Male,Employed,Moderate,Mild,Overweight,Older,7.053,Q4 (Highest),High,1
+835.6351209520373,1,1,8,10,8.8,2,39,Female,Unemployed,Mild,Moderate,Underweight,Middle,6.639,Q3,High,1
+984.1189388907874,1,1,13,10,11.8,2,56,Male,Unemployed,Moderate,Moderate,Overweight,Older,8.655999999999999,Q4 (Highest),High,1
+109.54333409456116,0,0,5,3,4.2,4,2,Male,Disabled,Mild,,Extreme Obesity,Young,3.702,Q1 (Lowest),Moderate,0
+251.0968804693753,0,1,7,7,7.0,4,62,Male,Disabled,Mild,Mild,Overweight,Older,5.7620000000000005,Q3,Moderate,0
+712.1334976352879,0,0,9,7,8.2,3,18,Female,Disabled,Mild,Mild,Normal,Young,6.3180000000000005,Q3,Moderate,1
+243.8779159856896,0,0,3,8,5.0,4,39,Female,Disabled,,Mild,Obese,Middle,4.439,Q1 (Lowest),Moderate,0
+240.0717960202905,0,0,11,7,9.4,0,28,Female,Employed,Moderate,Mild,Normal,Middle,6.528,Q3,High,1
+351.75240386908393,0,0,5,10,7.0,3,25,Male,Unemployed,Mild,Moderate,Overweight,Young,5.625,Q2,High,0
+532.3904845849131,0,0,6,7,6.4,2,62,Female,Unemployed,Mild,Mild,Normal,Older,4.962000000000001,Q2,Moderate,0
+399.8463274007463,0,0,8,6,7.2,0,37,Female,Employed,Mild,Mild,Normal,Middle,5.037,Q2,Moderate,0
+359.5307362601393,0,0,4,7,5.2,3,50,Female,Unemployed,,Mild,Obese,Older,4.3500000000000005,Q1 (Lowest),Moderate,0
+169.6125422071946,0,0,5,6,5.4,3,44,Female,Disabled,Mild,Mild,Overweight,Middle,4.444,Q1 (Lowest),Moderate,0
+362.97479662084993,1,1,15,10,13.0,4,52,Male,Disabled,Moderately Severe,Moderate,Normal,Older,9.852,Q4 (Highest),Very High,1
+39.78633936966019,0,0,4,7,5.2,3,46,Female,Disabled,,Mild,Overweight,Older,4.346000000000001,Q1 (Lowest),Moderate,0
+192.3126847897365,0,0,5,4,4.6,2,25,Male,Unemployed,Mild,,Normal,Young,3.625,Q1 (Lowest),Moderate,0
+76.1709910455855,0,1,14,7,11.2,0,59,Female,Employed,Moderate,Mild,Normal,Older,7.759000000000001,Q4 (Highest),High,1
+281.50822744314735,0,0,5,5,5.0,0,37,Male,Employed,Mild,Mild,Obese,Middle,3.537,Q1 (Lowest),Moderate,0
+110.91353049224408,0,0,12,7,10.0,3,21,Male,Unemployed,Moderate,Mild,Obese,Young,7.521,Q4 (Highest),High,1
+257.3570582717814,0,1,13,7,10.6,1,38,Male,Employed,Moderate,Mild,Overweight,Middle,7.538000000000001,Q4 (Highest),High,1
+548.2453710361773,0,0,5,8,6.2,0,67,Female,Employed,Mild,Mild,Overweight,Elderly,4.4670000000000005,Q1 (Lowest),Moderate,0
+207.7391272076753,1,1,6,7,6.4,3,57,Male,Disabled,Mild,Mild,Overweight,Older,5.157,Q2,Moderate,0
+90.09395993510653,0,0,8,8,8.0,3,39,Female,Unemployed,Mild,Mild,Obese,Middle,6.238999999999999,Q3,Moderate,0
+92.08634053155876,0,0,8,6,7.2,0,39,Male,Employed,Mild,Mild,Normal,Middle,5.039,Q2,Moderate,0
+864.0174378867325,0,0,6,6,6.0,2,40,Male,Unemployed,Mild,Mild,Obese,Middle,4.640000000000001,Q1 (Lowest),Moderate,0
+554.1608043224503,0,0,3,4,3.4,4,76,Female,Disabled,,,Obese,Elderly,3.2760000000000002,Q1 (Lowest),Low,0
+13.59924827398861,0,0,10,9,9.6,3,50,Male,Disabled,Moderate,Mild,Overweight,Older,7.349999999999999,Q4 (Highest),High,1
+1043.8462663018554,0,0,6,9,7.199999999999999,0,51,Male,Employed,Mild,Mild,Overweight,Older,5.151,Q2,Moderate,0
+43.58837691027619,1,1,7,10,8.2,3,60,Female,Unemployed,Mild,Moderate,Obese,Older,6.46,Q3,High,1
+386.2665337377431,0,0,4,4,4.0,3,48,Male,Unemployed,,,Overweight,Older,3.448,Q1 (Lowest),Low,0
+292.6765159512628,0,0,7,9,7.800000000000001,4,41,Male,Disabled,Mild,Mild,Normal,Middle,6.341,Q3,Moderate,1
+17.4459588743527,0,0,10,8,9.2,3,42,Male,Disabled,Moderate,Mild,Overweight,Middle,7.042,Q4 (Highest),High,1
+127.67819972066546,0,0,4,4,4.0,3,43,Female,Disabled,,,Obese,Middle,3.443,Q1 (Lowest),Low,0
+545.8413980919081,0,1,10,9,9.6,0,44,Female,Employed,Moderate,Mild,Underweight,Middle,6.743999999999999,Q4 (Highest),High,1
+133.79144511926174,0,0,7,3,5.4,3,55,Female,Unemployed,Mild,,Overweight,Older,4.355,Q1 (Lowest),Moderate,0
+238.91655009005592,0,0,11,4,8.2,0,45,Female,Employed,Moderate,,Obese,Middle,5.6450000000000005,Q2,High,0
+436.9650455963921,1,1,9,11,9.8,2,55,Male,Unemployed,Mild,Moderate,Overweight,Older,7.355,Q4 (Highest),High,1
+27.106124410628965,0,0,7,8,7.4,3,43,Male,Disabled,Mild,Mild,Overweight,Middle,5.843000000000001,Q3,Moderate,0
+652.4021870795153,0,0,9,6,7.8,0,46,Female,Employed,Mild,Mild,Obese,Older,5.446000000000001,Q2,Moderate,0
+15.50170137746768,0,0,6,5,5.6,0,15,Male,Employed,Mild,Mild,Obese,Young,3.9150000000000005,Q1 (Lowest),Moderate,0
+111.08285540814316,0,0,8,4,6.4,0,58,Male,Employed,Mild,,Overweight,Older,4.458,Q1 (Lowest),Moderate,0
+525.5923347627394,0,0,6,7,6.4,4,50,Male,Disabled,Mild,Mild,Overweight,Older,5.35,Q2,Moderate,0
+886.5852698210626,0,0,8,10,8.8,0,59,Male,Employed,Mild,Moderate,Obese,Older,6.259,Q3,High,1
+521.4205780162168,0,0,10,6,8.4,0,1,Other,Employed,Moderate,Mild,Obese,Young,5.801,Q3,High,0
+93.97852132758604,1,1,9,7,8.2,4,76,Male,Disabled,Mild,Mild,Overweight,Elderly,6.576,Q3,Moderate,1
+1550.9444656324615,0,0,7,11,8.600000000000001,2,42,Female,Unemployed,Mild,Moderate,Overweight,Middle,6.542,Q3,High,1
+194.65450136231107,1,1,13,5,9.8,0,61,Male,Employed,Moderate,Mild,Overweight,Older,6.761,Q4 (Highest),High,1
+172.39981737401646,0,0,9,8,8.6,3,29,Other,Disabled,Mild,Mild,Extreme Obesity,Middle,6.629,Q3,Moderate,1
+731.5426597068401,1,1,10,13,11.2,1,54,Male,Employed,Moderate,Moderate,Obese,Older,8.154,Q4 (Highest),High,1
+25.003452387555136,0,0,7,8,7.4,1,29,Male,Employed,Mild,Mild,Obese,Middle,5.429,Q2,Moderate,0
+296.42165804669054,0,0,9,10,9.4,3,35,Female,Unemployed,Mild,Moderate,Normal,Middle,7.234999999999999,Q4 (Highest),High,1
+1230.2144371092827,1,1,7,5,6.2,4,73,Female,Disabled,Mild,Mild,Overweight,Elderly,5.173000000000001,Q2,Moderate,0
+38.50945049033673,0,0,9,1,5.8,2,42,Male,Unemployed,Mild,,Overweight,Middle,4.342,Q1 (Lowest),Moderate,0
+284.1073342809684,0,1,10,6,8.4,2,48,Male,Unemployed,Moderate,Mild,Extreme Obesity,Older,6.248,Q3,High,1
+51.86276210771331,1,1,6,6,6.0,3,58,Male,Disabled,Mild,Mild,Overweight,Older,4.8580000000000005,Q2,Moderate,0
+805.5822294102672,0,0,6,3,4.8,2,52,Male,Unemployed,Mild,,Extreme Obesity,Older,3.7520000000000002,Q1 (Lowest),Moderate,0
+323.4343124189525,0,0,1,9,4.2,1,47,Male,Employed,,Mild,Normal,Older,3.347,Q1 (Lowest),Moderate,0
+97.58681134554077,0,0,10,4,7.6,4,50,Female,Disabled,Moderate,,Overweight,Older,6.05,Q3,High,0
+133.8773826960899,1,1,5,8,6.2,3,81,Male,Disabled,Mild,Mild,Obese,Elderly,5.081,Q2,Moderate,0
+265.3458336069207,0,0,13,5,9.8,0,44,Male,Employed,Moderate,Mild,Extreme Obesity,Middle,6.744,Q4 (Highest),High,1
+471.67155040198566,1,1,13,15,13.8,0,48,Female,Employed,Moderate,Severe,Overweight,Older,9.748,Q4 (Highest),Very High,1
+243.98179400176053,1,1,11,7,9.4,0,60,Other,Employed,Moderate,Mild,Underweight,Older,6.56,Q3,High,1
+76.5825478247519,0,0,9,1,5.8,3,61,Female,Unemployed,Mild,,Normal,Older,4.561,Q1 (Lowest),Moderate,0
+449.4795969124024,1,1,7,6,6.6000000000000005,3,62,Male,Unemployed,Mild,Mild,Overweight,Older,5.262,Q2,Moderate,0
+45.98113106420886,0,0,6,10,7.6,3,54,Male,Unemployed,Mild,Moderate,Normal,Older,6.054,Q3,High,0
+605.0300529665747,0,0,9,5,7.399999999999999,2,27,Other,Unemployed,Mild,Mild,Normal,Middle,5.527,Q2,Moderate,0
+183.7845233325516,1,1,8,8,8.0,2,69,Male,Unemployed,Mild,Mild,Overweight,Elderly,6.069,Q3,Moderate,0
+386.02283142539056,0,0,6,5,5.6,3,27,Male,Unemployed,Mild,Mild,Underweight,Middle,4.527,Q1 (Lowest),Moderate,0
+154.2717642109589,0,0,10,4,7.6,3,49,Female,Disabled,Moderate,,Overweight,Older,5.849000000000001,Q3,High,0
+403.6385634639046,0,0,9,6,7.8,3,33,Female,Disabled,Mild,Mild,Normal,Middle,6.033,Q3,Moderate,0
+802.9672899237125,0,0,7,6,6.6000000000000005,3,44,Female,Disabled,Mild,Mild,Normal,Middle,5.243999999999999,Q2,Moderate,0
+441.1626131497751,0,0,10,6,8.4,3,49,Male,Disabled,Moderate,Mild,Normal,Older,6.449000000000001,Q3,High,1
+406.2236168024007,0,0,8,6,7.2,3,49,Male,Disabled,Mild,Mild,Normal,Older,5.649,Q2,Moderate,0
+516.980835432376,0,0,6,6,6.0,3,51,Other,Disabled,Mild,Mild,Obese,Older,4.851000000000001,Q2,Moderate,0
+253.1535214478928,0,0,7,8,7.4,2,69,Male,Unemployed,Mild,Mild,Extreme Obesity,Elderly,5.6690000000000005,Q2,Moderate,0
+90.82537662701988,0,0,10,7,8.8,3,51,Female,Disabled,Moderate,Mild,Overweight,Older,6.7509999999999994,Q4 (Highest),High,1
+616.9322474518258,0,0,5,8,6.2,0,41,Female,Employed,Mild,Mild,Normal,Middle,4.441000000000001,Q1 (Lowest),Moderate,0
+381.60543808471294,0,1,9,12,10.2,4,59,Female,Disabled,Mild,Moderate,Overweight,Older,8.059,Q4 (Highest),High,1
+137.46505106384453,0,0,5,11,7.4,0,62,Male,Employed,Mild,Moderate,Normal,Older,5.362,Q2,High,0
+117.81637041089888,0,0,8,4,6.4,0,26,Male,Employed,Mild,,Normal,Middle,4.426,Q1 (Lowest),Moderate,0
+252.9468433581532,0,0,4,9,6.0,3,53,Female,Disabled,,Mild,Underweight,Older,4.953,Q2,Moderate,0
+84.79591336059845,0,0,7,8,7.4,2,55,Female,Unemployed,Mild,Mild,Normal,Older,5.655,Q2,Moderate,0
+768.5782346562726,0,0,5,5,5.0,2,40,Female,Unemployed,Mild,Mild,Extreme Obesity,Middle,3.94,Q1 (Lowest),Moderate,0
+567.1650227097458,1,1,16,5,11.6,0,65,Male,Employed,Moderately Severe,Mild,Normal,Older,7.965000000000001,Q4 (Highest),Very High,1
+134.54797139391695,0,0,2,6,3.6000000000000005,2,42,Male,Unemployed,,Mild,Underweight,Middle,3.0419999999999994,Q1 (Lowest),Moderate,0
+18.492961072039176,1,1,8,10,8.8,0,46,Female,Employed,Mild,Moderate,Normal,Older,6.246,Q3,High,0
+19.4404987266868,0,0,9,4,7.0,2,42,Female,Unemployed,Mild,,Underweight,Middle,5.242,Q2,Moderate,0
+128.68759540530152,1,1,11,7,9.4,2,45,Female,Unemployed,Moderate,Mild,Overweight,Middle,6.945,Q4 (Highest),High,1
+58.250634231369865,0,0,8,8,8.0,2,28,Male,Unemployed,Mild,Mild,Overweight,Middle,6.028,Q3,Moderate,0
+754.1585272688558,0,0,6,10,7.6,2,23,Female,Unemployed,Mild,Moderate,Overweight,Young,5.823,Q3,High,0
+199.31838478025915,1,1,11,4,8.2,3,68,Female,Disabled,Moderate,,Overweight,Elderly,6.268000000000001,Q3,High,1
+156.12924326051808,0,0,7,5,6.2,4,32,Female,Disabled,Mild,Mild,Overweight,Middle,5.132000000000001,Q2,Moderate,0
+89.70660205767764,0,0,10,11,10.4,3,30,Male,Disabled,Moderate,Moderate,Normal,Middle,7.930000000000001,Q4 (Highest),High,1
+671.6424003285621,0,0,10,7,8.8,0,12,Male,Employed,Moderate,Mild,Overweight,Young,6.111999999999999,Q3,High,0
+573.9496952264756,0,0,8,6,7.2,4,35,Female,Disabled,Mild,Mild,Obese,Middle,5.835,Q3,Moderate,0
+177.03906582217002,0,0,7,8,7.4,4,25,Male,Disabled,Mild,Mild,Extreme Obesity,Young,6.025,Q3,Moderate,0
+67.72801410781413,0,0,3,8,5.0,3,69,Female,Disabled,,Mild,Overweight,Elderly,4.269,Q1 (Lowest),Moderate,0
+1108.2529490002232,1,1,13,3,9.0,2,60,Other,Unemployed,Moderate,,Overweight,Older,6.56,Q3,High,1
+138.55133612795362,0,0,7,9,7.800000000000001,2,34,Male,Unemployed,Mild,Mild,Obese,Middle,5.934,Q3,Moderate,0
+538.1683690855535,0,0,7,4,5.800000000000001,3,78,Female,Unemployed,Mild,,Extreme Obesity,Elderly,4.678,Q1 (Lowest),Moderate,0
+226.97506646845017,1,1,12,8,10.4,2,59,Male,Unemployed,Moderate,Mild,Overweight,Older,7.659000000000002,Q4 (Highest),High,1
+555.3976947036435,0,0,5,5,5.0,2,40,Female,Unemployed,Mild,Mild,Obese,Middle,3.94,Q1 (Lowest),Moderate,0
+239.81447903681664,0,0,7,11,8.600000000000001,3,7,Other,Disabled,Mild,Moderate,Normal,Young,6.706999999999999,Q4 (Highest),High,1
+948.1821124461012,1,1,7,9,7.800000000000001,3,79,Male,Disabled,Mild,Mild,Overweight,Elderly,6.178999999999999,Q3,Moderate,0
+588.2183146294509,0,0,6,4,5.199999999999999,2,24,Male,Unemployed,Mild,,Obese,Young,4.024000000000001,Q1 (Lowest),Moderate,0
+110.0459526198545,0,0,9,9,9.0,2,20,Male,Unemployed,Mild,Mild,Normal,Young,6.72,Q4 (Highest),Moderate,1
+205.41539400958928,0,0,6,5,5.6,3,60,Male,Disabled,Mild,Mild,Normal,Older,4.56,Q1 (Lowest),Moderate,0
+38.69586588772564,1,1,7,8,7.4,3,81,Female,Disabled,Mild,Mild,Obese,Elderly,5.881000000000001,Q3,Moderate,0
+853.3389903159051,0,0,11,9,10.2,2,65,Female,Unemployed,Moderate,Mild,Obese,Older,7.565,Q4 (Highest),High,1
+26.212232599402228,0,0,10,6,8.4,0,53,Male,Employed,Moderate,Mild,Obese,Older,5.853,Q3,High,0
+6.7196638004394655,1,1,4,4,4.0,2,53,Male,Unemployed,,,Obese,Older,3.2529999999999997,Q1 (Lowest),Low,0
+250.40410238055367,1,1,11,7,9.4,4,57,Male,Disabled,Moderate,Mild,Overweight,Older,7.357,Q4 (Highest),High,1
+337.3126536070021,1,1,9,10,9.4,0,56,Female,Employed,Mild,Moderate,Extreme Obesity,Older,6.656,Q3,High,1
+92.19567480007947,0,1,11,9,10.2,2,49,Male,Unemployed,Moderate,Mild,Overweight,Older,7.549,Q4 (Highest),High,1
+308.5154570555696,1,1,4,10,6.4,3,46,Female,Disabled,,Moderate,Underweight,Older,5.2459999999999996,Q2,High,0
+824.5935995508426,0,0,7,6,6.6000000000000005,3,44,Female,Disabled,Mild,Mild,Overweight,Middle,5.243999999999999,Q2,Moderate,0
+359.0897060083557,0,0,7,9,7.800000000000001,3,33,Female,Disabled,Mild,Mild,Overweight,Middle,6.133,Q3,Moderate,0
+222.0403556942462,0,1,12,4,8.799999999999999,3,40,Male,Unemployed,Moderate,,Obese,Middle,6.6400000000000015,Q3,High,1
+56.93495513341823,0,0,7,6,6.6000000000000005,3,19,Female,Unemployed,Mild,Mild,Overweight,Young,5.218999999999999,Q2,Moderate,0
+67.54520838289159,1,1,14,7,11.2,0,43,Male,Employed,Moderate,Mild,Obese,Middle,7.743000000000001,Q4 (Highest),High,1
+241.75269697314653,0,0,7,11,8.600000000000001,4,30,Male,Disabled,Mild,Moderate,Obese,Middle,6.93,Q4 (Highest),High,1
+227.0238693414712,0,0,3,5,3.8,3,28,Female,Disabled,,Mild,Normal,Middle,3.3280000000000003,Q1 (Lowest),Moderate,0
+269.7196646879312,0,0,9,11,9.8,1,47,Female,Employed,Mild,Moderate,Overweight,Older,7.147,Q4 (Highest),High,1
+258.80466620777923,0,0,13,10,11.8,3,65,Male,Unemployed,Moderate,Moderate,Normal,Older,8.864999999999998,Q4 (Highest),High,1
+152.3710914366995,1,1,6,7,6.4,3,58,Male,Disabled,Mild,Mild,Overweight,Older,5.1579999999999995,Q2,Moderate,0
+434.4518688764683,0,0,5,4,4.6,0,21,Male,Employed,Mild,,Normal,Young,3.221,Q1 (Lowest),Moderate,0
+87.06167606036792,0,0,6,10,7.6,3,30,Male,Disabled,Mild,Moderate,Overweight,Middle,6.03,Q3,High,0
+698.1600783658358,1,1,5,5,5.0,3,59,Male,Unemployed,Mild,Mild,Overweight,Older,4.159,Q1 (Lowest),Moderate,0
+78.89953750470727,0,0,5,5,5.0,2,30,Male,Unemployed,Mild,Mild,Overweight,Middle,3.9299999999999997,Q1 (Lowest),Moderate,0
+196.24644961367812,0,0,6,7,6.4,0,41,Female,Employed,Mild,Mild,Extreme Obesity,Middle,4.541,Q1 (Lowest),Moderate,0
+86.38230419233398,0,0,15,3,10.2,1,53,Female,Employed,Moderately Severe,,Overweight,Older,7.1530000000000005,Q4 (Highest),Very High,1
+351.68506532338137,0,0,7,7,7.0,3,30,Female,Disabled,Mild,Mild,Underweight,Middle,5.53,Q2,Moderate,0
+237.0287910994994,1,1,9,10,9.4,2,46,Female,Unemployed,Mild,Moderate,Obese,Older,7.046,Q4 (Highest),High,1
+171.15091149481947,1,1,10,10,10.0,2,24,Male,Unemployed,Moderate,Moderate,Obese,Young,7.424,Q4 (Highest),High,1
+235.2831249670789,0,0,10,9,9.6,0,35,Other,Employed,Moderate,Mild,Underweight,Middle,6.734999999999999,Q4 (Highest),High,1
+199.6068854370793,0,0,7,2,5.0,0,49,Female,Employed,Mild,,Normal,Older,3.4490000000000003,Q1 (Lowest),Moderate,0
+705.2397604258183,0,0,9,4,7.0,3,21,Female,Disabled,Mild,,Obese,Young,5.421,Q2,Moderate,0
+48.43311172377032,0,1,6,9,7.199999999999999,2,51,Female,Unemployed,Mild,Mild,Obese,Older,5.551,Q2,Moderate,0
+575.2083549948167,1,1,7,5,6.2,4,44,Female,Disabled,Mild,Mild,Overweight,Middle,5.144,Q2,Moderate,0
+388.78582147626025,1,1,9,3,6.6,3,53,Female,Disabled,Mild,,Overweight,Older,5.153,Q2,Moderate,0
+156.2938081521068,0,0,7,3,5.4,0,48,Male,Employed,Mild,,Normal,Older,3.748,Q1 (Lowest),Moderate,0
+917.816930566844,0,0,5,4,4.6,3,65,Female,Unemployed,Mild,,Underweight,Older,3.865,Q1 (Lowest),Moderate,0
+71.07754716743925,0,0,9,9,9.0,0,46,Female,Employed,Mild,Mild,Extreme Obesity,Older,6.346,Q3,Moderate,1
+135.59077561954408,0,0,5,10,7.0,3,38,Female,Disabled,Mild,Moderate,Normal,Middle,5.638,Q2,High,0
+171.45851933254684,1,1,8,13,10.0,3,46,Female,Disabled,Mild,Moderate,Overweight,Older,7.7459999999999996,Q4 (Highest),High,1
+380.8941162206164,1,1,5,8,6.2,2,53,Male,Unemployed,Mild,Mild,Overweight,Older,4.853000000000001,Q2,Moderate,0
+1068.1425313712866,0,0,12,10,11.2,2,45,Male,Unemployed,Moderate,Moderate,Obese,Middle,8.245000000000001,Q4 (Highest),High,1
+328.5157312251257,0,0,6,6,6.0,3,45,Female,Unemployed,Mild,Mild,Overweight,Middle,4.845000000000001,Q2,Moderate,0
+708.1254902564796,0,0,9,10,9.4,3,34,Female,Unemployed,Mild,Moderate,Overweight,Middle,7.233999999999999,Q4 (Highest),High,1
+859.0630021354197,0,0,1,5,2.6,1,35,Female,Employed,,Mild,Underweight,Middle,2.1350000000000002,Q1 (Lowest),Moderate,0
+229.3032904461012,0,0,9,6,7.8,1,23,Male,Employed,Mild,Mild,Normal,Young,5.623,Q2,Moderate,0
+233.41076329533,1,1,8,6,7.2,0,71,Male,Employed,Mild,Mild,Obese,Elderly,5.071,Q2,Moderate,0
+105.00286012108036,0,0,10,9,9.6,0,26,Female,Employed,Moderate,Mild,Obese,Middle,6.725999999999999,Q4 (Highest),High,1
+335.8966900785934,0,1,10,5,8.0,3,34,Female,Disabled,Moderate,Mild,Normal,Middle,6.1339999999999995,Q3,High,0
+46.67072086589811,0,0,5,7,5.800000000000001,1,34,Female,Employed,Mild,Mild,Normal,Middle,4.334,Q1 (Lowest),Moderate,0
+367.19749074504426,0,0,12,3,8.399999999999999,0,58,Female,Employed,Moderate,,Overweight,Older,5.758000000000001,Q3,High,0
+815.3973397287023,0,0,3,9,5.4,2,40,Female,Unemployed,,Mild,Underweight,Middle,4.34,Q1 (Lowest),Moderate,0
+522.094330782593,1,1,6,6,6.0,4,63,Male,Disabled,Mild,Mild,Normal,Older,5.063,Q2,Moderate,0
+382.3396488128682,0,0,6,4,5.199999999999999,1,34,Female,Employed,Mild,,Extreme Obesity,Middle,3.8340000000000005,Q1 (Lowest),Moderate,0
+665.2693835837972,0,1,8,8,8.0,4,49,Male,Disabled,Mild,Mild,Extreme Obesity,Older,6.449,Q3,Moderate,1
+477.656877887687,0,0,4,4,4.0,3,32,Male,Disabled,,,Obese,Middle,3.432,Q1 (Lowest),Low,0
+275.320855260511,1,1,8,8,8.0,3,77,Female,Disabled,Mild,Mild,Overweight,Elderly,6.276999999999999,Q3,Moderate,1
+268.7090121382985,0,0,7,7,7.0,3,27,Female,Disabled,Mild,Mild,Underweight,Middle,5.527,Q2,Moderate,0
+41.30785777338096,0,0,6,5,5.6,3,49,Male,Unemployed,Mild,Mild,Normal,Older,4.549,Q1 (Lowest),Moderate,0
+208.0113968248021,0,0,5,7,5.800000000000001,3,54,Female,Unemployed,Mild,Mild,Overweight,Older,4.754,Q1 (Lowest),Moderate,0
+269.76612760237816,0,0,12,4,8.799999999999999,4,51,Male,Disabled,Moderate,,Normal,Older,6.851000000000001,Q4 (Highest),High,1
+231.6734299908416,1,1,14,6,10.8,3,42,Male,Disabled,Moderate,Mild,Overweight,Middle,8.042,Q4 (Highest),High,1
+546.1024826001254,0,1,10,14,11.6,3,43,Male,Disabled,Moderate,Moderate,Extreme Obesity,Middle,8.842999999999998,Q4 (Highest),High,1
+64.05725176627807,0,1,7,5,6.2,2,45,Male,Unemployed,Mild,Mild,Normal,Middle,4.745000000000001,Q1 (Lowest),Moderate,0
+578.2520903881043,0,0,3,5,3.8,3,42,Female,Unemployed,,Mild,Overweight,Middle,3.342,Q1 (Lowest),Moderate,0
+494.02364641802245,0,0,4,7,5.2,4,59,Male,Disabled,,Mild,Obese,Older,4.559,Q1 (Lowest),Moderate,0
+843.4574622916746,0,1,14,5,10.4,4,78,Female,Disabled,Moderate,Mild,Normal,Elderly,7.978000000000001,Q4 (Highest),High,1
+170.65015379062567,0,0,6,2,4.4,3,36,Female,Disabled,Mild,,Normal,Middle,3.6360000000000006,Q1 (Lowest),Moderate,0
+70.89921305016274,0,0,10,8,9.2,3,24,Male,Disabled,Moderate,Mild,Normal,Young,7.024,Q4 (Highest),High,1
+518.81771559931,0,0,10,8,9.2,2,43,Female,Unemployed,Moderate,Mild,Overweight,Middle,6.843000000000001,Q4 (Highest),High,1
+324.0390552522591,0,1,10,11,10.4,1,83,Male,Employed,Moderate,Moderate,Overweight,Elderly,7.583,Q4 (Highest),High,1
+454.97461858681305,0,0,9,4,7.0,0,32,Female,Employed,Mild,,Overweight,Middle,4.832,Q1 (Lowest),Moderate,0
+2090.0529743369284,0,1,9,5,7.399999999999999,2,69,Male,Unemployed,Mild,Mild,Normal,Elderly,5.569,Q2,Moderate,0
+78.9646202505675,0,0,5,7,5.800000000000001,2,70,Male,Unemployed,Mild,Mild,Normal,Elderly,4.57,Q1 (Lowest),Moderate,0
+193.23710081987883,1,1,8,5,6.8,0,36,Male,Employed,Mild,Mild,Obese,Middle,4.736,Q1 (Lowest),Moderate,0
+78.13042530745749,0,0,6,12,8.4,0,53,Male,Employed,Mild,Moderate,Overweight,Older,6.053,Q3,High,0
+719.2595576440928,0,0,10,5,8.0,1,69,Male,Employed,Moderate,Mild,Obese,Elderly,5.769,Q3,High,0
+6.251302536579147,0,0,11,8,9.8,4,39,Female,Disabled,Moderate,Mild,Normal,Middle,7.639,Q4 (Highest),High,1
+53.028567057026144,0,0,9,6,7.8,1,41,Female,Employed,Mild,Mild,Normal,Middle,5.641000000000001,Q2,Moderate,0
+103.9689571348998,0,0,8,6,7.2,1,36,Female,Employed,Mild,Mild,Overweight,Middle,5.236,Q2,Moderate,0
+538.5376597803044,0,0,9,5,7.399999999999999,4,29,Female,Disabled,Mild,Mild,Overweight,Middle,5.928999999999999,Q3,Moderate,0
+361.3803483478717,0,0,5,5,5.0,3,35,Male,Disabled,Mild,Mild,Obese,Middle,4.135,Q1 (Lowest),Moderate,0
+179.58877450439306,0,0,12,9,10.8,2,26,Male,Unemployed,Moderate,Mild,Overweight,Middle,7.926,Q4 (Highest),High,1
+63.074673552594106,0,0,5,7,5.800000000000001,3,45,Male,Disabled,Mild,Mild,Obese,Middle,4.744999999999999,Q1 (Lowest),Moderate,0
+141.6313197528488,0,0,10,7,8.8,1,33,Male,Employed,Moderate,Mild,Obese,Middle,6.333,Q3,High,1
+496.5152601120463,1,1,9,9,9.0,3,48,Female,Disabled,Mild,Mild,Overweight,Older,6.948,Q4 (Highest),Moderate,1
+175.6338637898834,0,0,14,5,10.4,2,21,Female,Unemployed,Moderate,Mild,Normal,Young,7.521000000000001,Q4 (Highest),High,1
+226.66642244199363,1,1,11,18,13.8,0,49,Male,Employed,Moderate,Severe,Obese,Older,9.849,Q4 (Highest),Very High,1
+342.4034680142881,0,1,10,9,9.6,3,57,Male,Unemployed,Moderate,Mild,Normal,Older,7.356999999999999,Q4 (Highest),High,1
+890.8027165421021,0,0,14,10,12.4,3,15,Female,Unemployed,Moderate,Moderate,Overweight,Young,9.215000000000002,Q4 (Highest),High,1
+105.05519014787338,0,0,10,10,10.0,3,50,Female,Unemployed,Moderate,Moderate,Overweight,Older,7.6499999999999995,Q4 (Highest),High,1
+216.8833700078122,0,1,8,10,8.8,3,63,Male,Disabled,Mild,Moderate,Overweight,Older,6.863,Q4 (Highest),High,1
+135.60827010872353,0,0,7,13,9.4,3,26,Female,Disabled,Mild,Moderate,Overweight,Middle,7.3260000000000005,Q4 (Highest),High,1
+229.11398495470632,0,1,10,6,8.4,2,70,Other,Unemployed,Moderate,Mild,Normal,Elderly,6.2700000000000005,Q3,High,1
+435.1701598006508,0,0,6,9,7.199999999999999,2,51,Male,Unemployed,Mild,Mild,Underweight,Older,5.551,Q2,Moderate,0
+240.1348799718781,0,0,8,6,7.2,3,34,Male,Unemployed,Mild,Mild,Extreme Obesity,Middle,5.6339999999999995,Q2,Moderate,0
+656.636356867526,0,0,7,5,6.2,2,44,Female,Unemployed,Mild,Mild,Overweight,Middle,4.744000000000001,Q1 (Lowest),Moderate,0
+294.10760292040493,0,0,12,3,8.399999999999999,4,53,Female,Disabled,Moderate,,Overweight,Older,6.553000000000001,Q3,High,1
+177.8929582374514,0,0,4,9,6.0,4,46,Female,Disabled,,Mild,Overweight,Older,5.146,Q2,Moderate,0
+556.5279399207916,0,0,11,3,7.8,2,53,Male,Unemployed,Moderate,,Obese,Older,5.753000000000001,Q3,High,0
+206.0221536376812,0,0,10,5,8.0,3,31,Male,Disabled,Moderate,Mild,Extreme Obesity,Middle,6.130999999999999,Q3,High,0
+264.5324701911794,0,0,8,3,6.0,1,47,Female,Employed,Mild,,Overweight,Older,4.3469999999999995,Q1 (Lowest),Moderate,0
+1910.582227538856,0,0,8,4,6.4,4,23,Female,Disabled,Mild,,Overweight,Young,5.223,Q2,Moderate,0
+563.4865355030195,0,1,13,6,10.2,2,43,Male,Unemployed,Moderate,Mild,Normal,Middle,7.4430000000000005,Q4 (Highest),High,1
+705.1809522753321,0,0,11,4,8.2,3,31,Female,Disabled,Moderate,,Normal,Middle,6.231000000000001,Q3,High,0
+327.9802896707971,1,1,9,4,7.0,0,33,Female,Employed,Mild,,Underweight,Middle,4.833,Q1 (Lowest),Moderate,0
+156.2356132780167,0,0,6,7,6.4,0,63,Female,Employed,Mild,Mild,Normal,Older,4.563,Q1 (Lowest),Moderate,0
+1730.4451427265697,0,0,2,4,2.8,3,61,Female,Disabled,,,Underweight,Older,2.661,Q1 (Lowest),Low,0
+102.10527710484662,0,0,11,4,8.2,0,54,Female,Employed,Moderate,,Obese,Older,5.654000000000001,Q2,High,0
+752.6766690119981,0,0,7,8,7.4,0,28,Male,Employed,Mild,Mild,Obese,Middle,5.228,Q2,Moderate,0
+884.2163094399145,1,1,15,9,12.6,4,40,Female,Disabled,Moderately Severe,Mild,Overweight,Middle,9.54,Q4 (Highest),Very High,1
+620.9764424162739,1,1,6,8,6.8,3,63,Male,Disabled,Mild,Mild,Obese,Older,5.463,Q2,Moderate,0
+44.213603284222906,0,0,8,9,8.4,4,47,Female,Disabled,Mild,Mild,Normal,Older,6.747,Q4 (Highest),Moderate,1
+702.596886851935,1,1,5,4,4.6,3,79,Male,Unemployed,Mild,,Normal,Elderly,3.8790000000000004,Q1 (Lowest),Moderate,0
+397.843956803681,0,0,10,9,9.6,2,50,Female,Unemployed,Moderate,Mild,Underweight,Older,7.1499999999999995,Q4 (Highest),High,1
+416.8345716766676,0,0,5,7,5.800000000000001,0,47,Male,Employed,Mild,Mild,Obese,Older,4.146999999999999,Q1 (Lowest),Moderate,0
+563.6572211160644,0,0,4,5,4.4,0,40,Male,Employed,,Mild,Normal,Middle,3.14,Q1 (Lowest),Moderate,0
+246.1555295047998,0,0,5,8,6.2,3,47,Male,Disabled,Mild,Mild,Overweight,Older,5.047,Q2,Moderate,0
+113.4507826296571,0,0,9,5,7.399999999999999,0,42,Male,Employed,Mild,Mild,Obese,Middle,5.1419999999999995,Q2,Moderate,0
+312.2598871438574,0,1,10,4,7.6,3,55,Female,Disabled,Moderate,,Extreme Obesity,Older,5.855,Q3,High,0
+41.99203445241751,0,1,10,9,9.6,3,59,Female,Unemployed,Moderate,Mild,Overweight,Older,7.358999999999999,Q4 (Highest),High,1
+410.0156690971497,0,0,4,3,3.6,3,33,Female,Disabled,,,Obese,Middle,3.133,Q1 (Lowest),Low,0
+240.75333016304896,0,0,11,8,9.8,0,25,Male,Employed,Moderate,Mild,Normal,Young,6.825000000000001,Q4 (Highest),High,1
+254.7042937858336,0,0,9,10,9.4,4,17,Male,Disabled,Mild,Moderate,Extreme Obesity,Young,7.417,Q4 (Highest),High,1
+75.03537838766286,0,0,6,10,7.6,3,52,Male,Disabled,Mild,Moderate,Overweight,Older,6.052,Q3,High,0
+15.388096068089856,0,0,12,3,8.399999999999999,3,28,Male,Disabled,Moderate,,Overweight,Middle,6.328,Q3,High,1
+344.87744400684375,0,0,8,8,8.0,1,12,Female,Employed,Mild,Mild,Overweight,Young,5.811999999999999,Q3,Moderate,0
+392.5126614692603,0,0,7,8,7.4,3,50,Male,Disabled,Mild,Mild,Extreme Obesity,Older,5.8500000000000005,Q3,Moderate,0
+251.75397104679828,0,1,5,5,5.0,4,82,Male,Disabled,Mild,Mild,Overweight,Elderly,4.382,Q1 (Lowest),Moderate,0
+529.7195622136547,0,0,10,12,10.8,0,44,Male,Employed,Moderate,Moderate,Obese,Middle,7.643999999999999,Q4 (Highest),High,1
+302.7537707285097,1,1,9,5,7.399999999999999,3,57,Male,Unemployed,Mild,Mild,Obese,Older,5.757,Q3,Moderate,0
+688.0852888095973,0,0,8,7,7.6,2,46,Female,Unemployed,Mild,Mild,Overweight,Older,5.746000000000001,Q3,Moderate,0
+124.0430407766688,0,0,9,9,9.0,1,43,Female,Employed,Mild,Mild,Obese,Middle,6.543,Q3,Moderate,1
+101.6653265882229,0,0,7,3,5.4,3,58,Male,Unemployed,Mild,,Obese,Older,4.3580000000000005,Q1 (Lowest),Moderate,0
+110.46872446001854,0,0,2,4,2.8,4,40,Male,Disabled,,,Normal,Middle,2.84,Q1 (Lowest),Low,0
+11.31275925301619,1,1,4,11,6.800000000000001,1,49,Male,Employed,,Moderate,Normal,Older,5.149000000000001,Q2,High,0
+842.7285610598221,1,1,7,9,7.800000000000001,3,49,Male,Disabled,Mild,Mild,Overweight,Older,6.149,Q3,Moderate,0
+2596.69936653122,0,0,4,3,3.6,3,34,Male,Disabled,,,Obese,Middle,3.134,Q1 (Lowest),Low,0
+618.9171789862875,0,0,6,6,6.0,0,59,Other,Employed,Mild,Mild,Extreme Obesity,Older,4.259,Q1 (Lowest),Moderate,0
+194.19555255102776,0,0,9,7,8.2,3,42,Female,Disabled,Mild,Mild,Underweight,Middle,6.3420000000000005,Q3,Moderate,1
+159.45131805263193,0,0,4,8,5.6,1,33,Female,Employed,,Mild,Overweight,Middle,4.2330000000000005,Q1 (Lowest),Moderate,0
+543.9394474687558,1,1,10,10,10.0,3,53,Male,Disabled,Moderate,Moderate,Obese,Older,7.653,Q4 (Highest),High,1
+260.3318231358376,0,0,7,5,6.2,2,31,Male,Unemployed,Mild,Mild,Overweight,Middle,4.731000000000001,Q1 (Lowest),Moderate,0
+1023.61164246499,0,0,11,6,9.0,4,45,Female,Disabled,Moderate,Mild,Obese,Middle,7.045,Q4 (Highest),High,1
+119.69095021325764,0,0,4,6,4.800000000000001,3,44,Female,Disabled,,Mild,Obese,Middle,4.044,Q1 (Lowest),Moderate,0
+142.82194074349994,1,1,16,8,12.8,0,61,Female,Employed,Moderately Severe,Mild,Normal,Older,8.861,Q4 (Highest),Very High,1
+2462.4400687526404,0,1,8,7,7.6,2,52,Male,Unemployed,Mild,Mild,Normal,Older,5.752000000000001,Q3,Moderate,0
+1396.0112517937907,0,0,5,12,7.800000000000001,3,44,Female,Disabled,Mild,Moderate,Overweight,Middle,6.243999999999999,Q3,High,0
+790.0395721483751,1,1,8,8,8.0,3,57,Male,Disabled,Mild,Mild,Obese,Older,6.257,Q3,Moderate,1
+189.27805498499464,1,1,4,7,5.2,2,65,Female,Unemployed,,Mild,Overweight,Older,4.165000000000001,Q1 (Lowest),Moderate,0
+663.4865142733349,0,0,8,7,7.6,3,53,Female,Unemployed,Mild,Mild,Normal,Older,5.953,Q3,Moderate,0
+121.62821613128976,1,1,9,4,7.0,2,45,Female,Unemployed,Mild,,Normal,Middle,5.245,Q2,Moderate,0
+107.32526204007864,0,0,9,5,7.399999999999999,3,25,Male,Unemployed,Mild,Mild,Obese,Young,5.725,Q2,Moderate,0
+288.57723099119994,0,0,10,6,8.4,2,29,Female,Unemployed,Moderate,Mild,Overweight,Middle,6.229,Q3,High,0
+718.3172369778998,0,0,6,6,6.0,3,40,Male,Disabled,Mild,Mild,Overweight,Middle,4.840000000000001,Q2,Moderate,0
+37.4332699386947,0,0,7,4,5.800000000000001,3,35,Male,Unemployed,Mild,,Obese,Middle,4.635,Q1 (Lowest),Moderate,0
+304.08613005969664,0,0,9,6,7.8,3,42,Male,Unemployed,Mild,Mild,Normal,Middle,6.042,Q3,Moderate,0
+343.4423280195561,0,0,7,5,6.2,4,45,Female,Disabled,Mild,Mild,Overweight,Middle,5.1450000000000005,Q2,Moderate,0
+316.46199395324544,0,0,11,5,8.6,1,52,Male,Employed,Moderate,Mild,Normal,Older,6.152,Q3,High,0
+89.98587397837538,0,0,2,8,4.4,3,43,Male,Disabled,,Mild,Obese,Middle,3.8430000000000004,Q1 (Lowest),Moderate,0
+24.19139232347462,0,1,17,5,12.2,0,52,Female,Employed,Moderately Severe,Mild,Obese,Older,8.352,Q4 (Highest),Very High,1
+822.6069141371202,1,1,12,6,9.6,3,45,Male,Unemployed,Moderate,Mild,Normal,Middle,7.245000000000001,Q4 (Highest),High,1
+311.899612305389,0,0,8,8,8.0,0,15,Female,Employed,Mild,Mild,Overweight,Young,5.614999999999999,Q2,Moderate,0
+533.12121419794,0,0,3,6,4.2,3,30,Male,Disabled,,Mild,Obese,Middle,3.63,Q1 (Lowest),Moderate,0
+165.43408218067262,0,0,9,5,7.399999999999999,0,42,Male,Employed,Mild,Mild,Underweight,Middle,5.1419999999999995,Q2,Moderate,0
+15.852653976020676,0,0,9,6,7.8,0,26,Female,Employed,Mild,Mild,Overweight,Middle,5.426,Q2,Moderate,0
+109.68901350798454,0,0,6,5,5.6,0,53,Male,Employed,Mild,Mild,Normal,Older,3.9530000000000003,Q1 (Lowest),Moderate,0
+27.81162971613757,0,0,6,3,4.8,2,67,Female,Unemployed,Mild,,Normal,Elderly,3.7670000000000003,Q1 (Lowest),Moderate,0
+29.73718861220326,0,0,10,3,7.2,3,63,Female,Disabled,Moderate,,Underweight,Older,5.563,Q2,High,0
+88.1048189309394,0,0,3,7,4.6,1,41,Female,Employed,,Mild,Extreme Obesity,Middle,3.5410000000000004,Q1 (Lowest),Moderate,0
+366.4490393294623,0,0,4,6,4.800000000000001,2,67,Female,Unemployed,,Mild,Overweight,Elderly,3.867,Q1 (Lowest),Moderate,0
+621.4091041895182,1,1,10,7,8.8,3,47,Male,Disabled,Moderate,Mild,Normal,Older,6.746999999999999,Q4 (Highest),High,1
+628.6636086746739,0,0,6,2,4.4,3,39,Male,Disabled,Mild,,Overweight,Middle,3.6390000000000007,Q1 (Lowest),Moderate,0
+1013.4960955421228,0,0,12,9,10.8,3,35,Female,Disabled,Moderate,Mild,Normal,Middle,8.135,Q4 (Highest),High,1
+389.901588806428,0,0,9,1,5.8,3,40,Female,Disabled,Mild,,Normal,Middle,4.54,Q1 (Lowest),Moderate,0
+7.3221996805553395,1,1,9,9,9.0,2,39,Female,Unemployed,Mild,Mild,Extreme Obesity,Middle,6.739,Q4 (Highest),Moderate,1
+172.9570502472305,0,0,10,10,10.0,3,47,Female,Disabled,Moderate,Moderate,Extreme Obesity,Older,7.646999999999999,Q4 (Highest),High,1
+43.13428220705746,0,0,6,9,7.199999999999999,0,47,Female,Employed,Mild,Mild,Normal,Older,5.146999999999999,Q2,Moderate,0
+548.4744589195592,0,0,9,6,7.8,3,45,Female,Disabled,Mild,Mild,Obese,Middle,6.045,Q3,Moderate,0
+46.5302523347801,0,0,7,6,6.6000000000000005,3,51,Male,Disabled,Mild,Mild,Obese,Older,5.2509999999999994,Q2,Moderate,0
+40.86641021845904,1,1,12,7,10.0,3,62,Female,Unemployed,Moderate,Mild,Normal,Older,7.562,Q4 (Highest),High,1
+10.444160793118156,0,0,8,7,7.6,0,59,Female,Employed,Mild,Mild,Normal,Older,5.359000000000001,Q2,Moderate,0
+1135.999942073392,0,0,10,6,8.4,0,22,Male,Employed,Moderate,Mild,Extreme Obesity,Young,5.822,Q3,High,0
+562.2552376230263,0,0,6,8,6.8,2,6,Female,Unemployed,Mild,Mild,Normal,Young,5.206000000000001,Q2,Moderate,0
+147.98243735129947,0,1,11,12,11.4,3,59,Female,Unemployed,Moderate,Moderate,Extreme Obesity,Older,8.658999999999999,Q4 (Highest),High,1
+172.39286674688614,0,0,7,5,6.2,1,24,Female,Employed,Mild,Mild,Normal,Young,4.524000000000001,Q1 (Lowest),Moderate,0
+22.362649890615927,0,0,6,9,7.199999999999999,1,41,Male,Employed,Mild,Mild,Extreme Obesity,Middle,5.341,Q2,Moderate,0
+62.73496152967055,0,0,8,9,8.4,3,27,Male,Disabled,Mild,Mild,Overweight,Middle,6.527,Q3,Moderate,1
+136.20680802242913,0,0,8,4,6.4,2,17,Female,Unemployed,Mild,,Obese,Young,4.817000000000001,Q1 (Lowest),Moderate,0
+179.14466999163903,0,0,8,4,6.4,0,53,Female,Employed,Mild,,Extreme Obesity,Older,4.453,Q1 (Lowest),Moderate,0
+353.1455149981748,0,0,9,8,8.6,0,56,Male,Employed,Mild,Mild,Extreme Obesity,Older,6.056,Q3,Moderate,0
+157.42243962766852,0,0,6,7,6.4,3,36,Male,Unemployed,Mild,Mild,Normal,Middle,5.135999999999999,Q2,Moderate,0
+1128.672889555589,0,0,12,10,11.2,3,6,Female,Unemployed,Moderate,Moderate,Normal,Young,8.406,Q4 (Highest),High,1
+153.21170019666445,0,0,5,7,5.800000000000001,0,36,Male,Employed,Mild,Mild,Overweight,Middle,4.135999999999999,Q1 (Lowest),Moderate,0
+1036.731377990347,0,0,6,8,6.8,2,50,Female,Unemployed,Mild,Mild,Normal,Older,5.250000000000001,Q2,Moderate,0
+477.71703528514814,1,1,9,7,8.2,1,22,Other,Employed,Mild,Mild,Overweight,Young,5.922000000000001,Q3,Moderate,0
+840.0697743999749,1,1,11,4,8.2,0,47,Male,Employed,Moderate,,Normal,Older,5.647,Q2,High,0
+443.3116706964261,0,0,13,7,10.6,3,44,Female,Disabled,Moderate,Mild,Obese,Middle,7.944,Q4 (Highest),High,1
+306.8491281875776,0,0,6,1,4.0,3,53,Male,Disabled,Mild,,Normal,Older,3.353,Q1 (Lowest),Moderate,0
+259.6901153444942,0,0,11,10,10.6,2,46,Male,Unemployed,Moderate,Moderate,Underweight,Older,7.846000000000001,Q4 (Highest),High,1
+125.69754521771604,1,1,5,9,6.6,2,30,Female,Unemployed,Mild,Mild,Extreme Obesity,Middle,5.13,Q2,Moderate,0
+129.23545860339436,0,0,7,10,8.2,0,62,Male,Employed,Mild,Moderate,Overweight,Older,5.862000000000001,Q3,High,0
+92.19165810154834,0,0,6,3,4.8,4,42,Other,Disabled,Mild,,Overweight,Middle,4.142,Q1 (Lowest),Moderate,0
+177.7596700625607,0,0,10,9,9.6,2,44,Female,Unemployed,Moderate,Mild,Obese,Middle,7.143999999999999,Q4 (Highest),High,1
+49.56291384175346,0,0,5,12,7.800000000000001,1,31,Male,Employed,Mild,Moderate,Obese,Middle,5.8309999999999995,Q3,High,0
+178.98792865926572,0,0,6,10,7.6,4,38,Male,Disabled,Mild,Moderate,Normal,Middle,6.238,Q3,High,0
+654.8921205606852,0,0,8,7,7.6,1,31,Male,Employed,Mild,Mild,Overweight,Middle,5.531000000000001,Q2,Moderate,0
+745.5021761472632,0,0,6,4,5.199999999999999,4,42,Male,Disabled,Mild,,Normal,Middle,4.442,Q1 (Lowest),Moderate,0
+375.7837294243472,0,0,3,5,3.8,0,70,Male,Employed,,Mild,Normal,Elderly,2.77,Q1 (Lowest),Moderate,0
+108.33319666542651,0,0,6,8,6.8,3,24,Male,Disabled,Mild,Mild,Obese,Young,5.424,Q2,Moderate,0
+100.33732894249424,0,0,7,4,5.800000000000001,1,20,Female,Employed,Mild,,Obese,Young,4.22,Q1 (Lowest),Moderate,0
+118.85556118489949,1,1,11,9,10.2,0,67,Female,Employed,Moderate,Mild,Obese,Elderly,7.167,Q4 (Highest),High,1
+253.0273570227241,0,0,7,6,6.6000000000000005,2,41,Female,Unemployed,Mild,Mild,Extreme Obesity,Middle,5.041,Q2,Moderate,0
+1368.1641926166517,0,0,9,6,7.8,3,34,Female,Disabled,Mild,Mild,Obese,Middle,6.034,Q3,Moderate,0
+42.20054409652836,0,0,4,5,4.4,3,60,Male,Disabled,,Mild,Obese,Older,3.7600000000000002,Q1 (Lowest),Moderate,0
+253.3727414061188,0,0,7,7,7.0,2,35,Male,Unemployed,Mild,Mild,Underweight,Middle,5.335000000000001,Q2,Moderate,0
+418.4625076778078,0,0,9,4,7.0,2,72,Female,Unemployed,Mild,,Overweight,Elderly,5.272,Q2,Moderate,0
+102.89834634791885,1,1,9,13,10.6,0,55,Female,Employed,Mild,Moderate,Obese,Older,7.555,Q4 (Highest),High,1
+1269.2497094690486,0,0,6,4,5.199999999999999,3,37,Male,Disabled,Mild,,Normal,Middle,4.237000000000001,Q1 (Lowest),Moderate,0
+156.68684045544575,0,0,6,8,6.8,0,77,Female,Employed,Mild,Mild,Overweight,Elderly,4.877000000000001,Q2,Moderate,0
+983.1241702993416,0,0,7,2,5.0,0,35,Female,Employed,Mild,,Obese,Middle,3.4350000000000005,Q1 (Lowest),Moderate,0
+332.0408895683476,0,0,7,7,7.0,1,56,Female,Employed,Mild,Mild,Obese,Older,5.156000000000001,Q2,Moderate,0
+1.492038334323372,0,1,6,7,6.4,3,49,Male,Unemployed,Mild,Mild,Obese,Older,5.149,Q2,Moderate,0
+136.0270232677644,0,1,13,6,10.2,4,64,Female,Disabled,Moderate,Mild,Obese,Older,7.864,Q4 (Highest),High,1
+7.951235535050202,1,1,6,7,6.4,2,68,Female,Unemployed,Mild,Mild,Overweight,Elderly,4.968,Q2,Moderate,0
+175.3528794824884,0,0,7,7,7.0,2,45,Female,Unemployed,Mild,Mild,Normal,Middle,5.345000000000001,Q2,Moderate,0
+984.08817197684,0,0,6,8,6.8,4,33,Female,Disabled,Mild,Mild,Obese,Middle,5.633000000000001,Q2,Moderate,0
+551.0294024104003,0,1,10,6,8.4,4,51,Female,Disabled,Moderate,Mild,Overweight,Older,6.651,Q3,High,1
+353.29510676679985,0,0,2,6,3.6000000000000005,2,34,Female,Unemployed,,Mild,Normal,Middle,3.0339999999999994,Q1 (Lowest),Moderate,0
+282.28589096548274,0,0,5,4,4.6,2,75,Male,Unemployed,Mild,,Extreme Obesity,Elderly,3.6750000000000003,Q1 (Lowest),Moderate,0
+170.14189255429642,0,0,8,4,6.4,2,47,Female,Unemployed,Mild,,Obese,Older,4.847,Q2,Moderate,0
+86.75072770197387,0,0,5,4,4.6,3,39,Female,Disabled,Mild,,Normal,Middle,3.8390000000000004,Q1 (Lowest),Moderate,0
+23.56626167954989,0,0,5,4,4.6,4,47,Female,Disabled,Mild,,Normal,Older,4.047,Q1 (Lowest),Moderate,0
+76.97927297566268,0,0,8,6,7.2,0,24,Male,Employed,Mild,Mild,Normal,Young,5.024,Q2,Moderate,0
+158.09034894266995,0,0,8,7,7.6,3,30,Male,Disabled,Mild,Mild,Normal,Middle,5.930000000000001,Q3,Moderate,0
+267.89199390384726,0,0,6,8,6.8,3,63,Female,Unemployed,Mild,Mild,Overweight,Older,5.463,Q2,Moderate,0
+83.46222441343727,0,0,3,6,4.2,4,35,Female,Disabled,,Mild,Normal,Middle,3.835,Q1 (Lowest),Moderate,0
+1336.767743633496,0,0,7,5,6.2,3,29,Female,Disabled,Mild,Mild,Obese,Middle,4.929,Q2,Moderate,0
+29.186751616765388,0,1,8,6,7.2,3,53,Female,Disabled,Mild,Mild,Obese,Older,5.653,Q2,Moderate,0
+36.350463323309015,0,0,7,8,7.4,2,62,Female,Unemployed,Mild,Mild,Obese,Older,5.662000000000001,Q2,Moderate,0
+418.8739680188521,0,0,10,6,8.4,0,55,Female,Employed,Moderate,Mild,Overweight,Older,5.8549999999999995,Q3,High,0
+513.463180606318,1,1,13,6,10.2,0,59,Female,Employed,Moderate,Mild,Obese,Older,7.059,Q4 (Highest),High,1
+1311.0092149314871,0,0,9,8,8.6,3,33,Female,Unemployed,Mild,Mild,Overweight,Middle,6.633,Q3,Moderate,1
+275.9283869000789,0,0,5,8,6.2,2,23,Female,Unemployed,Mild,Mild,Normal,Young,4.823,Q1 (Lowest),Moderate,0
+66.22656982480014,0,0,5,7,5.800000000000001,0,67,Male,Employed,Mild,Mild,Extreme Obesity,Elderly,4.167,Q1 (Lowest),Moderate,0
+1014.5086156012655,0,0,6,9,7.199999999999999,2,40,Female,Unemployed,Mild,Mild,Overweight,Middle,5.54,Q2,Moderate,0
+1432.191340774912,0,1,14,7,11.2,3,41,Female,Disabled,Moderate,Mild,Normal,Middle,8.341000000000001,Q4 (Highest),High,1
+938.2859193657448,0,1,10,6,8.4,3,64,Male,Disabled,Moderate,Mild,Overweight,Older,6.464,Q3,High,1
+749.3605164292716,0,0,9,7,8.2,1,53,Male,Employed,Mild,Mild,Normal,Older,5.953,Q3,Moderate,0
+29.473106310356364,0,0,9,8,8.6,3,51,Male,Disabled,Mild,Mild,Extreme Obesity,Older,6.651,Q3,Moderate,1
+704.503602288267,1,1,3,6,4.2,0,77,Male,Employed,,Mild,Overweight,Elderly,3.077,Q1 (Lowest),Moderate,0
+1117.793157335815,0,0,4,6,4.800000000000001,2,35,Male,Unemployed,,Mild,Overweight,Middle,3.835,Q1 (Lowest),Moderate,0
+293.3374521722911,1,1,8,10,8.8,0,58,Male,Employed,Mild,Moderate,Obese,Older,6.258,Q3,High,1
+540.5617553528039,0,0,11,7,9.4,1,45,Female,Employed,Moderate,Mild,Normal,Middle,6.745,Q4 (Highest),High,1
+394.7282916051343,1,1,10,3,7.2,4,49,Female,Disabled,Moderate,,Obese,Older,5.7490000000000006,Q3,High,0
+124.01203665642382,0,0,6,4,5.199999999999999,0,67,Male,Employed,Mild,,Normal,Elderly,3.6670000000000007,Q1 (Lowest),Moderate,0
+323.23199042868737,0,0,10,7,8.8,0,52,Male,Employed,Moderate,Mild,Extreme Obesity,Older,6.151999999999999,Q3,High,0
+803.5822408576115,1,1,13,8,11.0,0,53,Female,Employed,Moderate,Mild,Overweight,Older,7.653,Q4 (Highest),High,1
+250.36946831273625,0,0,7,7,7.0,2,61,Male,Unemployed,Mild,Mild,Obese,Older,5.361000000000001,Q2,Moderate,0
+325.56272705214616,1,1,13,7,10.6,3,39,Female,Disabled,Moderate,Mild,Underweight,Middle,7.939,Q4 (Highest),High,1
+276.7217395834745,0,0,5,12,7.800000000000001,3,32,Female,Disabled,Mild,Moderate,Normal,Middle,6.231999999999999,Q3,High,0
+121.12516420672408,0,0,10,8,9.2,0,29,Female,Employed,Moderate,Mild,Overweight,Middle,6.429,Q3,High,1
+376.6357149364003,0,0,11,4,8.2,0,15,Male,Employed,Moderate,,Underweight,Young,5.615,Q2,High,0
+259.9781536400259,0,1,12,3,8.399999999999999,2,75,Female,Unemployed,Moderate,,Obese,Elderly,6.175000000000002,Q3,High,0
+96.60700621801524,1,1,11,10,10.6,3,28,Male,Disabled,Moderate,Moderate,Overweight,Middle,8.028,Q4 (Highest),High,1
+823.952051318405,1,1,9,5,7.399999999999999,3,41,Female,Disabled,Mild,Mild,Normal,Middle,5.741,Q3,Moderate,0
+1093.7767287604083,0,0,6,7,6.4,1,40,Female,Employed,Mild,Mild,Overweight,Middle,4.74,Q1 (Lowest),Moderate,0
+20.79214231875456,0,0,5,7,5.800000000000001,3,49,Male,Unemployed,Mild,Mild,Obese,Older,4.749,Q1 (Lowest),Moderate,0
+355.4312133968514,1,1,10,5,8.0,2,57,Male,Unemployed,Moderate,Mild,Underweight,Older,5.957000000000001,Q3,High,0
+195.7208612910569,0,0,7,4,5.800000000000001,0,57,Male,Employed,Mild,,Normal,Older,4.057,Q1 (Lowest),Moderate,0
+272.4548231020593,0,0,5,6,5.4,0,36,Female,Employed,Mild,Mild,Overweight,Middle,3.836,Q1 (Lowest),Moderate,0
+170.8685235795923,0,0,9,8,8.6,0,42,Male,Employed,Mild,Mild,Overweight,Middle,6.042,Q3,Moderate,0
+234.7445766081776,0,0,10,4,7.6,1,49,Female,Employed,Moderate,,Overweight,Older,5.449000000000001,Q2,High,0
+142.61468972240206,0,0,9,8,8.6,1,41,Male,Employed,Mild,Mild,Obese,Middle,6.2410000000000005,Q3,Moderate,0
+45.66643691707215,0,0,5,6,5.4,3,69,Female,Unemployed,Mild,Mild,Obese,Elderly,4.469,Q1 (Lowest),Moderate,0
+131.24777114885393,0,0,10,8,9.2,3,52,Female,Unemployed,Moderate,Mild,Obese,Older,7.052,Q4 (Highest),High,1
+405.029546838568,0,0,6,6,6.0,0,56,Female,Employed,Mild,Mild,Normal,Older,4.256,Q1 (Lowest),Moderate,0
+18.86866686661171,1,1,12,9,10.8,0,54,Female,Employed,Moderate,Mild,Overweight,Older,7.554,Q4 (Highest),High,1
+176.09520452297727,0,0,4,9,6.0,3,62,Male,Disabled,,Mild,Overweight,Older,4.962000000000001,Q2,Moderate,0
+15.775238932645228,0,1,9,11,9.8,2,47,Male,Unemployed,Mild,Moderate,Extreme Obesity,Older,7.347,Q4 (Highest),High,1
+160.77158607682213,0,0,7,8,7.4,2,25,Female,Unemployed,Mild,Mild,Overweight,Young,5.625000000000001,Q2,Moderate,0
+33.46670497515914,0,0,3,7,4.6,1,50,Male,Employed,,Mild,Normal,Older,3.5500000000000003,Q1 (Lowest),Moderate,0
+151.46415422136252,0,0,10,6,8.4,3,35,Male,Unemployed,Moderate,Mild,Obese,Middle,6.4350000000000005,Q3,High,1
+664.5556516180001,0,0,5,10,7.0,2,37,Male,Unemployed,Mild,Moderate,Obese,Middle,5.437,Q2,High,0
+346.8913354137873,0,0,6,6,6.0,2,53,Male,Unemployed,Mild,Mild,Normal,Older,4.6530000000000005,Q1 (Lowest),Moderate,0
+418.5200184867834,1,1,9,10,9.4,4,63,Male,Disabled,Mild,Moderate,Overweight,Older,7.462999999999999,Q4 (Highest),High,1
+255.7834097738985,0,0,4,10,6.4,3,45,Female,Unemployed,,Moderate,Overweight,Middle,5.244999999999999,Q2,High,0
+932.9225065416584,0,0,8,8,8.0,1,49,Male,Employed,Mild,Mild,Extreme Obesity,Older,5.849,Q3,Moderate,0
+284.35352216691905,1,1,12,5,9.2,3,70,Female,Unemployed,Moderate,Mild,Overweight,Elderly,6.970000000000001,Q4 (Highest),High,1
+40.20224728545119,0,1,12,7,10.0,3,48,Male,Unemployed,Moderate,Mild,Obese,Older,7.548,Q4 (Highest),High,1
+987.1797527057716,1,1,12,9,10.8,3,84,Female,Disabled,Moderate,Mild,Overweight,Elderly,8.184,Q4 (Highest),High,1
+52.11812866747058,1,1,9,5,7.399999999999999,2,53,Male,Unemployed,Mild,Mild,Obese,Older,5.553,Q2,Moderate,0
+2589.491319219515,0,0,4,7,5.2,3,18,Female,Disabled,,Mild,Extreme Obesity,Young,4.3180000000000005,Q1 (Lowest),Moderate,0
+208.63760934758432,0,1,9,9,9.0,4,56,Female,Disabled,Mild,Mild,Overweight,Older,7.156,Q4 (Highest),Moderate,1
+27.85882485834117,0,0,5,5,5.0,3,50,Male,Disabled,Mild,Mild,Overweight,Older,4.1499999999999995,Q1 (Lowest),Moderate,0
+728.4857794832925,1,1,6,7,6.4,2,64,Female,Unemployed,Mild,Mild,Normal,Older,4.964,Q2,Moderate,0
+35.581562145077974,0,0,7,4,5.800000000000001,1,55,Other,Employed,Mild,,Normal,Older,4.255,Q1 (Lowest),Moderate,0
+69.96467223973893,0,0,6,7,6.4,0,42,Female,Employed,Mild,Mild,Overweight,Middle,4.542,Q1 (Lowest),Moderate,0
+197.15969808361533,0,0,5,7,5.800000000000001,2,26,Female,Unemployed,Mild,Mild,Normal,Middle,4.526,Q1 (Lowest),Moderate,0
+411.56919621331366,1,1,9,7,8.2,4,41,Male,Disabled,Mild,Mild,Extreme Obesity,Middle,6.541,Q3,Moderate,1
+47.13233486379188,0,0,10,8,9.2,0,32,Female,Employed,Moderate,Mild,Normal,Middle,6.432,Q3,High,1
+355.6984780780319,0,1,11,5,8.6,2,36,Male,Unemployed,Moderate,Mild,Obese,Middle,6.336,Q3,High,1
+553.2982288647204,0,0,8,6,7.2,0,53,Male,Employed,Mild,Mild,Overweight,Older,5.053,Q2,Moderate,0
+48.11215739391491,0,1,8,12,9.6,2,70,Other,Unemployed,Mild,Moderate,Overweight,Elderly,7.2700000000000005,Q4 (Highest),High,1
+380.6603229937098,0,1,10,6,8.4,3,50,Male,Disabled,Moderate,Mild,Extreme Obesity,Older,6.45,Q3,High,1
+1164.773584468049,0,1,13,12,12.6,0,27,Female,Employed,Moderate,Moderate,Underweight,Middle,8.827,Q4 (Highest),High,1
+1249.5011188715412,0,0,11,6,9.0,2,51,Female,Unemployed,Moderate,Mild,Overweight,Older,6.651000000000001,Q3,High,1
+64.36214313687545,0,1,7,9,7.800000000000001,2,62,Female,Unemployed,Mild,Mild,Normal,Older,5.962000000000001,Q3,Moderate,0
+520.447712001602,0,0,9,6,7.8,0,35,Other,Employed,Mild,Mild,Underweight,Middle,5.4350000000000005,Q2,Moderate,0
+684.345015775451,0,0,8,5,6.8,2,42,Male,Unemployed,Mild,Mild,Normal,Middle,5.142,Q2,Moderate,0
+802.2312895024147,0,0,6,9,7.199999999999999,1,45,Male,Employed,Mild,Mild,Overweight,Middle,5.345,Q2,Moderate,0
+142.74822946530014,0,0,11,8,9.8,2,33,Male,Unemployed,Moderate,Mild,Normal,Middle,7.233000000000001,Q4 (Highest),High,1
+114.92865140492307,1,1,7,9,7.800000000000001,1,54,Male,Employed,Mild,Mild,Obese,Older,5.7540000000000004,Q3,Moderate,0
+17.90117493093064,0,0,9,9,9.0,3,43,Male,Disabled,Mild,Mild,Overweight,Middle,6.9430000000000005,Q4 (Highest),Moderate,1
+186.1301607387131,0,0,6,8,6.8,1,51,Male,Employed,Mild,Mild,Overweight,Older,5.051000000000001,Q2,Moderate,0
+48.30390779790757,0,0,5,9,6.6,2,31,Female,Unemployed,Mild,Mild,Overweight,Middle,5.130999999999999,Q2,Moderate,0
+563.1885740884234,1,1,11,2,7.399999999999999,3,38,Female,Disabled,Moderate,,Overweight,Middle,5.638,Q2,High,0
+56.31159963244913,0,0,6,8,6.8,3,55,Male,Disabled,Mild,Mild,Overweight,Older,5.455,Q2,Moderate,0
+623.6884411897795,0,0,10,6,8.4,1,39,Female,Employed,Moderate,Mild,Normal,Middle,6.039,Q3,High,0
+41.55744480762728,0,1,8,10,8.8,0,70,Male,Employed,Mild,Moderate,Obese,Elderly,6.2700000000000005,Q3,High,1
+239.11543557403024,0,1,13,3,9.0,0,39,Male,Employed,Moderate,,Normal,Middle,6.138999999999999,Q3,High,0
+177.22154722197433,0,0,9,6,7.8,3,48,Female,Disabled,Mild,Mild,Overweight,Older,6.048,Q3,Moderate,0
+335.8575460307766,0,0,5,7,5.800000000000001,4,58,Female,Disabled,Mild,Mild,Obese,Older,4.957999999999999,Q2,Moderate,0
+266.9660409482093,0,1,14,9,12.0,1,23,Female,Employed,Moderate,Mild,Overweight,Young,8.523,Q4 (Highest),High,1
+333.1949690473926,0,0,11,11,11.0,2,18,Male,Unemployed,Moderate,Moderate,Normal,Young,8.118,Q4 (Highest),High,1
+0.3519146942233886,0,0,7,4,5.800000000000001,3,22,Female,Disabled,Mild,,Obese,Young,4.622,Q1 (Lowest),Moderate,0
+49.784821356366976,0,0,14,5,10.4,1,63,Female,Employed,Moderate,Mild,Obese,Older,7.363,Q4 (Highest),High,1
+265.71543239215816,1,1,11,5,8.6,2,36,Female,Unemployed,Moderate,Mild,Overweight,Middle,6.336,Q3,High,1
+95.23989769061056,0,0,3,4,3.4,0,83,Female,Employed,,,Overweight,Elderly,2.4830000000000005,Q1 (Lowest),Low,0
+28.976075146746915,1,1,16,7,12.4,3,36,Female,Disabled,Moderately Severe,Mild,Overweight,Middle,9.136,Q4 (Highest),Very High,1
+89.61420389256143,0,0,6,6,6.0,4,47,Female,Disabled,Mild,Mild,Overweight,Older,5.047,Q2,Moderate,0
+552.4236910054882,0,0,4,4,4.0,0,68,Female,Employed,,,Normal,Elderly,2.868,Q1 (Lowest),Low,0
+284.7797155215039,1,1,7,6,6.6000000000000005,2,75,Other,Unemployed,Mild,Mild,Overweight,Elderly,5.075,Q2,Moderate,0
+76.9478234043922,1,1,13,9,11.4,3,75,Female,Disabled,Moderate,Mild,Obese,Elderly,8.575,Q4 (Highest),High,1
+5.879201920953134,0,0,7,8,7.4,1,63,Male,Employed,Mild,Mild,Obese,Older,5.463,Q2,Moderate,0
+161.52609886236428,1,1,9,7,8.2,0,60,Female,Employed,Mild,Mild,Overweight,Older,5.76,Q3,Moderate,0
+161.4545144205305,0,0,8,4,6.4,3,53,Male,Unemployed,Mild,,Obese,Older,5.053,Q2,Moderate,0

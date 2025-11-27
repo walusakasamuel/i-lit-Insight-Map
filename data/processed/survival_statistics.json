@@ -1,0 +1,8 @@
+{
+  "optimal_risk_cutpoint": 6.246,
+  "youden_index": 0.28535684498987246,
+  "cox_model_concordance": 0.6372726047702466,
+  "median_survival_all": 471.67155040198566,
+  "total_patients": 1500,
+  "total_events": 301
+}
