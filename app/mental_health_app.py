@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 import json
 from datetime import datetime
+import requests
 
 # Set page config
 st.set_page_config(
